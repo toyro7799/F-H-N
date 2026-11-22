@@ -1,0 +1,667 @@
+{
+  "exam_id": 7,
+  "slug": "autonomic-nervous-system",
+  "title": "Autonomic Nervous System: Questions",
+  "source_file": "7_Autonomic_Nervous_System_Questions.docx",
+  "notes": [],
+  "counts": {
+    "multiple_choice": 25,
+    "fill_in_the_blank": 25,
+    "study_questions": 6
+  },
+  "multiple_choice": [
+    {
+      "id": "mcq-1",
+      "number": 1,
+      "question": "Which structures in the eyes are considered part of the Central Nervous System (brain), structure-wise?",
+      "options": {
+        "A": "Pupils and iris",
+        "B": "Retina and optic nerve",
+        "C": "Lens and lacrimal glands",
+        "D": "Cornea and eyelids"
+      },
+      "answer": "B",
+      "answer_text": "Retina and optic nerve"
+    },
+    {
+      "id": "mcq-2",
+      "number": 2,
+      "question": "Which of the following sensory functions does NOT fall under the Somatic Nervous System?",
+      "options": {
+        "A": "Sound",
+        "B": "Smell",
+        "C": "Touch",
+        "D": "Vision"
+      },
+      "answer": "D",
+      "answer_text": "Vision"
+    },
+    {
+      "id": "mcq-3",
+      "number": 3,
+      "question": "Autonomic nerve fibres are carried in:",
+      "options": {
+        "A": "Cranial nerves only",
+        "B": "All spinal nerves and some of the cranial nerves",
+        "C": "Thoracic spinal nerves only",
+        "D": "Peripheral somatic muscles only"
+      },
+      "answer": "B",
+      "answer_text": "All spinal nerves and some of the cranial nerves"
+    },
+    {
+      "id": "mcq-4",
+      "number": 4,
+      "question": "Sympathetic stimulation produces which type of response?",
+      "options": {
+        "A": "Cholinergic response",
+        "B": "Adrenergic response",
+        "C": "Somatic response",
+        "D": "Serous response"
+      },
+      "answer": "B",
+      "answer_text": "Adrenergic response"
+    },
+    {
+      "id": "mcq-5",
+      "number": 5,
+      "question": "What is the movement of an impulse across a junction (nerve to nerve or nerve to organ/tissue) called?",
+      "options": {
+        "A": "Conduction or electrical transmission",
+        "B": "Junctional or chemical transmission",
+        "C": "Reflex arc",
+        "D": "Autonomic filtration"
+      },
+      "answer": "B",
+      "answer_text": "Junctional or chemical transmission"
+    },
+    {
+      "id": "mcq-6",
+      "number": 6,
+      "question": "Which division of the Autonomic Nervous System is anatomically referred to as \"Craniosacral\"?",
+      "options": {
+        "A": "Sympathetic Division",
+        "B": "Parasympathetic Division",
+        "C": "Somatic Division",
+        "D": "Thoracolumbar Division"
+      },
+      "answer": "B",
+      "answer_text": "Parasympathetic Division"
+    },
+    {
+      "id": "mcq-7",
+      "number": 7,
+      "question": "What is the sympathetic effect on the lens of the eye?",
+      "options": {
+        "A": "Near focus (increased curvature)",
+        "B": "Far focus (decreased curvature)",
+        "C": "Constriction",
+        "D": "No innervation"
+      },
+      "answer": "B",
+      "answer_text": "Far focus (decreased curvature)"
+    },
+    {
+      "id": "mcq-8",
+      "number": 8,
+      "question": "What is the parasympathetic effect on salivary gland secretion?",
+      "options": {
+        "A": "High in viscosity",
+        "B": "Serous",
+        "C": "Decreased secretion",
+        "D": "No innervation"
+      },
+      "answer": "B",
+      "answer_text": "Serous"
+    },
+    {
+      "id": "mcq-9",
+      "number": 9,
+      "question": "According to the ANS effects table, what is the parasympathetic effect on sweat glands and arteries to skeletal muscle?",
+      "options": {
+        "A": "Increased activity and dilation",
+        "B": "Constriction",
+        "C": "Relaxation",
+        "D": "No innervation"
+      },
+      "answer": "D",
+      "answer_text": "No innervation"
+    },
+    {
+      "id": "mcq-10",
+      "number": 10,
+      "question": "What is the sympathetic effect on the gastrointestinal tract?",
+      "options": {
+        "A": "Increased motility",
+        "B": "Decreased motility",
+        "C": "No innervation",
+        "D": "Increased filtration rate"
+      },
+      "answer": "B",
+      "answer_text": "Decreased motility"
+    },
+    {
+      "id": "mcq-11",
+      "number": 11,
+      "question": "Which part of the Autonomic Nervous System manages how your body digests food?",
+      "options": {
+        "A": "Somatic nervous system",
+        "B": "Enteric nervous system",
+        "C": "Central nervous system",
+        "D": "Cranial nerve III"
+      },
+      "answer": "B",
+      "answer_text": "Enteric nervous system"
+    },
+    {
+      "id": "mcq-12",
+      "number": 12,
+      "question": "Which branch of the ANS can trigger reactions from the immune system, such as in infections, asthma attacks, and allergic reactions?",
+      "options": {
+        "A": "Sympathetic nervous system",
+        "B": "Parasympathetic nervous system",
+        "C": "Somatic nervous system",
+        "D": "Thoracolumbar division"
+      },
+      "answer": "B",
+      "answer_text": "Parasympathetic nervous system"
+    },
+    {
+      "id": "mcq-13",
+      "number": 13,
+      "question": "What function does the ANS regulate in the liver?",
+      "options": {
+        "A": "Releasing insulin",
+        "B": "Filtering urine",
+        "C": "Converting stored energy molecules into glucose that cells can use",
+        "D": "Producing tears"
+      },
+      "answer": "C",
+      "answer_text": "Converting stored energy molecules into glucose that cells can use"
+    },
+    {
+      "id": "mcq-14",
+      "number": 14,
+      "question": "Out of the 12 cranial nerves, the ANS has nerve fibres in which four?",
+      "options": {
+        "A": "1st, 2nd, 5th, and 8th",
+        "B": "3rd, 7th, 9th, and 10th",
+        "C": "4th, 6th, 11th, and 12th",
+        "D": "2nd, 4th, 7th, and 12th"
+      },
+      "answer": "B",
+      "answer_text": "3rd, 7th, 9th, and 10th"
+    },
+    {
+      "id": "mcq-15",
+      "number": 15,
+      "question": "How many total spinal nerves exist, most of which are used by the ANS (in the thoracic, lumbar, and sacral regions)?",
+      "options": {
+        "A": "12",
+        "B": "24",
+        "C": "31",
+        "D": "45"
+      },
+      "answer": "C",
+      "answer_text": "31"
+    },
+    {
+      "id": "mcq-16",
+      "number": 16,
+      "question": "What is \"orthostatic hypotension\" caused by unmanaged Type 2 diabetes?",
+      "options": {
+        "A": "Blood pressure rises sharply during sleep",
+        "B": "Blood pressure drops when you stand up",
+        "C": "Heart rate stops during exercise",
+        "D": "Blood glucose drops when lying down"
+      },
+      "answer": "B",
+      "answer_text": "Blood pressure drops when you stand up"
+    },
+    {
+      "id": "mcq-17",
+      "number": 17,
+      "question": "Which condition causes long-term nerve damage because malfunctioning protein molecules build up in various parts of the body?",
+      "options": {
+        "A": "Amyloidosis",
+        "B": "Multiple system atrophy",
+        "C": "Botulism",
+        "D": "Tetanus"
+      },
+      "answer": "A",
+      "answer_text": "Amyloidosis"
+    },
+    {
+      "id": "mcq-18",
+      "number": 18,
+      "question": "Which severe condition damaging autonomic nerves over time is described as similar to Parkinson's disease?",
+      "options": {
+        "A": "Guillain-Barré syndrome",
+        "B": "Hirschsprung's disease",
+        "C": "Multiple system atrophy",
+        "D": "Chagas disease"
+      },
+      "answer": "C",
+      "answer_text": "Multiple system atrophy"
+    },
+    {
+      "id": "mcq-19",
+      "number": 19,
+      "question": "Which toxic heavy metals are mentioned as poisons that can damage autonomic nerves?",
+      "options": {
+        "A": "Iron and zinc",
+        "B": "Mercury and lead",
+        "C": "Calcium and potassium",
+        "D": "Copper and magnesium"
+      },
+      "answer": "B",
+      "answer_text": "Mercury and lead"
+    },
+    {
+      "id": "mcq-20",
+      "number": 20,
+      "question": "Which condition is an autoimmune and inflammatory disorder where the body's immune system attacks the nerves, causing weakness, numbness, or paralysis?",
+      "options": {
+        "A": "Amyloidosis",
+        "B": "Guillain-Barré syndrome",
+        "C": "Lyme disease",
+        "D": "Gastroparesis"
+      },
+      "answer": "B",
+      "answer_text": "Guillain-Barré syndrome"
+    },
+    {
+      "id": "mcq-21",
+      "number": 21,
+      "question": "Hirschsprung's disease affects which organ and causes what problem?",
+      "options": {
+        "A": "Lungs; difficulty breathing",
+        "B": "Large intestine (colon); problems with passing stool",
+        "C": "Heart; arrhythmias",
+        "D": "Bladder; urinary incontinence"
+      },
+      "answer": "B",
+      "answer_text": "Large intestine (colon); problems with passing stool"
+    },
+    {
+      "id": "mcq-22",
+      "number": 22,
+      "question": "Chagas disease is caused by the parasite Trypanosoma cruzi, which is spread by which insect?",
+      "options": {
+        "A": "Mosquito",
+        "B": "Tick",
+        "C": "Triatomine bug (\"kissing bug\")",
+        "D": "Housefly"
+      },
+      "answer": "C",
+      "answer_text": "Triatomine bug (\"kissing bug\")"
+    },
+    {
+      "id": "mcq-23",
+      "number": 23,
+      "question": "According to the handout, Lyme disease is an illness caused by:",
+      "options": {
+        "A": "A virus (HIV)",
+        "B": "Borrelia (spelled \"borrielia\" in the handout) bacteria",
+        "C": "Trypanosoma cruzi parasite",
+        "D": "Toxic heavy metals"
+      },
+      "answer": "B",
+      "answer_text": "Borrelia (spelled \"borrielia\" in the handout) bacteria"
+    },
+    {
+      "id": "mcq-24",
+      "number": 24,
+      "question": "What is the medical term listed for \"trouble swallowing\" as a symptom of ANS damage?",
+      "options": {
+        "A": "Gastroparesis",
+        "B": "Dysphagia",
+        "C": "Anhidrosis",
+        "D": "Hyperhidrosis"
+      },
+      "answer": "B",
+      "answer_text": "Dysphagia"
+    },
+    {
+      "id": "mcq-25",
+      "number": 25,
+      "question": "What does \"anhidrosis\" mean as a symptom of ANS damage?",
+      "options": {
+        "A": "Sweating too much",
+        "B": "Not sweating enough",
+        "C": "Bladder incontinence",
+        "D": "Heart rhythm problems"
+      },
+      "answer": "B",
+      "answer_text": "Not sweating enough"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "id": "fib-1",
+      "number": 1,
+      "question": "The Autonomic Nervous System (ANS) is also known as the __________ system.",
+      "answer": "involuntary",
+      "accepted_answers": [
+        "involuntary"
+      ]
+    },
+    {
+      "id": "fib-2",
+      "number": 2,
+      "question": "The __________ nervous system includes every part of your nervous system EXCEPT the brain and spinal cord.",
+      "answer": "peripheral",
+      "accepted_answers": [
+        "peripheral"
+      ]
+    },
+    {
+      "id": "fib-3",
+      "number": 3,
+      "question": "Higher centres of the autonomic nervous system are located in the __________ and __________.",
+      "answer": "brain; spinal cord",
+      "accepted_answers": [
+        "brain; spinal cord"
+      ]
+    },
+    {
+      "id": "fib-4",
+      "number": 4,
+      "question": "The sympathetic nervous system is responsible for the body's ________ response, while the parasympathetic nervous system is responsible for ________ body processes.",
+      "answer": "fight-or-flight; rest-and-digest",
+      "accepted_answers": [
+        "fight-or-flight; rest-and-digest"
+      ]
+    },
+    {
+      "id": "fib-5",
+      "number": 5,
+      "question": "Parasympathetic stimulation produces a __________ response.",
+      "answer": "cholinergic",
+      "accepted_answers": [
+        "cholinergic"
+      ]
+    },
+    {
+      "id": "fib-6",
+      "number": 6,
+      "question": "Movement of an impulse along a nerve or muscle cell is called __________, or electrical transmission.",
+      "answer": "conduction",
+      "accepted_answers": [
+        "conduction"
+      ]
+    },
+    {
+      "id": "fib-7",
+      "number": 7,
+      "question": "The Sympathetic Division is anatomically referred to as __________, originating from the Thoracic and Lumbar spinal regions.",
+      "answer": "Thoracolumbar",
+      "accepted_answers": [
+        "Thoracolumbar"
+      ]
+    },
+    {
+      "id": "fib-8",
+      "number": 8,
+      "question": "In the pupil, sympathetic stimulation causes __________, whereas parasympathetic stimulation causes __________.",
+      "answer": "dilation; constriction",
+      "accepted_answers": [
+        "dilation; constriction"
+      ]
+    },
+    {
+      "id": "fib-9",
+      "number": 9,
+      "question": "In the lungs, sympathetic stimulation causes __________ of respiratory passages, while parasympathetic stimulation causes __________.",
+      "answer": "dilation; constriction",
+      "accepted_answers": [
+        "dilation; constriction"
+      ]
+    },
+    {
+      "id": "fib-10",
+      "number": 10,
+      "question": "In the kidneys, sympathetic stimulation causes __________ filtration rate, whereas parasympathetic stimulation causes __________ filtration rate.",
+      "answer": "decreased; increased",
+      "accepted_answers": [
+        "decreased; increased"
+      ]
+    },
+    {
+      "id": "fib-11",
+      "number": 11,
+      "question": "On male genitalia, sympathetic stimulation causes __________, while parasympathetic stimulation causes __________.",
+      "answer": "ejaculation; erection",
+      "accepted_answers": [
+        "ejaculation; erection"
+      ]
+    },
+    {
+      "id": "fib-12",
+      "number": 12,
+      "question": "On the skin, the ANS controls sweating and the muscles that cause hair to stand up, a reaction commonly called \"__________\" or \"gooseflesh.\"",
+      "answer": "goosebumps",
+      "accepted_answers": [
+        "goosebumps"
+      ]
+    },
+    {
+      "id": "fib-13",
+      "number": 13,
+      "question": "The ANS regulates when your __________ releases insulin and other hormones.",
+      "answer": "pancreas",
+      "accepted_answers": [
+        "pancreas"
+      ]
+    },
+    {
+      "id": "fib-14",
+      "number": 14,
+      "question": "Cranial nerves use __________ numerals to set them apart, and the ANS has fibres in the 3rd, __________, 9th, and 10th cranial nerves.",
+      "answer": "Roman; 7th",
+      "accepted_answers": [
+        "Roman; 7th"
+      ]
+    },
+    {
+      "id": "fib-15",
+      "number": 15,
+      "question": "Diabetic __________ can damage the nerves that normally trigger a blood pressure increase reflex when you stand.",
+      "answer": "neuropathy",
+      "accepted_answers": [
+        "neuropathy"
+      ]
+    },
+    {
+      "id": "fib-16",
+      "number": 16,
+      "question": "Congenital and genetic conditions are disorders present at __________; an example affecting the ANS is __________ disease.",
+      "answer": "birth; Hirschsprung's",
+      "accepted_answers": [
+        "birth; Hirschsprung's"
+      ]
+    },
+    {
+      "id": "fib-17",
+      "number": 17,
+      "question": "Nerve damage can happen due to viruses such as __________ or bacterial infections such as Lyme disease, __________, or tetanus.",
+      "answer": "HIV; botulism",
+      "accepted_answers": [
+        "HIV; botulism"
+      ]
+    },
+    {
+      "id": "fib-18",
+      "number": 18,
+      "question": "In addition to heavy metals and industrial chemicals, __________ can also have toxic effects on autonomic nerves.",
+      "answer": "alcohol",
+      "accepted_answers": [
+        "alcohol"
+      ]
+    },
+    {
+      "id": "fib-19",
+      "number": 19,
+      "question": "__________ (both cancer and benign growths) can disrupt the autonomic nervous system.",
+      "answer": "Tumours",
+      "accepted_answers": [
+        "Tumours"
+      ]
+    },
+    {
+      "id": "fib-20",
+      "number": 20,
+      "question": "Symptoms of __________ syndrome include rapid muscle weakness, pain in limbs and spine, chest muscle weakness, and paralysis of legs, arms, and/or facial muscles.",
+      "answer": "Guillain-Barré",
+      "accepted_answers": [
+        "Guillain-Barré"
+      ]
+    },
+    {
+      "id": "fib-21",
+      "number": 21,
+      "question": "__________ is caused by a toxin that attacks the body's nerves and causes difficulty breathing, muscle paralysis, and even death.",
+      "answer": "Botulism",
+      "accepted_answers": [
+        "Botulism"
+      ]
+    },
+    {
+      "id": "fib-22",
+      "number": 22,
+      "question": "__________ is a serious disease of the nervous system caused by a toxin-producing bacterium.",
+      "answer": "Tetanus",
+      "accepted_answers": [
+        "Tetanus"
+      ]
+    },
+    {
+      "id": "fib-23",
+      "number": 23,
+      "question": "Heart rhythm problems resulting from ANS damage include __________.",
+      "answer": "arrhythmias",
+      "accepted_answers": [
+        "arrhythmias"
+      ]
+    },
+    {
+      "id": "fib-24",
+      "number": 24,
+      "question": "Trouble digesting food as a symptom of ANS damage includes __________.",
+      "answer": "gastroparesis",
+      "accepted_answers": [
+        "gastroparesis"
+      ]
+    },
+    {
+      "id": "fib-25",
+      "number": 25,
+      "question": "Sweating too much as a symptom of ANS damage is called __________.",
+      "answer": "hyperhidrosis",
+      "accepted_answers": [
+        "hyperhidrosis"
+      ]
+    }
+  ],
+  "study_questions": [
+    {
+      "id": "study-1",
+      "number": 1,
+      "type": "points_with_explanation",
+      "question": "What are the effects of the sympathetic and parasympathetic branches on each organ?",
+      "answer": [
+        "Pupil: sympathetic causes dilation; parasympathetic causes constriction.",
+        "Lens: sympathetic gives far focus (decreased curvature); parasympathetic gives near focus (increased curvature).",
+        "Salivary gland: sympathetic causes secretion high in viscosity; parasympathetic causes serous secretion.",
+        "Heart: sympathetic increases rate and pressure; parasympathetic lowers rate and pressure.",
+        "Lungs: sympathetic dilates respiratory passages; parasympathetic constricts them.",
+        "Gastrointestinal tract: sympathetic decreases motility; parasympathetic increases motility.",
+        "Kidneys: sympathetic decreases filtration rate; parasympathetic increases filtration rate.",
+        "Male genitalia: sympathetic causes ejaculation; parasympathetic causes erection.",
+        "Vascular smooth muscle: sympathetic effect varies depending on the neurotransmitter; parasympathetic causes relaxation.",
+        "Sweat glands: sympathetic increases activity; parasympathetic has no innervation.",
+        "Arteries to skeletal muscle: sympathetic causes dilation; parasympathetic has no innervation.",
+        "Veins: sympathetic effect varies depending on the neurotransmitter; parasympathetic has no innervation."
+      ]
+    },
+    {
+      "id": "study-2",
+      "number": 3,
+      "type": "points_with_explanation",
+      "question": "What are the effects of the ANS on body systems?",
+      "answer": [
+        "Eyes: manages pupil width and the muscles used for focusing. It does not involve vision directly.",
+        "Lacrimal, nasopharyngeal, and salivary glands: controls tears, how the nose runs, and when the mouth waters.",
+        "Skin: controls sweating and the muscles that make hair stand up (goosebumps or gooseflesh).",
+        "Heart and circulatory system: regulates how fast and hard the heart pumps and the width of blood vessels, which helps manage heart rate and blood pressure.",
+        "Immune system: the parasympathetic system can trigger immune reactions, such as in infections, asthma attacks, and allergic reactions.",
+        "Lungs: manages the width of the airway and the passages that carry air into and out of the lungs.",
+        "Intestines and colon: manages digestion from the small intestine to the colon, and keeps the rectal muscles closed until you are ready to defecate.",
+        "Liver and pancreas: regulates when the pancreas releases insulin and other hormones, and when the liver converts stored energy molecules into glucose.",
+        "Urinary tract: manages the bladder muscles, including those that keep it closed until you are ready to urinate.",
+        "Reproductive system: plays a key role in sexual functions, including arousal (erections and lubricating fluids) and the ability to orgasm."
+      ]
+    },
+    {
+      "id": "study-3",
+      "number": 4,
+      "type": "points_with_explanation",
+      "question": "What conditions and disorders affect the ANS?",
+      "answer": [
+        "Type 2 diabetes: unmanaged diabetes can damage the ANS over time. An example is orthostatic hypotension, where blood pressure drops when you stand up, because diabetic neuropathy damages the nerves that normally raise blood pressure when you stand.",
+        "Amyloidosis: causes long-term nerve damage because malfunctioning protein molecules build up in various parts of the body.",
+        "Autoimmune and inflammatory conditions: for example, Guillain-Barré syndrome.",
+        "Congenital and genetic conditions: disorders present at birth that are inherited from one or both parents, for example Hirschsprung's disease.",
+        "Infections: viruses such as HIV, bacteria from insect bites that cause Lyme disease, botulism, and tetanus can damage nerves.",
+        "Multiple system atrophy: a severe condition similar to Parkinson's disease that damages autonomic nerves over time.",
+        "Poisons and toxins: toxic heavy metals such as mercury or lead, many industrial chemicals, and alcohol can damage autonomic nerves.",
+        "Trauma: injuries can cause long-term or permanent nerve damage, especially spinal cord injuries that cut off autonomic connections farther down.",
+        "Tumours: both cancerous and benign (harmless) growths can disrupt the ANS."
+      ]
+    },
+    {
+      "id": "study-4",
+      "number": 5,
+      "type": "points_with_explanation",
+      "question": "What is Guillain-Barré syndrome and what are its symptoms?",
+      "answer": [
+        "Rapid muscle weakness",
+        "Pain in the limbs and spine",
+        "Paralysis of the legs, arms, and/or facial muscles",
+        "Chest muscle weakness and difficulty breathing",
+        "Difficulty speaking and swallowing",
+        "Abnormal sensations such as tingling",
+        "Imbalance and clumsiness"
+      ]
+    },
+    {
+      "id": "study-5",
+      "number": 6,
+      "type": "points_with_explanation",
+      "question": "What are the infections that can damage nerves, and what are their details?",
+      "answer": [
+        "Lyme disease: an illness caused by Borrelia bacteria, which are spread by insect bites.",
+        "Chagas disease: caused by the parasite Trypanosoma cruzi, which is spread by the triatomine bug, also called the 'kissing bug'.",
+        "Botulism: caused by a toxin that attacks the body's nerves and causes difficulty breathing, muscle paralysis, and even death.",
+        "Tetanus: a serious disease of the nervous system caused by a toxin-producing bacterium.."
+      ]
+    },
+    {
+      "id": "study-6",
+      "number": 7,
+      "type": "points_with_explanation",
+      "question": "What are the most likely signs and symptoms of ANS damage?",
+      "answer": [
+        "Heart rhythm problems, including arrhythmias",
+        "Dizziness or passing out when standing up",
+        "Trouble swallowing (dysphagia)",
+        "Trouble digesting food, including gastroparesis",
+        "Constipation",
+        "Incontinence (bladder or bowel)",
+        "Sexual dysfunction",
+        "Sweating too much (hyperhidrosis) or not sweating enough (anhidrosis)",
+        "Problems tolerating hot temperatures"
+      ]
+    }
+  ]
+}

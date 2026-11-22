@@ -1,0 +1,715 @@
+{
+  "exam_id": 8,
+  "slug": "vertebral-column-spinal-cord",
+  "title": "Vertebral Column & Spinal Cord: Questions",
+  "source_file": "8_Vertebral_Column_Spinal_Cord_Questions.docx",
+  "notes": [],
+  "counts": {
+    "multiple_choice": 25,
+    "fill_in_the_blank": 25,
+    "study_questions": 13
+  },
+  "multiple_choice": [
+    {
+      "id": "mcq-1",
+      "number": 1,
+      "question": "What is the length of the human vertebral column in males and females?",
+      "options": {
+        "A": "61 cm in males and 71 cm in females",
+        "B": "71 cm in males and 61 cm in females",
+        "C": "45 cm in males and 40 cm in females",
+        "D": "80 cm in males and 70 cm in females"
+      },
+      "answer": "B",
+      "answer_text": "71 cm in males and 61 cm in females"
+    },
+    {
+      "id": "mcq-2",
+      "number": 2,
+      "question": "Which of the following represents the typical breakdown of the 33 human vertebrae?",
+      "options": {
+        "A": "8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 3 coccygeal",
+        "B": "7 cervical, 12 thoracic, 5 lumbar, 5 sacral, 4 caudal (coccygeal)",
+        "C": "7 cervical, 10 thoracic, 6 lumbar, 5 sacral, 5 coccygeal",
+        "D": "5 cervical, 12 thoracic, 7 lumbar, 5 sacral, 4 coccygeal"
+      },
+      "answer": "B",
+      "answer_text": "7 cervical, 12 thoracic, 5 lumbar, 5 sacral, 4 caudal (coccygeal)"
+    },
+    {
+      "id": "mcq-3",
+      "number": 3,
+      "question": "Besides supporting the trunk, protecting the spinal cord, and providing muscle attachments, what physiological role does the vertebral column serve?",
+      "options": {
+        "A": "Gas exchange",
+        "B": "Digestion",
+        "C": "Site for haemopoiesis",
+        "D": "Insulin secretion"
+      },
+      "answer": "C",
+      "answer_text": "Site for haemopoiesis"
+    },
+    {
+      "id": "mcq-4",
+      "number": 4,
+      "question": "Which lowest vertebrae are fused together and do NOT move?",
+      "options": {
+        "A": "Cervical and thoracic",
+        "B": "Thoracic and lumbar",
+        "C": "Sacrum and coccyx",
+        "D": "Lumbar and sacrum"
+      },
+      "answer": "C",
+      "answer_text": "Sacrum and coccyx"
+    },
+    {
+      "id": "mcq-5",
+      "number": 5,
+      "question": "What are the two structural parts of an intervertebral disk?",
+      "options": {
+        "A": "Dura mater and pia mater",
+        "B": "Soft gel-like centre (nucleus pulposus) and flexible outer ring (annulus fibrosus)",
+        "C": "Cartilage and tendon",
+        "D": "Conus medullaris and cauda equina"
+      },
+      "answer": "B",
+      "answer_text": "Soft gel-like centre (nucleus pulposus) and flexible outer ring (annulus fibrosus)"
+    },
+    {
+      "id": "mcq-6",
+      "number": 6,
+      "question": "Through which openings do the 31 pairs of spinal nerves branch out from the spinal canal?",
+      "options": {
+        "A": "Medulla oblongata",
+        "B": "Neural foramen (vertebral openings)",
+        "C": "Facet joints",
+        "D": "Subarachnoid space"
+      },
+      "answer": "B",
+      "answer_text": "Neural foramen (vertebral openings)"
+    },
+    {
+      "id": "mcq-7",
+      "number": 7,
+      "question": "Which soft tissue connects muscles to bone and helps prevent muscle injury while aiding in movement?",
+      "options": {
+        "A": "Ligaments",
+        "B": "Cartilage",
+        "C": "Tendons",
+        "D": "Meninges"
+      },
+      "answer": "C",
+      "answer_text": "Tendons"
+    },
+    {
+      "id": "mcq-8",
+      "number": 8,
+      "question": "What is the most common symptom of spine conditions?",
+      "options": {
+        "A": "Loss of bladder control",
+        "B": "Back pain or neck pain",
+        "C": "Paralysis",
+        "D": "Muscle spasms"
+      },
+      "answer": "B",
+      "answer_text": "Back pain or neck pain"
+    },
+    {
+      "id": "mcq-9",
+      "number": 9,
+      "question": "Which diagnostic test is specifically used to measure bone density when checking spine health?",
+      "options": {
+        "A": "Electromyography (EMG)",
+        "B": "Spinal tap (lumbar puncture)",
+        "C": "DEXA (DXA) bone density test",
+        "D": "MRI"
+      },
+      "answer": "C",
+      "answer_text": "DEXA (DXA) bone density test"
+    },
+    {
+      "id": "mcq-10",
+      "number": 10,
+      "question": "Which of the following are surgical procedures used to treat spine conditions?",
+      "options": {
+        "A": "Discectomy, foraminotomy, and fusion",
+        "B": "Lumbar puncture and EMG",
+        "C": "Acupuncture and chiropractic adjustments",
+        "D": "Nerve blocks and muscle relaxants"
+      },
+      "answer": "A",
+      "answer_text": "Discectomy, foraminotomy, and fusion"
+    },
+    {
+      "id": "mcq-11",
+      "number": 11,
+      "question": "Which reflex is given as an example of an involuntary movement managed by the spinal cord without involving the brain?",
+      "options": {
+        "A": "Cough reflex",
+        "B": "Patellar reflex",
+        "C": "Pupil dilation reflex",
+        "D": "Swallowing reflex"
+      },
+      "answer": "B",
+      "answer_text": "Patellar reflex"
+    },
+    {
+      "id": "mcq-12",
+      "number": 12,
+      "question": "Which layer of the meninges is the outer layer that protects the spinal cord from injury?",
+      "options": {
+        "A": "Pia mater",
+        "B": "Arachnoid mater",
+        "C": "Dura mater",
+        "D": "Subarachnoid layer"
+      },
+      "answer": "C",
+      "answer_text": "Dura mater"
+    },
+    {
+      "id": "mcq-13",
+      "number": 13,
+      "question": "Where is the epidural space located?",
+      "options": {
+        "A": "Between the arachnoid mater and pia mater",
+        "B": "Between the dura mater and arachnoid mater",
+        "C": "Inside the nucleus pulposus",
+        "D": "Below the conus medullaris"
+      },
+      "answer": "B",
+      "answer_text": "Between the dura mater and arachnoid mater"
+    },
+    {
+      "id": "mcq-14",
+      "number": 14,
+      "question": "Which fluid is found in the subarachnoid space to provide extra cushioning and protection for the spinal cord?",
+      "options": {
+        "A": "Pleural fluid",
+        "B": "Cerebrospinal fluid (CSF)",
+        "C": "Synovial fluid",
+        "D": "Plasma"
+      },
+      "answer": "B",
+      "answer_text": "Cerebrospinal fluid (CSF)"
+    },
+    {
+      "id": "mcq-15",
+      "number": 15,
+      "question": "What does the Latin term \"cauda equina\" mean?",
+      "options": {
+        "A": "Spinal cone",
+        "B": "Horse's tail",
+        "C": "Hard mother",
+        "D": "Narrowing canal"
+      },
+      "answer": "B",
+      "answer_text": "Horse's tail"
+    },
+    {
+      "id": "mcq-16",
+      "number": 16,
+      "question": "According to Page 5, how many pairs of cervical and thoracic nerves are in the spinal cord?",
+      "options": {
+        "A": "7 cervical and 12 thoracic",
+        "B": "8 cervical and 12 thoracic",
+        "C": "8 cervical and 10 thoracic",
+        "D": "5 cervical and 5 thoracic"
+      },
+      "answer": "B",
+      "answer_text": "8 cervical and 12 thoracic"
+    },
+    {
+      "id": "mcq-17",
+      "number": 17,
+      "question": "Where does the spinal cord begin, and what cone-shaped structure does it form at the lower back?",
+      "options": {
+        "A": "Begins at cerebellum; forms cauda equina",
+        "B": "Begins at medulla oblongata (bottom of brainstem); forms conus medullaris",
+        "C": "Begins at thalamus; forms neural foramen",
+        "D": "Begins at occipital bone; forms coccyx"
+      },
+      "answer": "B",
+      "answer_text": "Begins at medulla oblongata (bottom of brainstem); forms conus medullaris"
+    },
+    {
+      "id": "mcq-18",
+      "number": 18,
+      "question": "In most adults, approximately how long is the spinal cord?",
+      "options": {
+        "A": "10 inches (25 cm)",
+        "B": "18 inches (45 cm)",
+        "C": "24 inches (61 cm)",
+        "D": "28 inches (71 cm)"
+      },
+      "answer": "B",
+      "answer_text": "18 inches (45 cm)"
+    },
+    {
+      "id": "mcq-19",
+      "number": 19,
+      "question": "Which condition is defined as inflammation in one or more segments of the spinal cord?",
+      "options": {
+        "A": "Cervical spondylosis",
+        "B": "Acute transverse myelitis",
+        "C": "Spinal stenosis",
+        "D": "Osteoporosis"
+      },
+      "answer": "B",
+      "answer_text": "Acute transverse myelitis"
+    },
+    {
+      "id": "mcq-20",
+      "number": 20,
+      "question": "In spinal fractures, what is the difference between a compression fracture and a burst fracture?",
+      "options": {
+        "A": "Compression = broken vertebrae; Burst = slipped disk",
+        "B": "Compression = crushed vertebrae; Burst = broken vertebrae",
+        "C": "Compression = inflamed nerve; Burst = torn ligament",
+        "D": "Compression = bone spur; Burst = spinal tumour"
+      },
+      "answer": "B",
+      "answer_text": "Compression = crushed vertebrae; Burst = broken vertebrae"
+    },
+    {
+      "id": "mcq-21",
+      "number": 21,
+      "question": "Which rare genetic condition causes people to lose motor nerve cells in the spinal cord, leading to muscle weakness and atrophy?",
+      "options": {
+        "A": "Ankylosing spondylitis",
+        "B": "Spinal muscular atrophy",
+        "C": "Spina bifida",
+        "D": "Osteomyelitis"
+      },
+      "answer": "B",
+      "answer_text": "Spinal muscular atrophy"
+    },
+    {
+      "id": "mcq-22",
+      "number": 22,
+      "question": "What is the difference between a SPRAIN and a STRAIN?",
+      "options": {
+        "A": "Sprain affects muscles/tendons; Strain affects ligaments",
+        "B": "Sprain affects ligaments; Strain affects muscles or tendons",
+        "C": "Sprain affects bones; Strain affects cartilage",
+        "D": "Both terms only refer to fractured vertebrae"
+      },
+      "answer": "B",
+      "answer_text": "Sprain affects ligaments; Strain affects muscles or tendons"
+    },
+    {
+      "id": "mcq-23",
+      "number": 23,
+      "question": "What is the main cause of Bone Spurs (Osteophytes)?",
+      "options": {
+        "A": "Joint damage associated with osteoarthritis",
+        "B": "Bacterial infection of the meninges",
+        "C": "Incomplete closure of the spine during pregnancy",
+        "D": "Loss of motor nerve cells"
+      },
+      "answer": "A",
+      "answer_text": "Joint damage associated with osteoarthritis"
+    },
+    {
+      "id": "mcq-24",
+      "number": 24,
+      "question": "How is Scoliosis characterized?",
+      "options": {
+        "A": "Forward rounding of the back (hunchback)",
+        "B": "Sideways curve of the spine, often shaped like an 'S' or 'C'",
+        "C": "Narrowing of the spinal canal",
+        "D": "Crushing of cervical vertebrae"
+      },
+      "answer": "B",
+      "answer_text": "Sideways curve of the spine, often shaped like an 'S' or 'C'"
+    },
+    {
+      "id": "mcq-25",
+      "number": 25,
+      "question": "Where does a herniated disk most often occur?",
+      "options": {
+        "A": "In the upper neck only",
+        "B": "In the thoracic region",
+        "C": "In the lower back",
+        "D": "In the coccyx"
+      },
+      "answer": "C",
+      "answer_text": "In the lower back"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "id": "fib-1",
+      "number": 1,
+      "question": "The vertebral column runs from the inferior aspect of the __________ bone of the skull to the tip of the __________.",
+      "answer": "occipital; coccyx",
+      "accepted_answers": [
+        "occipital; coccyx"
+      ]
+    },
+    {
+      "id": "fib-2",
+      "number": 2,
+      "question": "In humans, the vertebral column usually consists of 33 vertebrae, though the number can vary between __________ and __________.",
+      "answer": "32; 35",
+      "accepted_answers": [
+        "32; 35"
+      ]
+    },
+    {
+      "id": "fib-3",
+      "number": 3,
+      "question": "__________ joints have cartilage (a slippery connective tissue) that allows vertebrae to slide against each other and provide flexibility and stability.",
+      "answer": "Facet",
+      "accepted_answers": [
+        "Facet"
+      ]
+    },
+    {
+      "id": "fib-4",
+      "number": 4,
+      "question": "Intervertebral disks sit between the vertebrae and act as the spine's __________.",
+      "answer": "shock absorbers",
+      "accepted_answers": [
+        "shock absorbers"
+      ]
+    },
+    {
+      "id": "fib-5",
+      "number": 5,
+      "question": "Under constant pressure, the __________ may squeeze out of an intervertebral disk and contact nerves, leading to symptoms like __________.",
+      "answer": "nucleus pulposus; sciatica",
+      "accepted_answers": [
+        "nucleus pulposus; sciatica"
+      ]
+    },
+    {
+      "id": "fib-6",
+      "number": 6,
+      "question": "__________ connect the vertebrae to hold our spine in position.",
+      "answer": "Ligaments",
+      "accepted_answers": [
+        "Ligaments"
+      ]
+    },
+    {
+      "id": "fib-7",
+      "number": 7,
+      "question": "__________ (EMG) and __________ (lumbar puncture) are among the tests used to check the health of the spine.",
+      "answer": "Electromyography; spinal tap",
+      "accepted_answers": [
+        "Electromyography; spinal tap"
+      ]
+    },
+    {
+      "id": "fib-8",
+      "number": 8,
+      "question": "Amyotrophic lateral sclerosis is an example of a __________ disease that can affect the spine.",
+      "answer": "neuromuscular",
+      "accepted_answers": [
+        "neuromuscular"
+      ]
+    },
+    {
+      "id": "fib-9",
+      "number": 9,
+      "question": "The spinal cord is a cylindrical structure that runs through the centre of the spine, from the __________ to the low back.",
+      "answer": "brainstem",
+      "accepted_answers": [
+        "brainstem"
+      ]
+    },
+    {
+      "id": "fib-10",
+      "number": 10,
+      "question": "The three crucial functions of the spinal cord's nerve messages are to control body movements and functions, report __________ to the brain, and manage __________.",
+      "answer": "senses; reflexes",
+      "accepted_answers": [
+        "senses; reflexes"
+      ]
+    },
+    {
+      "id": "fib-11",
+      "number": 11,
+      "question": "The three main parts of the spinal cord are __________, __________, and lumbar.",
+      "answer": "cervical; thoracic",
+      "accepted_answers": [
+        "cervical; thoracic"
+      ]
+    },
+    {
+      "id": "fib-12",
+      "number": 12,
+      "question": "The middle layer of the meninges is the __________ mater, and the inner layer covering the spinal cord is the __________ mater.",
+      "answer": "arachnoid; pia",
+      "accepted_answers": [
+        "arachnoid; pia"
+      ]
+    },
+    {
+      "id": "fib-13",
+      "number": 13,
+      "question": "Healthcare providers insert anaesthetics during childbirth into the __________ space, a procedure known as __________.",
+      "answer": "epidural; epidurals",
+      "accepted_answers": [
+        "epidural; epidurals"
+      ]
+    },
+    {
+      "id": "fib-14",
+      "number": 14,
+      "question": "Along the spinal cord, there are __________ lumbar nerve pairs and __________ sacral nerve pairs.",
+      "answer": "five; five",
+      "accepted_answers": [
+        "five; five"
+      ]
+    },
+    {
+      "id": "fib-15",
+      "number": 15,
+      "question": "Electrical nerve signals sent by spinal nerves help us feel sensations through __________ nerves and move our body through __________ nerves.",
+      "answer": "sensory; motor",
+      "accepted_answers": [
+        "sensory; motor"
+      ]
+    },
+    {
+      "id": "fib-16",
+      "number": 16,
+      "question": "__________ is the progressive wear-and-tear of the spinal disks in the neck (cervical disks) that can press on the spinal cord (cervical myelopathy).",
+      "answer": "Cervical spondylosis",
+      "accepted_answers": [
+        "Cervical spondylosis"
+      ]
+    },
+    {
+      "id": "fib-17",
+      "number": 17,
+      "question": "__________ is the narrowing of the spinal column, leading to pinched nerves and spinal cord irritation.",
+      "answer": "Spinal stenosis",
+      "accepted_answers": [
+        "Spinal stenosis"
+      ]
+    },
+    {
+      "id": "fib-18",
+      "number": 18,
+      "question": "__________ is a type of arthritis that affects the joints in the spine.",
+      "answer": "Ankylosing spondylitis",
+      "accepted_answers": [
+        "Ankylosing spondylitis"
+      ]
+    },
+    {
+      "id": "fib-19",
+      "number": 19,
+      "question": "The __________ is the most common location for a sprain, whereas the __________ and hamstring muscle are where strains commonly occur.",
+      "answer": "ankle; lower back",
+      "accepted_answers": [
+        "ankle; lower back"
+      ]
+    },
+    {
+      "id": "fib-20",
+      "number": 20,
+      "question": "__________ is a birth defect involving incomplete closing of the spine and membranes around the spinal cord during early development in pregnancy.",
+      "answer": "Spina bifida",
+      "accepted_answers": [
+        "Spina bifida"
+      ]
+    },
+    {
+      "id": "fib-21",
+      "number": 21,
+      "question": "Bone spurs are also known as __________.",
+      "answer": "osteophytes",
+      "accepted_answers": [
+        "osteophytes"
+      ]
+    },
+    {
+      "id": "fib-22",
+      "number": 22,
+      "question": "__________ is a forward rounding of the back, leading to a hunchback or slouching posture.",
+      "answer": "Kyphosis",
+      "accepted_answers": [
+        "Kyphosis"
+      ]
+    },
+    {
+      "id": "fib-23",
+      "number": 23,
+      "question": "__________ is a condition in which bones become thin and weak.",
+      "answer": "Osteoporosis",
+      "accepted_answers": [
+        "Osteoporosis"
+      ]
+    },
+    {
+      "id": "fib-24",
+      "number": 24,
+      "question": "__________ and __________ are listed as examples of spine infections.",
+      "answer": "Meningitis; osteomyelitis",
+      "accepted_answers": [
+        "Meningitis; osteomyelitis"
+      ]
+    },
+    {
+      "id": "fib-25",
+      "number": 25,
+      "question": "Treatments for spine conditions include physical therapy/acupuncture/massage/chiropractic adjustments, medications, spine surgery, and __________ (such as epidural steroid injections and nerve blocks).",
+      "answer": "injections",
+      "accepted_answers": [
+        "injections"
+      ]
+    }
+  ],
+  "study_questions": [
+    {
+      "id": "study-1",
+      "type": "points",
+      "question": "What are the functions of the spine?",
+      "answer": [
+        "Giving your body structure (shape).",
+        "Supporting your body (posture).",
+        "Protecting your spinal cord (nerves that connect your brain to the rest of your body).",
+        "Allowing you to be flexible and move."
+      ]
+    },
+    {
+      "id": "study-2",
+      "type": "points",
+      "question": "What are the parts of the spine?",
+      "answer": [
+        "Vertebrae",
+        "Facet joints",
+        "Intervertebral disks",
+        "Spinal cord and nerves",
+        "Soft tissues"
+      ]
+    },
+    {
+      "id": "study-3",
+      "type": "points",
+      "question": "What are common conditions that affect the spine?",
+      "answer": [
+        "Arthritis and arthritic conditions, like ankylosing spondylitis.",
+        "Back strains and sprains.",
+        "Birth defects such as spina bifida.",
+        "Bone spurs.",
+        "Curvatures of the spine (scoliosis and kyphosis).",
+        "Herniated disk."
+      ]
+    },
+    {
+      "id": "study-4",
+      "type": "points",
+      "question": "What are common signs or symptoms of spine conditions?",
+      "answer": [
+        "Back pain or neck pain (the most common symptom).",
+        "Muscle spasms.",
+        "Loss of bowel or bladder control.",
+        "Weakness or numbness in your limbs (arms and legs).",
+        "Paralysis."
+      ]
+    },
+    {
+      "id": "study-5",
+      "type": "points",
+      "question": "What is the purpose of the spinal cord?",
+      "answer": [
+        "Control body movements and functions.",
+        "Report senses to your brain.",
+        "Manage your reflexes."
+      ]
+    },
+    {
+      "id": "study-6",
+      "type": "points",
+      "question": "What are the main parts of the spinal cord?",
+      "answer": [
+        "Cervical (neck).",
+        "Thoracic (chest).",
+        "Lumbar (lower back)."
+      ]
+    },
+    {
+      "id": "study-7",
+      "type": "points",
+      "question": "What tissues and fluids make up the spinal cord?",
+      "answer": [
+        "Dura mater.",
+        "Arachnoid mater.",
+        "Pia mater.",
+        "Cerebrospinal fluid (CSF)."
+      ]
+    },
+    {
+      "id": "study-8",
+      "type": "points",
+      "question": "What nerves are in the spinal cord?",
+      "answer": [
+        "8 cervical nerve pairs.",
+        "12 thoracic nerve pairs.",
+        "5 lumbar nerve pairs.",
+        "5 sacral nerve pairs."
+      ]
+    },
+    {
+      "id": "study-9",
+      "type": "points_with_explanation",
+      "question": "What is the purpose of the spinal cord?",
+      "answer": [
+        "Control body movements and functions: Signals from the brain control movements. They also direct autonomic (involuntary) functions such as breathing rate, heartbeat, and bowel and bladder function.",
+        "Report senses to your brain: Signals from other parts of the body help the brain record and process sensations like pressure or pain.",
+        "Manage your reflexes: The spinal cord controls some reflexes (involuntary movements) without involving the brain. For example, it manages the patellar reflex."
+      ]
+    },
+    {
+      "id": "study-10",
+      "type": "points_with_explanation",
+      "question": "What are the main parts of the spinal cord?",
+      "answer": [
+        "Cervical: The neck region.",
+        "Thoracic: The chest region.",
+        "Lumbar: The lower back region."
+      ]
+    },
+    {
+      "id": "study-11",
+      "type": "points_with_explanation",
+      "question": "What tissues and fluids make up the spinal cord?",
+      "answer": [
+        "Dura mater: The outer layer that protects the spinal cord from injury.",
+        "Arachnoid mater: The middle layer, between the epidural and subarachnoid space.",
+        "Pia mater: The inner layer that covers the spinal cord.",
+        "Cerebrospinal fluid (CSF): Found in the subarachnoid space, it provides extra cushioning and protection for the spinal cord."
+      ]
+    },
+    {
+      "id": "study-12",
+      "type": "points_with_explanation",
+      "question": "What nerves are in the spinal cord?",
+      "answer": [
+        "8 cervical nerve pairs: Nerves starting in the neck and running mostly to the face and head.",
+        "12 thoracic nerve pairs: Nerves in the upper body that extend to the chest, upper back and abdomen.",
+        "5 lumbar nerve pairs: Nerves in the low back that run to the legs and feet.",
+        "5 sacral nerve pairs: Nerves in the low back extending into the pelvis."
+      ]
+    },
+    {
+      "id": "study-13",
+      "type": "points_with_explanation",
+      "question": "What conditions and disorders affect the spinal cord?",
+      "answer": [
+        "Acute transverse myelitis: Inflammation in one or more segments of the spinal cord.",
+        "Cervical spondylosis: Progressive wear-and-tear of the spinal disks in the neck that can press on the spinal cord (cervical myelopathy).",
+        "Herniated disks: A spinal disk slips out of place and moves into the space around the spinal cord, pressing on nearby nerves.",
+        "Spinal fractures: One or more vertebrae are crushed (compression fracture) or broken (burst fracture) and put pressure on the spinal cord.",
+        "Spinal muscular atrophy: A rare genetic condition where people lose motor nerve cells in the spinal cord, causing muscle weakness and wasting away.",
+        "Spinal stenosis: Narrowing of the spinal column, leading to pinched nerves and spinal cord irritation.",
+        "Spinal tumours: Masses, which may be cancerous or benign, that start in the spinal column and can put pressure on the spinal cord.",
+        "Spinal infections: The pressure of an expanding abscess, or the collapse of an infected vertebra or disc, puts pressure on the spinal cord."
+      ]
+    }
+  ]
+}

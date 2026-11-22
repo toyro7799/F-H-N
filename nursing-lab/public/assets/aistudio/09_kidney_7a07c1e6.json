@@ -1,0 +1,688 @@
+{
+  "exam_id": 9,
+  "slug": "kidney",
+  "title": "Kidney Questions and Answers",
+  "source_file": "9_Kidney_Questions.docx",
+  "notes": [],
+  "counts": {
+    "multiple_choice": 25,
+    "fill_in_the_blank": 25,
+    "study_questions": 9
+  },
+  "multiple_choice": [
+    {
+      "id": "mcq-1",
+      "number": 1,
+      "question": "Approximately how much fluid do the kidneys filter every day?",
+      "options": {
+        "A": "20 quarts",
+        "B": "50 quarts",
+        "C": "200 quarts",
+        "D": "500 quarts"
+      },
+      "answer": "C",
+      "answer_text": "200 quarts"
+    },
+    {
+      "id": "mcq-2",
+      "number": 2,
+      "question": "How many urine-forming units (nephrons) do the two kidneys contain?",
+      "options": {
+        "A": "240,000",
+        "B": "1.2 million",
+        "C": "2.4 million",
+        "D": "5.0 million"
+      },
+      "answer": "C",
+      "answer_text": "2.4 million"
+    },
+    {
+      "id": "mcq-3",
+      "number": 3,
+      "question": "How does blood enter and leave the glomerulus?",
+      "options": {
+        "A": "Enters through efferent arteriole and leaves through afferent arteriole",
+        "B": "Enters through afferent arteriole and leaves through efferent arteriole",
+        "C": "Enters through renal vein and leaves through renal artery",
+        "D": "Enters through collecting duct and leaves through renal pelvis"
+      },
+      "answer": "B",
+      "answer_text": "Enters through afferent arteriole and leaves through efferent arteriole"
+    },
+    {
+      "id": "mcq-4",
+      "number": 4,
+      "question": "In which part of the kidney does the Loop of Henle lie?",
+      "options": {
+        "A": "Renal cortex",
+        "B": "Renal pelvis",
+        "C": "Renal medulla",
+        "D": "Bowman's capsule"
+      },
+      "answer": "C",
+      "answer_text": "Renal medulla"
+    },
+    {
+      "id": "mcq-5",
+      "number": 5,
+      "question": "What is the primary function of the Loop of Henle?",
+      "options": {
+        "A": "Secretion of red blood cells",
+        "B": "Reabsorption of water and chloride (salt) from the glomerular filtrate",
+        "C": "Producing erythropoietin (EPO)",
+        "D": "Draining urine directly into the bladder"
+      },
+      "answer": "B",
+      "answer_text": "Reabsorption of water and chloride (salt) from the glomerular filtrate"
+    },
+    {
+      "id": "mcq-6",
+      "number": 6,
+      "question": "Approximately what percentage of water do the tubules reabsorb into the blood?",
+      "options": {
+        "A": "50%",
+        "B": "75%",
+        "C": "85%",
+        "D": "99%"
+      },
+      "answer": "D",
+      "answer_text": "99%"
+    },
+    {
+      "id": "mcq-7",
+      "number": 7,
+      "question": "Distal convoluted tubules (DCT) hand over fluid to collecting tubules and collecting ducts, which ultimately drain into the:",
+      "options": {
+        "A": "Afferent arteriole",
+        "B": "Renal pelvis",
+        "C": "Proximal convoluted tubule",
+        "D": "Inferior vena cava"
+      },
+      "answer": "B",
+      "answer_text": "Renal pelvis"
+    },
+    {
+      "id": "mcq-8",
+      "number": 8,
+      "question": "Which peptide hormone synthesized by the kidneys helps make red blood cells?",
+      "options": {
+        "A": "Insulin",
+        "B": "Erythropoietin (EPO)",
+        "C": "Calcitriol",
+        "D": "Aldosterone"
+      },
+      "answer": "B",
+      "answer_text": "Erythropoietin (EPO)"
+    },
+    {
+      "id": "mcq-9",
+      "number": 9,
+      "question": "From which vessel does the renal artery arise, and into which vessel do the renal veins drain?",
+      "options": {
+        "A": "Arises from thoracic aorta; drains into superior vena cava",
+        "B": "Arises from abdominal aorta; drains into inferior vena cava",
+        "C": "Arises from pulmonary artery; drains into left atrium",
+        "D": "Arises from efferent arteriole; drains into renal pelvis"
+      },
+      "answer": "B",
+      "answer_text": "Arises from abdominal aorta; drains into inferior vena cava"
+    },
+    {
+      "id": "mcq-10",
+      "number": 10,
+      "question": "Chronic kidney disease (CKD) is defined as having a kidney abnormality (marker) and decreased kidney function for how long?",
+      "options": {
+        "A": "Two weeks or longer",
+        "B": "One month or longer",
+        "C": "Three months or longer",
+        "D": "One year or longer"
+      },
+      "answer": "C",
+      "answer_text": "Three months or longer"
+    },
+    {
+      "id": "mcq-11",
+      "number": 11,
+      "question": "Which condition is described as the most common inherited kidney disease?",
+      "options": {
+        "A": "Glomerulonephritis",
+        "B": "Polycystic kidney disease",
+        "C": "Kidney stones",
+        "D": "Urinary tract infection"
+      },
+      "answer": "B",
+      "answer_text": "Polycystic kidney disease"
+    },
+    {
+      "id": "mcq-12",
+      "number": 12,
+      "question": "Which disease causes inflammation of the kidney's tiny filtering units called the glomeruli?",
+      "options": {
+        "A": "Pyelonephritis",
+        "B": "Glomerulonephritis",
+        "C": "Hyperkalaemia",
+        "D": "Gout"
+      },
+      "answer": "B",
+      "answer_text": "Glomerulonephritis"
+    },
+    {
+      "id": "mcq-13",
+      "number": 13,
+      "question": "According to the \"Testing renal function\" list, what is the normal range for Albumin (Alb)?",
+      "options": {
+        "A": "1.5 – 2.5 g/dL",
+        "B": "3.5 – 5 g/dL",
+        "C": "6 – 8 g/dL",
+        "D": "8 – 15 g/dL"
+      },
+      "answer": "B",
+      "answer_text": "3.5 – 5 g/dL"
+    },
+    {
+      "id": "mcq-14",
+      "number": 14,
+      "question": "According to the \"Testing renal function\" list, what is the normal range for blood pH?",
+      "options": {
+        "A": "6.80 – 7.00",
+        "B": "7.00 – 7.25",
+        "C": "7.35 – 7.45",
+        "D": "7.50 – 7.80"
+      },
+      "answer": "C",
+      "answer_text": "7.35 – 7.45"
+    },
+    {
+      "id": "mcq-15",
+      "number": 15,
+      "question": "According to the \"Testing renal function\" list, what is the normal range for Sodium (Na)?",
+      "options": {
+        "A": "3.5 – 5.5 mmol/L",
+        "B": "2.2 – 2.7 mmol/L",
+        "C": "135 – 145 mmol/L",
+        "D": "80 – 100 mmol/L"
+      },
+      "answer": "C",
+      "answer_text": "135 – 145 mmol/L"
+    },
+    {
+      "id": "mcq-16",
+      "number": 16,
+      "question": "According to the \"Testing renal function\" list, what is the normal range for Calcium (Ca)?",
+      "options": {
+        "A": "2.2 – 2.7 mmol/L",
+        "B": "3.5 – 5.5 mmol/L",
+        "C": "6 – 8 mmol/L",
+        "D": "135 – 145 mmol/L"
+      },
+      "answer": "A",
+      "answer_text": "2.2 – 2.7 mmol/L"
+    },
+    {
+      "id": "mcq-17",
+      "number": 17,
+      "question": "A Glomerular Filtration Rate (GFR) below which value is listed as a warning sign of kidney disease?",
+      "options": {
+        "A": "Less than 120",
+        "B": "Less than 90",
+        "C": "Less than 60",
+        "D": "Less than 15"
+      },
+      "answer": "C",
+      "answer_text": "Less than 60"
+    },
+    {
+      "id": "mcq-18",
+      "number": 18,
+      "question": "Being over what age is listed as a risk factor for chronic kidney disease?",
+      "options": {
+        "A": "Over 40 years old",
+        "B": "Over 50 years old",
+        "C": "Over 60 years old",
+        "D": "Over 75 years old"
+      },
+      "answer": "C",
+      "answer_text": "Over 60 years old"
+    },
+    {
+      "id": "mcq-19",
+      "number": 19,
+      "question": "A long history of taking which type of medication is a risk factor for chronic kidney disease?",
+      "options": {
+        "A": "Antibiotics",
+        "B": "NSAIDs",
+        "C": "Antihistamines",
+        "D": "Vitamin D"
+      },
+      "answer": "B",
+      "answer_text": "NSAIDs"
+    },
+    {
+      "id": "mcq-20",
+      "number": 20,
+      "question": "What is the medical term for high potassium as a complication of chronic kidney disease?",
+      "options": {
+        "A": "Hyperphosphatemia",
+        "B": "Hyperkalaemia",
+        "C": "Metabolic acidosis",
+        "D": "Anaemia"
+      },
+      "answer": "B",
+      "answer_text": "Hyperkalaemia"
+    },
+    {
+      "id": "mcq-21",
+      "number": 21,
+      "question": "Which complication of chronic kidney disease leads to swelling in the feet, ankles, and hands?",
+      "options": {
+        "A": "Nerve damage",
+        "B": "Fluid buildup",
+        "C": "Weak and brittle bones",
+        "D": "Gout"
+      },
+      "answer": "B",
+      "answer_text": "Fluid buildup"
+    },
+    {
+      "id": "mcq-22",
+      "number": 22,
+      "question": "Which acid-base complication is listed under complications of chronic kidney disease?",
+      "options": {
+        "A": "Respiratory alkalosis",
+        "B": "Metabolic acidosis",
+        "C": "Metabolic alkalosis",
+        "D": "Respiratory acidosis"
+      },
+      "answer": "B",
+      "answer_text": "Metabolic acidosis"
+    },
+    {
+      "id": "mcq-23",
+      "number": 23,
+      "question": "Which medications are prescribed in kidney disease to lower blood pressure?",
+      "options": {
+        "A": "Phosphate binders",
+        "B": "ACE inhibitors or ARBs",
+        "C": "Vitamin D and calcitriol",
+        "D": "Erythropoietin"
+      },
+      "answer": "B",
+      "answer_text": "ACE inhibitors or ARBs"
+    },
+    {
+      "id": "mcq-24",
+      "number": 24,
+      "question": "When is a phosphate binder given as a medication for kidney disease?",
+      "options": {
+        "A": "To build red blood cells",
+        "B": "If the kidneys cannot eliminate phosphate",
+        "C": "To lower cholesterol levels",
+        "D": "To eliminate extra fluid"
+      },
+      "answer": "B",
+      "answer_text": "If the kidneys cannot eliminate phosphate"
+    },
+    {
+      "id": "mcq-25",
+      "number": 25,
+      "question": "Which medications are given in kidney disease to prevent bone loss?",
+      "options": {
+        "A": "Diuretics",
+        "B": "ACE inhibitors",
+        "C": "Vitamin D and calcitriol",
+        "D": "Cholesterol-lowering drugs"
+      },
+      "answer": "C",
+      "answer_text": "Vitamin D and calcitriol"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "id": "fib-1",
+      "number": 1,
+      "question": "The kidneys are two __________-shaped organs that filter blood and form part of the urinary system.",
+      "answer": "bean",
+      "accepted_answers": [
+        "bean"
+      ]
+    },
+    {
+      "id": "fib-2",
+      "number": 2,
+      "question": "The kidneys maintain a healthy balance of water, salts, and minerals in the blood, including sodium, calcium, __________, and potassium.",
+      "answer": "phosphorus",
+      "accepted_answers": [
+        "phosphorus"
+      ]
+    },
+    {
+      "id": "fib-3",
+      "number": 3,
+      "question": "The kidneys make hormones that help control blood pressure, make __________, and keep bones strong and healthy.",
+      "answer": "red blood cells",
+      "accepted_answers": [
+        "red blood cells"
+      ]
+    },
+    {
+      "id": "fib-4",
+      "number": 4,
+      "question": "Each nephron is composed of the Glomerulus, __________, Loop of Henle, and __________.",
+      "answer": "PCT (Proximal convoluted tubules); DCT (Distal convoluted tubules)",
+      "accepted_answers": [
+        "PCT (Proximal convoluted tubules); DCT (Distal convoluted tubules)"
+      ]
+    },
+    {
+      "id": "fib-5",
+      "number": 5,
+      "question": "The glomerulus is enclosed in a capsule called __________ capsule, into which fluid is filtered before entering the PCT.",
+      "answer": "Bowman's",
+      "accepted_answers": [
+        "Bowman's"
+      ]
+    },
+    {
+      "id": "fib-6",
+      "number": 6,
+      "question": "The Proximal Convoluted Tubules (PCT) and glomerulus lie in the renal __________, which is the outer part of the kidney.",
+      "answer": "cortex",
+      "accepted_answers": [
+        "cortex"
+      ]
+    },
+    {
+      "id": "fib-7",
+      "number": 7,
+      "question": "The Loop of Henle is composed of __________ and __________ limbs, both of which can be divided into thin and thick domains.",
+      "answer": "descending; ascending",
+      "accepted_answers": [
+        "descending; ascending"
+      ]
+    },
+    {
+      "id": "fib-8",
+      "number": 8,
+      "question": "In addition to reabsorption, kidney tubules have another property called __________, by which they get rid of some unwanted substances.",
+      "answer": "secretion",
+      "accepted_answers": [
+        "secretion"
+      ]
+    },
+    {
+      "id": "fib-9",
+      "number": 9,
+      "question": "The kidneys allow for the excretion of metabolic waste products and __________ substances.",
+      "answer": "xenobiotic",
+      "accepted_answers": [
+        "xenobiotic"
+      ]
+    },
+    {
+      "id": "fib-10",
+      "number": 10,
+      "question": "Besides peptide hormones like erythropoietin (EPO), the kidneys are involved in synthesizing several __________ hormones and __________ hormones.",
+      "answer": "steroid; catecholamine",
+      "accepted_answers": [
+        "steroid; catecholamine"
+      ]
+    },
+    {
+      "id": "fib-11",
+      "number": 11,
+      "question": "Two common diseases that may affect the kidneys and cause chronic kidney disease are __________ and high blood pressure.",
+      "answer": "diabetes",
+      "accepted_answers": [
+        "diabetes"
+      ]
+    },
+    {
+      "id": "fib-12",
+      "number": 12,
+      "question": "__________ are very common and, when they pass, may cause severe pain in your back and side.",
+      "answer": "Kidney stones",
+      "accepted_answers": [
+        "Kidney stones"
+      ]
+    },
+    {
+      "id": "fib-13",
+      "number": 13,
+      "question": "Under \"Testing renal function,\" urinalysis checks for proteinuria, __________, bacteria, RBCs, and WBCs.",
+      "answer": "casts",
+      "accepted_answers": [
+        "casts"
+      ]
+    },
+    {
+      "id": "fib-14",
+      "number": 14,
+      "question": "According to the \"Testing renal function\" list, the normal value for Plasma Proteins (total protein, T.P) is __________ g/dL.",
+      "answer": "6–8",
+      "accepted_answers": [
+        "6–8"
+      ]
+    },
+    {
+      "id": "fib-15",
+      "number": 15,
+      "question": "A warning sign of kidney disease is when __________ and __________ blood tests are outside the normal range.",
+      "answer": "Creatinine; Blood Urea Nitrogen (BUN)",
+      "accepted_answers": [
+        "Creatinine; Blood Urea Nitrogen (BUN)"
+      ]
+    },
+    {
+      "id": "fib-16",
+      "number": 16,
+      "question": "According to the \"Testing renal function\" list, the normal range for Potassium (listed as Ka) is __________ mmol/L.",
+      "answer": "3.5 – 5.5",
+      "accepted_answers": [
+        "3.5 – 5.5"
+      ]
+    },
+    {
+      "id": "fib-17",
+      "number": 17,
+      "question": "Warning signs of kidney disease include high blood pressure, blood and/or __________ in the urine, and __________ or painful urination.",
+      "answer": "protein; difficult",
+      "accepted_answers": [
+        "protein; difficult"
+      ]
+    },
+    {
+      "id": "fib-18",
+      "number": 18,
+      "question": "More frequent urination, particularly at __________, is listed as a warning sign of kidney disease.",
+      "answer": "night",
+      "accepted_answers": [
+        "night"
+      ]
+    },
+    {
+      "id": "fib-19",
+      "number": 19,
+      "question": "Risk factors for chronic kidney disease include diabetes, high BP, heart disease, family history of kidney disease, and abnormal kidney __________ or __________.",
+      "answer": "structure; size",
+      "accepted_answers": [
+        "structure; size"
+      ]
+    },
+    {
+      "id": "fib-20",
+      "number": 20,
+      "question": "A low red blood cell count as a complication of chronic kidney disease is known as __________.",
+      "answer": "anaemia",
+      "accepted_answers": [
+        "anaemia"
+      ]
+    },
+    {
+      "id": "fib-21",
+      "number": 21,
+      "question": "High phosphorus as a complication of chronic kidney disease is called __________.",
+      "answer": "hyperphosphatemia",
+      "accepted_answers": [
+        "hyperphosphatemia"
+      ]
+    },
+    {
+      "id": "fib-22",
+      "number": 22,
+      "question": "Complications of chronic kidney disease also include weak and brittle bones, __________, nerve damage, and stroke or heart attack.",
+      "answer": "gout",
+      "accepted_answers": [
+        "gout"
+      ]
+    },
+    {
+      "id": "fib-23",
+      "number": 23,
+      "question": "Patients with chronic kidney disease have a high risk of infection due to a weak __________ system.",
+      "answer": "immune",
+      "accepted_answers": [
+        "immune"
+      ]
+    },
+    {
+      "id": "fib-24",
+      "number": 24,
+      "question": "A __________ is given in kidney disease to help the body eliminate extra fluid.",
+      "answer": "diuretic",
+      "accepted_answers": [
+        "diuretic"
+      ]
+    },
+    {
+      "id": "fib-25",
+      "number": 25,
+      "question": "__________ is used to build red blood cells if the patient is anaemic, alongside medications to lower __________ levels.",
+      "answer": "Erythropoietin; cholesterol",
+      "accepted_answers": [
+        "Erythropoietin; cholesterol"
+      ]
+    }
+  ],
+  "study_questions": [
+    {
+      "id": "study-1",
+      "type": "points",
+      "question": "Why are kidneys important?",
+      "answer": [
+        "Remove wastes and extra fluid from the body.",
+        "Remove acid that is produced by cells of the body.",
+        "Remove drugs from the body.",
+        "Maintain a healthy balance of water, salts, and minerals (sodium, calcium, phosphorus, and potassium) in the blood.",
+        "Make hormones that help control blood pressure, make red blood cells, and keep bones strong and healthy."
+      ]
+    },
+    {
+      "id": "study-2",
+      "type": "points",
+      "question": "What is each nephron composed of?",
+      "answer": [
+        "Glomerulus",
+        "Proximal convoluted tubule (PCT)",
+        "Loop of Henle",
+        "Distal convoluted tubule (DCT)"
+      ]
+    },
+    {
+      "id": "study-3",
+      "type": "points",
+      "question": "What are the functions of the kidney?",
+      "answer": [
+        "Play critical roles in the regulation of numerous biochemical processes beyond simple excretion of metabolic waste products.",
+        "Regulate water and electrolyte balances.",
+        "Regulate acid-base balance, arterial pressures, and body fluid osmolarity.",
+        "Allow excretion of metabolic waste products and xenobiotic substances.",
+        "Are involved in the synthesis of hormones, including erythropoietin (EPO), steroid hormones, catecholamine hormones, and peptide hormones.",
+        "Regulate blood pressure.",
+        "Blood supply: the renal artery, arising from the abdominal aorta, supplies each kidney, and the renal veins drain into the inferior vena cava."
+      ]
+    },
+    {
+      "id": "study-4",
+      "type": "points",
+      "question": "What are the causes of chronic kidney disease?",
+      "answer": [
+        "Diabetes and high blood pressure, which may affect the kidneys.",
+        "Glomerulonephritis",
+        "Polycystic kidney disease",
+        "Kidney stones",
+        "Urinary tract infections",
+        "Congenital diseases",
+        "Drugs and toxins"
+      ]
+    },
+    {
+      "id": "study-5",
+      "type": "points",
+      "question": "What are the warning signs of kidney disease?",
+      "answer": [
+        "High blood pressure",
+        "Blood and/or protein in the urine",
+        "Creatinine and blood urea nitrogen (BUN) blood test results outside the normal range",
+        "Glomerular filtration rate (GFR) less than 60",
+        "More frequent urination, particularly at night, or difficult or painful urination"
+      ]
+    },
+    {
+      "id": "study-6",
+      "type": "points",
+      "question": "Who is at risk for chronic kidney disease?",
+      "answer": [
+        "People who have diabetes",
+        "People who have high blood pressure",
+        "People who have heart disease",
+        "People who have a family history of kidney disease",
+        "People who have abnormal kidney structure or size",
+        "People who are over 60 years old",
+        "People who have a long history of taking NSAIDs"
+      ]
+    },
+    {
+      "id": "study-7",
+      "type": "points",
+      "question": "What are the complications of chronic kidney disease?",
+      "answer": [
+        "A low red blood cell count (anaemia)",
+        "Weak and brittle bones",
+        "Gout",
+        "Metabolic acidosis",
+        "High blood pressure",
+        "Heart disease and blood vessel disease (stroke and heart attack)",
+        "Nerve damage",
+        "High potassium (hyperkalaemia)",
+        "High phosphorus (hyperphosphatemia)",
+        "High risk of infection due to a weak immune system",
+        "Fluid buildup, leading to swelling in the feet, ankles and hands"
+      ]
+    },
+    {
+      "id": "study-8",
+      "type": "points_with_explanation",
+      "question": "What are the parts of the nephron, and what does each part do?",
+      "answer": [
+        "Glomerulus: The filtering unit of the kidney, made of several capillary loops. Blood enters through the afferent arteriole and leaves through the efferent arteriole. It is enclosed in Bowman's capsule, and fluid is filtered from it into the capsule, from where it enters the PCT.",
+        "Proximal convoluted tubule (PCT): A segment of the renal tubule responsible for the reabsorption and secretion of various solutes and water. It is located in the renal cortex and is the first segment of the renal tubule, receiving filtrate from the renal corpuscle. Fluid then flows from the PCT into the Loop of Henle.",
+        "Loop of Henle: Lies in the renal medulla. Its primary function is the reabsorption of water and chloride (salt) from the glomerular filtrate. Fluid then goes to the DCT.",
+        "Distal convoluted tubule (DCT): Lies in the cortex and hands fluid over to the collecting tubules, which drain into the renal pelvis. The tubules reabsorb about 99% of the water and many dissolved components into the blood, and they secrete some unwanted substances."
+      ]
+    },
+    {
+      "id": "study-9",
+      "type": "points_with_explanation",
+      "question": "What are the causes of chronic kidney disease, and what is each one?",
+      "answer": [
+        "Diabetes and high blood pressure: These diseases may affect the kidneys.",
+        "Glomerulonephritis: A disease that causes inflammation of the kidney's tiny filtering units called the glomeruli.",
+        "Polycystic kidney disease: The most common inherited kidney disease.",
+        "Kidney stones: Very common. When they pass, they may cause severe pain in the back and side.",
+        "Urinary tract infections",
+        "Congenital diseases",
+        "Drugs and toxins"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --bg-canvas: #FAFAF8;
+    --bg-surface: #FFFFFF;
+    --bg-subtle: #F3F3F0;
+    --text-primary: #2B2F36;
+    --text-secondary: #5C626D;
+    --text-muted: #848B96;
+    --border-hairline: #ECECEA;
+    --accent: #5B8C85;
+    --accent-hover: #4C7872;
+    --accent-soft: #EEF4F3;
+    --success: #4CAF8E;
+    --success-soft: #ECF7F3;
+    --error: #E57373;
+    --error-soft: #FDF1F1;
+    --amber: #C98A2C;
+    --amber-soft: #FCF6EB;
+  }
+
+  .dark {
+    --bg-canvas: #17191C;
+    --bg-surface: #1F2227;
+    --bg-subtle: #262A30;
+    --text-primary: #ECEEF2;
+    --text-secondary: #B0B6C0;
+    --text-muted: #7F8691;
+    --border-hairline: #2C3038;
+    --accent: #6FA39B;
+    --accent-hover: #7EB2AA;
+    --accent-soft: #22302E;
+    --success: #56B898;
+    --success-soft: #1B2E27;
+    --error: #E28080;
+    --error-soft: #312123;
+    --amber: #DCA24A;
+    --amber-soft: #30281B;
+  }
+
+  html {
+    font-family: "IBM Plex Sans Arabic", system-ui, -apple-system, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    background-color: var(--bg-canvas);
+    color: var(--text-primary);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    margin: 0;
+    min-height: 100dvh;
+    background-color: var(--bg-canvas);
+    color: var(--text-primary);
+    transition: background-color 200ms ease, color 200ms ease;
+  }
+}
+
+.font-en {
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  direction: ltr;
+  unicode-bidi: isolate;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@keyframes screenEnter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes cardStagger {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes checkPop {
+  0% {
+    transform: scale(0.8);
+  }
+  60% {
+    transform: scale(1.08);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.animate-screen-enter {
+  animation: screenEnter 220ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.animate-card-stagger {
+  animation: cardStagger 240ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.animate-check-pop {
+  animation: checkPop 200ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}

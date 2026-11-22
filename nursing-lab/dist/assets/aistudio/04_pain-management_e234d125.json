@@ -1,0 +1,1025 @@
+{
+  "exam_id": 4,
+  "slug": "pain-management",
+  "title": "Pain Management – Questions",
+  "source_file": "4_Pain_Management_Questions_EN.docx",
+  "notes": [
+    "All content in this document is taken from Pain_Management-4.pdf only."
+  ],
+  "counts": {
+    "multiple_choice": 25,
+    "fill_in_the_blank": 25,
+    "study_questions": 35
+  },
+  "multiple_choice": [
+    {
+      "id": "mcq-1",
+      "number": 1,
+      "question": "According to the IASP definition, pain is an unpleasant sensory and emotional experience associated with:",
+      "options": {
+        "A": "Permanent nerve destruction only",
+        "B": "Actual or potential tissue damage",
+        "C": "Acute physical trauma only",
+        "D": "Psychological disorders without physical cause"
+      },
+      "answer": "B",
+      "answer_text": "Actual or potential tissue damage"
+    },
+    {
+      "id": "mcq-2",
+      "number": 2,
+      "question": "Which of the following medications belong to Step 2 (weak opioids for mild to moderate pain) of the WHO Analgesic Ladder?",
+      "options": {
+        "A": "Morphine, fentanyl, and methadone",
+        "B": "Paracetamol and NSAIDs",
+        "C": "Codeine, dihydrocodeine, and tramadol",
+        "D": "Amitriptyline and pregabalin"
+      },
+      "answer": "C",
+      "answer_text": "Codeine, dihydrocodeine, and tramadol"
+    },
+    {
+      "id": "mcq-3",
+      "number": 3,
+      "question": "Which of the following is an example of a strong opioid used in Step 3 of the WHO Analgesic Ladder?",
+      "options": {
+        "A": "Tramadol",
+        "B": "Codeine",
+        "C": "Oxycodone",
+        "D": "Paracetamol"
+      },
+      "answer": "C",
+      "answer_text": "Oxycodone"
+    },
+    {
+      "id": "mcq-4",
+      "number": 4,
+      "question": "Chronic pain is characterized by continuing for a long-term duration, which can be:",
+      "options": {
+        "A": "Less than 2 weeks",
+        "B": "2 to 4 weeks",
+        "C": "4 to 8 weeks",
+        "D": "Greater than 12 weeks"
+      },
+      "answer": "D",
+      "answer_text": "Greater than 12 weeks"
+    },
+    {
+      "id": "mcq-5",
+      "number": 5,
+      "question": "Feeling shoulder pain when experiencing a heart attack is an example of which type of nociceptive pain?",
+      "options": {
+        "A": "Somatic pain",
+        "B": "Visceral pain",
+        "C": "Referred pain",
+        "D": "Ischemic pain"
+      },
+      "answer": "C",
+      "answer_text": "Referred pain"
+    },
+    {
+      "id": "mcq-6",
+      "number": 6,
+      "question": "Which type of nociceptive pain is caused by insufficient oxygen supply to tissue?",
+      "options": {
+        "A": "Ischemic pain",
+        "B": "Somatic pain",
+        "C": "Radicular pain",
+        "D": "Neuropathic pain"
+      },
+      "answer": "A",
+      "answer_text": "Ischemic pain"
+    },
+    {
+      "id": "mcq-7",
+      "number": 7,
+      "question": "What is the underlying mechanism of Neuropathic Pain?",
+      "options": {
+        "A": "Damage to musculoskeletal body tissue",
+        "B": "Primary injury or dysfunction in the CNS",
+        "C": "Insufficient oxygen supply to organs",
+        "D": "Compression of blood vessels"
+      },
+      "answer": "B",
+      "answer_text": "Primary injury or dysfunction in the CNS"
+    },
+    {
+      "id": "mcq-8",
+      "number": 8,
+      "question": "According to the Allodynia vs. Hyperalgesia comparison table, what is the pain mechanism of Allodynia?",
+      "options": {
+        "A": "Increased response",
+        "B": "Blocked receptors",
+        "C": "Lowered threshold",
+        "D": "Elevated threshold"
+      },
+      "answer": "C",
+      "answer_text": "Lowered threshold"
+    },
+    {
+      "id": "mcq-9",
+      "number": 9,
+      "question": "Neuropathic pain responds poorly to traditional analgesia and is treated using:",
+      "options": {
+        "A": "Paracetamol or diclofenac",
+        "B": "Codeine or morphine",
+        "C": "Tricyclic anti-depressants (e.g., amitriptyline) or anti-convulsants (e.g., pregabalin)",
+        "D": "Bupivacaine or pethidine"
+      },
+      "answer": "C",
+      "answer_text": "Tricyclic anti-depressants (e.g., amitriptyline) or anti-convulsants (e.g., pregabalin)"
+    },
+    {
+      "id": "mcq-10",
+      "number": 10,
+      "question": "What is the mechanism of Radicular Pain (Sciatica)?",
+      "options": {
+        "A": "Prolonged activation of visceral nociceptors",
+        "B": "The spinal nerve gets compressed or inflamed",
+        "C": "Chemical burns on the skin surface",
+        "D": "Dysfunction in the limbic system"
+      },
+      "answer": "B",
+      "answer_text": "The spinal nerve gets compressed or inflamed"
+    },
+    {
+      "id": "mcq-11",
+      "number": 11,
+      "question": "Pain messages transmit through the dorsal horn of the spinal cord to the brain via which tract?",
+      "options": {
+        "A": "Corticospinal tract",
+        "B": "Spinothalamic tract",
+        "C": "Reticulospinal tract",
+        "D": "Vestibulospinal tract"
+      },
+      "answer": "B",
+      "answer_text": "Spinothalamic tract"
+    },
+    {
+      "id": "mcq-12",
+      "number": 12,
+      "question": "Which structure in the brain acts as the emotional centre where pain sensation continues after the thalamus to be perceived and interpreted?",
+      "options": {
+        "A": "Medulla",
+        "B": "Spinal cord",
+        "C": "Limbic system (along with central cortex)",
+        "D": "Substantia gelatinosa"
+      },
+      "answer": "C",
+      "answer_text": "Limbic system (along with central cortex)"
+    },
+    {
+      "id": "mcq-13",
+      "number": 13,
+      "question": "Which process in nociception occurs when free nerve endings (nociceptors) of C fibres and A-delta fibres receive a stimulus?",
+      "options": {
+        "A": "Transduction",
+        "B": "Transmission",
+        "C": "Modulation",
+        "D": "Perception"
+      },
+      "answer": "A",
+      "answer_text": "Transduction"
+    },
+    {
+      "id": "mcq-14",
+      "number": 14,
+      "question": "According to the Gate Control Theory of Pain, stimulation of which fibres closes the pain gate and decreases pain?",
+      "options": {
+        "A": "Small A-delta fibres",
+        "B": "Small C fibres",
+        "C": "Large diameter afferent fibres (A & beta fibres)",
+        "D": "Visceral nociceptors"
+      },
+      "answer": "C",
+      "answer_text": "Large diameter afferent fibres (A & beta fibres)"
+    },
+    {
+      "id": "mcq-15",
+      "number": 15,
+      "question": "In the Gate Control Theory, small pain fibres synapse with dorsal horn neurons in which specific area?",
+      "options": {
+        "A": "Substantia gelatinosa",
+        "B": "Thalamus",
+        "C": "Periaqueductal gray",
+        "D": "Somatosensory cortex"
+      },
+      "answer": "A",
+      "answer_text": "Substantia gelatinosa"
+    },
+    {
+      "id": "mcq-16",
+      "number": 16,
+      "question": "Which component of the Biopsychosocial Assessment evaluates how pain affects the patient's family, friends, work, or finances?",
+      "options": {
+        "A": "Bio (Physical) Assessment",
+        "B": "Psycho (Psychological) Assessment",
+        "C": "Social Assessment",
+        "D": "Neurological Assessment"
+      },
+      "answer": "C",
+      "answer_text": "Social Assessment"
+    },
+    {
+      "id": "mcq-17",
+      "number": 17,
+      "question": "Which of the following is NOT listed as a Pain Measurement Tool in the handout?",
+      "options": {
+        "A": "Visual Analogue Scale (VAS)",
+        "B": "Numeric Rating Scale (NRS)",
+        "C": "Faces Pain Rating Scale (FPRS)",
+        "D": "Glasgow Coma Scale (GCS)"
+      },
+      "answer": "D",
+      "answer_text": "Glasgow Coma Scale (GCS)"
+    },
+    {
+      "id": "mcq-18",
+      "number": 18,
+      "question": "Gabapentin, carbamazepine, valproate, steroids, and bisphosphonates belong to which class of pain medication?",
+      "options": {
+        "A": "Non-opioids",
+        "B": "Opioids",
+        "C": "Adjuvants",
+        "D": "Local anaesthetics"
+      },
+      "answer": "C",
+      "answer_text": "Adjuvants"
+    },
+    {
+      "id": "mcq-19",
+      "number": 19,
+      "question": "In Palliative Care and ICU, if a patient's 24-hour background oral morphine dose is 30 mg, what is the correct rescue dose (1/6 of the 24-hour dose)?",
+      "options": {
+        "A": "2.5 mg",
+        "B": "5 mg",
+        "C": "10 mg",
+        "D": "15 mg"
+      },
+      "answer": "B",
+      "answer_text": "5 mg"
+    },
+    {
+      "id": "mcq-20",
+      "number": 20,
+      "question": "For Spinal Analgesia started in the Operating Theatre (OT), what is the listed dose and duration of morphine?",
+      "options": {
+        "A": "10 mg for 4 hours",
+        "B": "0.5–1.0 mg for 16–24 hrs",
+        "C": "50 mg for 12 hours",
+        "D": "5 mg for 24 hours"
+      },
+      "answer": "B",
+      "answer_text": "0.5–1.0 mg for 16–24 hrs"
+    },
+    {
+      "id": "mcq-21",
+      "number": 21,
+      "question": "How is Gastritis (as a side effect of weak analgesics) managed?",
+      "options": {
+        "A": "By Paracetamol",
+        "B": "By Omeprazole",
+        "C": "By IV fluids",
+        "D": "By Naloxone"
+      },
+      "answer": "B",
+      "answer_text": "By Omeprazole"
+    },
+    {
+      "id": "mcq-22",
+      "number": 22,
+      "question": "What is the management strategy for Renal impairment caused by weak analgesics?",
+      "options": {
+        "A": "Give Omeprazole",
+        "B": "Gradually reduce medications and give O₂",
+        "C": "Stop pain drugs and supply patient with IV fluids",
+        "D": "Stop pain medication and apply CPR"
+      },
+      "answer": "C",
+      "answer_text": "Stop pain drugs and supply patient with IV fluids"
+    },
+    {
+      "id": "mcq-23",
+      "number": 23,
+      "question": "How is Respiratory depression caused by strong analgesics managed?",
+      "options": {
+        "A": "Metoclopramide",
+        "B": "Lactulose",
+        "C": "Naloxone + O₂",
+        "D": "Promethazine"
+      },
+      "answer": "C",
+      "answer_text": "Naloxone + O₂"
+    },
+    {
+      "id": "mcq-24",
+      "number": 24,
+      "question": "Which drug is used to manage Dizziness caused by strong analgesics?",
+      "options": {
+        "A": "Hydrocortisone cream",
+        "B": "Promethazine (Phenergan)",
+        "C": "Metoclopramide",
+        "D": "Omeprazole"
+      },
+      "answer": "B",
+      "answer_text": "Promethazine (Phenergan)"
+    },
+    {
+      "id": "mcq-25",
+      "number": 25,
+      "question": "According to the \"Reasons for Poor Analgesia,\" which factor is a better predictor of opioid requirement than weight in an adult patient?",
+      "options": {
+        "A": "Height",
+        "B": "Age",
+        "C": "Gender",
+        "D": "Blood pressure"
+      },
+      "answer": "B",
+      "answer_text": "Age"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "id": "fib-1",
+      "number": 1,
+      "question": "Acute pain is characterized by a __________ onset and usually lasts for a short time.",
+      "answer": "quick",
+      "accepted_answers": [
+        "quick"
+      ]
+    },
+    {
+      "id": "fib-2",
+      "number": 2,
+      "question": "Step 1 of the WHO Analgesic Ladder consists of __________ and/or NSAID.",
+      "answer": "Paracetamol",
+      "accepted_answers": [
+        "Paracetamol"
+      ]
+    },
+    {
+      "id": "fib-3",
+      "number": 3,
+      "question": "Nociceptive pain has a mechanism of damage to body tissue and is commonly described as aching, sharp, cramping, or __________ pain.",
+      "answer": "throbbing",
+      "accepted_answers": [
+        "throbbing"
+      ]
+    },
+    {
+      "id": "fib-4",
+      "number": 4,
+      "question": "__________ pain is caused due to prolonged activation of visceral nociceptors in conditions like pancreatitis, colic, and cancer.",
+      "answer": "Visceral",
+      "accepted_answers": [
+        "Visceral"
+      ]
+    },
+    {
+      "id": "fib-5",
+      "number": 5,
+      "question": "Nociceptive pain responds to __________ analgesics such as simple analgesics, NSAIDs, and strong opioids.",
+      "answer": "traditional",
+      "accepted_answers": [
+        "traditional"
+      ]
+    },
+    {
+      "id": "fib-6",
+      "number": 6,
+      "question": "According to the IASP definition, Hyperalgesia is __________ pain from a stimulus that normally provokes pain.",
+      "answer": "increased",
+      "accepted_answers": [
+        "increased"
+      ]
+    },
+    {
+      "id": "fib-7",
+      "number": 7,
+      "question": "In the term \"allodynia\", \"allo\" means __________, and \"dynia\" means __________.",
+      "answer": "other; pain",
+      "accepted_answers": [
+        "other; pain"
+      ]
+    },
+    {
+      "id": "fib-8",
+      "number": 8,
+      "question": "Neuropathic pain responds __________ to traditional analgesia such as paracetamol, codeine, and morphine.",
+      "answer": "poorly",
+      "accepted_answers": [
+        "poorly"
+      ]
+    },
+    {
+      "id": "fib-9",
+      "number": 9,
+      "question": "Pain messages transmit to the brain via two types of nerve fibres: large __________ and small __________ nerve fibres.",
+      "answer": "A-delta; C",
+      "accepted_answers": [
+        "A-delta; C"
+      ]
+    },
+    {
+      "id": "fib-10",
+      "number": 10,
+      "question": "The fundamental sensation of pain occurs in the __________ within the brain before continuing to the central cortex and limbic system.",
+      "answer": "thalamus",
+      "accepted_answers": [
+        "thalamus"
+      ]
+    },
+    {
+      "id": "fib-11",
+      "number": 11,
+      "question": "__________ is the point at which sensory input is 'painful', whereas __________ is the response to pain.",
+      "answer": "Pain threshold; pain tolerance",
+      "accepted_answers": [
+        "Pain threshold; pain tolerance"
+      ]
+    },
+    {
+      "id": "fib-12",
+      "number": 12,
+      "question": "The four processes in nociception are transduction, __________, modulation, and perception.",
+      "answer": "transmission",
+      "accepted_answers": [
+        "transmission"
+      ]
+    },
+    {
+      "id": "fib-13",
+      "number": 13,
+      "question": "According to the Gate Control Theory, when small fibres (A-delta & C fibres) are stimulated, the pain gate is __________.",
+      "answer": "opened",
+      "accepted_answers": [
+        "opened"
+      ]
+    },
+    {
+      "id": "fib-14",
+      "number": 14,
+      "question": "Under Psychological Assessment, problems that affect patients with pain include depression, anxiety, anger, appetite loss, sleep, distress, and __________.",
+      "answer": "tension",
+      "accepted_answers": [
+        "tension"
+      ]
+    },
+    {
+      "id": "fib-15",
+      "number": 15,
+      "question": "Analgesics, or __________, are medications that relieve different types of pain.",
+      "answer": "painkillers",
+      "accepted_answers": [
+        "painkillers"
+      ]
+    },
+    {
+      "id": "fib-16",
+      "number": 16,
+      "question": "In Palliative Care and ICU, background opioids use __________ oral morphine, while rescue doses use __________ morphine solution.",
+      "answer": "modified-released; immediate-released",
+      "accepted_answers": [
+        "modified-released; immediate-released"
+      ]
+    },
+    {
+      "id": "fib-17",
+      "number": 17,
+      "question": "Post-operative analgesia is vital to __________, ventilate lungs, and enable oral intake.",
+      "answer": "mobilise",
+      "accepted_answers": [
+        "mobilise"
+      ]
+    },
+    {
+      "id": "fib-18",
+      "number": 18,
+      "question": "Peripheral nerve block started in the Operating Theatre uses __________% bupivacaine with adrenaline (in 200,000).",
+      "answer": "0.5",
+      "accepted_answers": [
+        "0.5"
+      ]
+    },
+    {
+      "id": "fib-19",
+      "number": 19,
+      "question": "Epidural analgesia started in the Operating Theatre uses __________ at a concentration of 0.1–0.5%.",
+      "answer": "Bupivacaine",
+      "accepted_answers": [
+        "Bupivacaine"
+      ]
+    },
+    {
+      "id": "fib-20",
+      "number": 20,
+      "question": "Heart failure as a side effect of weak analgesics is managed by stopping the pain medication and applying __________.",
+      "answer": "CPR",
+      "accepted_answers": [
+        "CPR"
+      ]
+    },
+    {
+      "id": "fib-21",
+      "number": 21,
+      "question": "Constipation caused by strong analgesics is managed by __________ (laxatives).",
+      "answer": "Lactulose",
+      "accepted_answers": [
+        "Lactulose"
+      ]
+    },
+    {
+      "id": "fib-22",
+      "number": 22,
+      "question": "Nausea and vomiting caused by strong analgesics are managed by __________.",
+      "answer": "Metoclopramide",
+      "accepted_answers": [
+        "Metoclopramide"
+      ]
+    },
+    {
+      "id": "fib-23",
+      "number": 23,
+      "question": "A rash caused by strong analgesics is managed by applying __________.",
+      "answer": "Hydrocortisone cream",
+      "accepted_answers": [
+        "Hydrocortisone cream"
+      ]
+    },
+    {
+      "id": "fib-24",
+      "number": 24,
+      "question": "If pain is not managed, it results in increased stress, decreased __________, sleep disruption, increased anxiety and depression levels, and delay in the healing process.",
+      "answer": "appetite",
+      "accepted_answers": [
+        "appetite"
+      ]
+    },
+    {
+      "id": "fib-25",
+      "number": 25,
+      "question": "One reason for poor analgesia is prolonged dosing intervals and the belief that opioids must not be given more often than every __________ hours.",
+      "answer": "4",
+      "accepted_answers": [
+        "4"
+      ]
+    }
+  ],
+  "study_questions": [
+    {
+      "id": "study-1",
+      "number": 1,
+      "type": "points",
+      "question": "What are the causes of Acute Pain?",
+      "answer": [
+        "Unexpected illness or injury",
+        "Surgical procedures",
+        "Trauma",
+        "Burns",
+        "Hospital procedures",
+        "Inflammation",
+        "Infection",
+        "Angina",
+        "Labour pain",
+        "Post-op pain"
+      ]
+    },
+    {
+      "id": "study-2",
+      "number": 2,
+      "type": "points",
+      "question": "What are the causes of Chronic Pain?",
+      "answer": [
+        "Illnesses",
+        "Musculoskeletal problems",
+        "Injury",
+        "Surgery",
+        "Cancer"
+      ]
+    },
+    {
+      "id": "study-3",
+      "number": 3,
+      "type": "points",
+      "question": "What are the descriptions of Nociceptive Pain?",
+      "answer": [
+        "Aching",
+        "Sharp",
+        "Cramping",
+        "Throbbing pain"
+      ]
+    },
+    {
+      "id": "study-4",
+      "number": 4,
+      "type": "points",
+      "question": "What are the types of Nociceptive Pain?",
+      "answer": [
+        "Somatic pain",
+        "Visceral pain",
+        "Referred pain",
+        "Ischemic pain"
+      ]
+    },
+    {
+      "id": "study-5",
+      "number": 5,
+      "type": "points",
+      "question": "Which analgesics does Nociceptive Pain respond to?",
+      "answer": [
+        "Simple analgesics",
+        "NSAIDs",
+        "Strong opioids"
+      ]
+    },
+    {
+      "id": "study-6",
+      "number": 6,
+      "type": "points",
+      "question": "What are the descriptions of Neuropathic Pain?",
+      "answer": [
+        "Shooting",
+        "Burning",
+        "Electric shocks",
+        "Numbness",
+        "Pins or needles",
+        "Allodynia",
+        "Hyperalgesia"
+      ]
+    },
+    {
+      "id": "study-7",
+      "number": 7,
+      "type": "points",
+      "question": "What are the descriptions of Radicular Pain (Sciatica)?",
+      "answer": [
+        "Tingling",
+        "Numbness",
+        "Muscle weakness"
+      ]
+    },
+    {
+      "id": "study-8",
+      "number": 8,
+      "type": "points",
+      "question": "What are the classifications of pain in the document?",
+      "answer": [
+        "Acute Pain",
+        "Chronic Pain",
+        "Nociceptive Pain",
+        "Neuropathic Pain",
+        "Radicular Pain (Sciatica)"
+      ]
+    },
+    {
+      "id": "study-9",
+      "number": 9,
+      "type": "points",
+      "question": "Which chemical substances are released into tissue when tissue damage occurs?",
+      "answer": [
+        "Histamine",
+        "Substance P",
+        "Bradykinin",
+        "Acetylcholine",
+        "Leukotrienes",
+        "Prostaglandins"
+      ]
+    },
+    {
+      "id": "study-10",
+      "number": 10,
+      "type": "points",
+      "question": "Which substances are released from damaged cells (per the figure)?",
+      "answer": [
+        "Bradykinin",
+        "Cations (protons, potassium ions)",
+        "Free radicals (nitric oxide)",
+        "Histamine",
+        "Prostanoids (prostaglandins, leukotrienes)",
+        "Purines (adenosine, adenosine triphosphate)",
+        "Serotonin",
+        "Tachykinins (substance P, neurokinin A)"
+      ]
+    },
+    {
+      "id": "study-11",
+      "number": 11,
+      "type": "points",
+      "question": "What are the pain measurement tools?",
+      "answer": [
+        "Visual Analogue Scale (VAS)",
+        "Numeric Rating Scale (NRS)",
+        "Verbal Rating Scale (VRS)",
+        "Faces Pain Rating Scale (FPRS)"
+      ]
+    },
+    {
+      "id": "study-12",
+      "number": 12,
+      "type": "points",
+      "question": "What are the key pain management strategies?",
+      "answer": [
+        "Pain medicines",
+        "Physical therapies (heat or cold packs, massage, hydrotherapy and exercise)",
+        "Psychological therapies (CBT, relaxation techniques and meditation, e.g., distraction)"
+      ]
+    },
+    {
+      "id": "study-13",
+      "number": 13,
+      "type": "points",
+      "question": "What are the classes of pain medication?",
+      "answer": [
+        "Non-opioids: NSAIDs, acetaminophen",
+        "Opioids: codeine, morphine, hydromorphone, oxycodone, fentanyl, etc.",
+        "Adjuvants: steroids; antidepressants (SNRIs, TCA); anticonvulsants (gabapentin, pregabalin, carbamazepine, valproate); bisphosphonates"
+      ]
+    },
+    {
+      "id": "study-14",
+      "number": 14,
+      "type": "points",
+      "question": "What systemic analgesia is started in the operating theatre (OT) after surgery?",
+      "answer": [
+        "Paracetamol 650 mg",
+        "NSAIDs, e.g., diclofenac 50 mg",
+        "Opioids, e.g., morphine 10 mg or pethidine 57–100 mg",
+        "Local anaesthesia"
+      ]
+    },
+    {
+      "id": "study-15",
+      "number": 15,
+      "type": "points",
+      "question": "Why is post-operative analgesia important?",
+      "answer": [
+        "To mobilise",
+        "To ventilate the lungs",
+        "To allow oral intake"
+      ]
+    },
+    {
+      "id": "study-16",
+      "number": 16,
+      "type": "points",
+      "question": "What are the side effects of strong analgesics?",
+      "answer": [
+        "Respiratory depression",
+        "Constipation",
+        "Nausea and vomiting",
+        "Tolerance and dependence",
+        "Sedation",
+        "Poor concentration",
+        "Drowsiness",
+        "Dizziness",
+        "Dry mouth",
+        "Rashes"
+      ]
+    },
+    {
+      "id": "study-17",
+      "number": 17,
+      "type": "points",
+      "question": "What are the consequences of not managing pain?",
+      "answer": [
+        "Increased levels of stress",
+        "Decreased appetite",
+        "Sleep disruption",
+        "Increased anxiety and depression",
+        "Delay in the healing process"
+      ]
+    },
+    {
+      "id": "study-18",
+      "number": 18,
+      "type": "points",
+      "question": "What are the reasons for poor analgesia?",
+      "answer": [
+        "A. Belief that pain is not harmful to the patient, or that it is a normal consequence of surgery and injury",
+        "B. Concern that pain relief will obscure the surgical diagnosis or mask signs of surgical complications",
+        "C. Tendency to underestimate the patient's pain and not recognise variability in patients' perception of pain",
+        "D. Lack of frequent and regular assessment of pain and of pain-relieving measures",
+        "E. Fear that the patient will become addicted to opioids",
+        "F. Concern about the high risk of respiratory depression with opioids",
+        "G. Inadequate preoperative patient education regarding postoperative analgesia",
+        "H. Patient reluctance to request analgesia",
+        "I. Lack of understanding of the enormous inter-patient variability in opioid requirements",
+        "J. Lack of recognition that age is a better predictor of opioid requirement than weight in adult patients",
+        "K. Prolonged dosing intervals and the belief that opioids must not be given more often than every 4 hours",
+        "L. Insufficient flexibility in dosing schedules (dose and intervals)",
+        "M. Lack of understanding of the need to titrate analgesics to each patient's needs",
+        "N. Lack of accountability for pain management, and not considering the link between regional anaesthesia and postoperative pain relief"
+      ]
+    },
+    {
+      "id": "study-19",
+      "number": 19,
+      "type": "points",
+      "question": "What are the types of pain management?",
+      "answer": [
+        "Neuropathic pain management",
+        "Back pain management",
+        "Knee pain management",
+        "Shoulder pain management",
+        "Musculoskeletal or joint pain management",
+        "Headache or migraine pain management",
+        "Pelvic pain management",
+        "Post-surgical pain management",
+        "Cancer-related pain management"
+      ]
+    },
+    {
+      "id": "study-20",
+      "number": 1,
+      "type": "points_with_explanation",
+      "question": "What is the difference between Acute Pain and Chronic Pain?",
+      "answer": [
+        "Acute Pain: Quick onset and usually lasts for a short time. The diagrams in the file describe it as sudden onset that resolves within 3 months.",
+        "Chronic Pain: Continues for a long duration, which can be more than 12 weeks, or persists after the time when healing would have been expected to occur after trauma or surgery.",
+        "Chronic Pain Cycle: Pain → muscle tension → reduced circulation → muscle inflammation → reduced movement → pain returns."
+      ]
+    },
+    {
+      "id": "study-21",
+      "number": 2,
+      "type": "points_with_explanation",
+      "question": "What are the steps of the WHO Analgesic Ladder for acute pain management?",
+      "answer": [
+        "Step 1: Paracetamol and/or NSAID.",
+        "Step 2: Add a weak opioid for mild to moderate pain, e.g., codeine, dihydrocodeine, tramadol.",
+        "Step 3: Change to a strong opioid for moderate to severe pain, e.g., morphine, fentanyl, methadone, oxycodone.",
+        "Additional: Adjuvant treatment."
+      ]
+    },
+    {
+      "id": "study-22",
+      "number": 3,
+      "type": "points_with_explanation",
+      "question": "What are the parts of the Biopsychosocial Assessment and what does each explain?",
+      "answer": [
+        "First: Bio (Physical) Assessment: Assesses the patient physically: pain location, duration, intensity and frequency.",
+        "Second: Psycho (Psychological) Assessment: Patients with pain are affected physically and psychologically, as some problems such as depression, anxiety, anger, appetite loss, sleep problems, distress and tension can affect them.",
+        "Third: Social Assessment: Pain affects the patient's family, friends, work or finances."
+      ]
+    },
+    {
+      "id": "study-23",
+      "number": 4,
+      "type": "points_with_explanation",
+      "question": "What causes Nociceptive Pain and what is its mechanism?",
+      "answer": [
+        "Mechanism: Damage to body tissue.",
+        "Causes: Tissues damaged by physical or chemical agents, such as trauma, surgery and chemical burns."
+      ]
+    },
+    {
+      "id": "study-24",
+      "number": 5,
+      "type": "points_with_explanation",
+      "question": "What are the types of Nociceptive Pain and what does each explain?",
+      "answer": [
+        "Somatic pain: Resulting from tissue injury, either musculoskeletal (e.g., inflammatory, progressive) or from trauma.",
+        "Visceral pain: Caused by prolonged activation of visceral nociceptors in different pathological mechanisms, e.g., ischaemic, pancreatitis, colic and cancer.",
+        "Referred pain: The patient feels pain at a location other than the source of damage. E.g., people often report shoulder pain during a heart attack.",
+        "Ischemic pain: Caused by insufficient oxygen supply to tissue."
+      ]
+    },
+    {
+      "id": "study-25",
+      "number": 6,
+      "type": "points_with_explanation",
+      "question": "What is Neuropathic Pain and how is it treated?",
+      "answer": [
+        "Mechanism: Pain activated by, or due to, a primary injury or dysfunction in the CNS.",
+        "Response to traditional analgesia: Responds poorly to traditional analgesia such as paracetamol, codeine and morphine.",
+        "Treatment: Either tricyclic antidepressants (e.g., amitriptyline) or anticonvulsant drugs (e.g., pregabalin)."
+      ]
+    },
+    {
+      "id": "study-26",
+      "number": 7,
+      "type": "points_with_explanation",
+      "question": "What is Radicular Pain (Sciatica)?",
+      "answer": [
+        "Mechanism: Occurs when the spinal nerve gets compressed or inflamed.",
+        "Description: Tingling, numbness and muscle weakness."
+      ]
+    },
+    {
+      "id": "study-27",
+      "number": 8,
+      "type": "points_with_explanation",
+      "question": "What is the difference between Allodynia and Hyperalgesia?",
+      "answer": [
+        "Allodynia – IASP definition: Pain due to a stimulus that does not normally provoke pain. Mechanism: lowered threshold. Stimulus and response mode: differ. The word means \"allo\" = other and \"dynia\" = pain. It can occur with mechanical, thermal or chemical stimuli, e.g., pain from light touch of the skin with clothing sliding over it, or pain from intrinsic heat generated by the body.",
+        "Hyperalgesia – IASP definition: Increased pain from a stimulus that normally provokes pain. Mechanism: increased response. Stimulus and response mode: same. Example: a needle prick, which is normally painful, but with hyperalgesia the pain is greater than normal in magnitude and/or duration."
+      ]
+    },
+    {
+      "id": "study-28",
+      "number": 9,
+      "type": "points_with_explanation",
+      "question": "What are the processes in nociception and what does each explain?",
+      "answer": [
+        "1. Transduction: Occurs when free nerve endings (nociceptors) of C fibres and A-delta fibres receive a stimulus.",
+        "2. Transmission: The message is transmitted from nociceptive receptors to the CNS.",
+        "3. Modulation: Other activities in the body modify the message; this can occur in other peripheral nerves or in the CNS.",
+        "4. Perception: Occurs when the painful sensation is perceived by the brain."
+      ]
+    },
+    {
+      "id": "study-29",
+      "number": 10,
+      "type": "points_with_explanation",
+      "question": "What are the pain pathways?",
+      "answer": [
+        "Pain is felt when small nerve endings become either activated or damaged by injury.",
+        "When tissue damage occurs, chemicals such as histamine, substance P, bradykinin, acetylcholine, leukotrienes and prostaglandins are released and modulate pain transmission.",
+        "Pain messages travel through the dorsal horn of the spinal cord to the brain via the spinothalamic tract, carried by two types of fibres: large A-delta fibres and small C fibres.",
+        "In the thalamus, the fundamental sensation of pain occurs; the sensation then continues to the central cortex and the limbic system (emotional centre), where pain is perceived and interpreted."
+      ]
+    },
+    {
+      "id": "study-30",
+      "number": 11,
+      "type": "points_with_explanation",
+      "question": "What are the characteristics of the physiology of pain and what does each explain?",
+      "answer": [
+        "Sensory experience: A sensory signal, e.g., a sharp sensation.",
+        "Effective experience: An emotional reaction, e.g., \"It's excruciating.\"",
+        "Key characteristic: Pain is subjective.",
+        "Pain threshold: The point at which a sensory input is felt as \"painful\".",
+        "Allodynia: Pain with normal sensory inputs.",
+        "Pain tolerance: The response to pain."
+      ]
+    },
+    {
+      "id": "study-31",
+      "number": 12,
+      "type": "points_with_explanation",
+      "question": "What is the Gate Control Theory of Pain and how does it affect pain levels?",
+      "answer": [
+        "According to this theory, opening and closing of the \"pain gate\" can lead to either an increase or a decrease in the level of pain.",
+        "Gate Opened (increased pain): If small fibres (A-delta and C) are stimulated, the gate opens. This leads to more pain signals transmitted through the dorsal horn of the spinal cord, where they synapse with dorsal horn neurons in the substantia gelatinosa, and then travel via the spinothalamic tract to the brain.",
+        "Gate Closed (decreased pain): If large-diameter afferent fibres (A and beta) are stimulated, they can inhibit pain transmission and close the gate. This reduces the perception of pain signals, so a lower level of pain can be experienced."
+      ]
+    },
+    {
+      "id": "study-32",
+      "number": 13,
+      "type": "points_with_explanation",
+      "question": "What are the side effects of weak analgesics and how are they managed?",
+      "answer": [
+        "Headache: Managed with paracetamol.",
+        "Gastritis: Managed with omeprazole.",
+        "Stomach ulcers: Managed by gradually reducing pain medications and giving the patient oxygen (O₂).",
+        "Asthma: Treated by gradually reducing pain medications and checking whether the patient still needs the drugs.",
+        "Hypertension: Treated by gradually reducing pain medications.",
+        "Renal impairment: Managed by stopping pain drugs and giving the patient IV fluids.",
+        "Heart failure: Stop the pain medication and apply CPR.",
+        "Coronary artery disease: Stop the pain medication.",
+        "Stroke: Stop the pain medication."
+      ]
+    },
+    {
+      "id": "study-33",
+      "number": 14,
+      "type": "points_with_explanation",
+      "question": "What are the side effects of strong analgesics and how are they managed?",
+      "answer": [
+        "Respiratory depression: Managed with naloxone and O₂.",
+        "Constipation: Managed with lactulose (laxatives).",
+        "Nausea and vomiting: Managed with metoclopramide.",
+        "Tolerance and dependence: Managed by gradually reducing medications.",
+        "Sedation and poor concentration: Managed by gradually reducing medications.",
+        "Dizziness: Managed with promethazine (Phenergan).",
+        "Rash: Managed with hydrocortisone cream.",
+        "The file also lists drowsiness and dry mouth as side effects without a specified management."
+      ]
+    },
+    {
+      "id": "study-34",
+      "number": 15,
+      "type": "points_with_explanation",
+      "question": "Which opioids are used in Palliative Care and ICU, and what are the dosing principles?",
+      "answer": [
+        "Background opioids: Modified-release oral morphine.",
+        "Rescue doses: Immediate-release morphine solution, equal to 1/6 of the 24-hour background dose.",
+        "Example: Background 30 mg/24 h → rescue dose 5 mg (1/6 of 30 mg)."
+      ]
+    },
+    {
+      "id": "study-35",
+      "number": 16,
+      "type": "points_with_explanation",
+      "question": "What are the methods of post-operative analgesia and what does each explain?",
+      "answer": [
+        "Post-operative analgesia is vital to mobilise, ventilate the lungs and allow oral intake. It is started in the operating theatre (OT) using the following methods:",
+        "1. Systemic analgesia: Paracetamol 650 mg, NSAIDs such as diclofenac 50 mg, opioids such as morphine 10 mg or pethidine 57–100 mg, and local anaesthesia.",
+        "2. Peripheral nerve block: 0.5% bupivacaine with adrenaline (in 200,000).",
+        "3. Spinal analgesia: Morphine 0.5–1.0 mg for 16–24 hours.",
+        "4. Epidural analgesia: Bupivacaine 0.1–0.5%."
+      ]
+    }
+  ]
+}

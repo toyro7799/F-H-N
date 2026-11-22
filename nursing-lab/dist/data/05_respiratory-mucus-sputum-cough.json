@@ -1,0 +1,798 @@
+{
+  "exam_id": 5,
+  "slug": "respiratory-mucus-sputum-cough",
+  "title": "Respiratory System: Mucus, Sputum, Cough & Haemoptysis",
+  "source_file": "5_Respiratory_Mucus_Sputum_Cough_Questions.docx",
+  "notes": [],
+  "counts": {
+    "multiple_choice": 25,
+    "fill_in_the_blank": 25,
+    "study_questions": 16
+  },
+  "multiple_choice": [
+    {
+      "id": "mcq-1",
+      "number": 1,
+      "question": "According to the handout, what is the composition of mucus?",
+      "options": {
+        "A": "80% water, 15% proteins, 5% salt",
+        "B": "95% water, 3% proteins, 1% salt & other substances",
+        "C": "70% water, 20% lipids, 10% antibodies",
+        "D": "90% water, 8% mucin, 2% enzymes"
+      },
+      "answer": "B",
+      "answer_text": "95% water, 3% proteins, 1% salt & other substances"
+    },
+    {
+      "id": "mcq-2",
+      "number": 2,
+      "question": "Which of the following proteins are specifically mentioned as components of mucus?",
+      "options": {
+        "A": "Albumin and fibrin",
+        "B": "Hemoglobin and collagen",
+        "C": "Mucin and antibodies",
+        "D": "Elastin and keratin"
+      },
+      "answer": "C",
+      "answer_text": "Mucin and antibodies"
+    },
+    {
+      "id": "mcq-3",
+      "number": 3,
+      "question": "What is the difference between mucus and phlegm?",
+      "options": {
+        "A": "Phlegm is produced only in the digestive tract, while mucus is in the lungs",
+        "B": "Phlegm refers specifically to mucus produced by the respiratory system, particularly when excess mucus is coughed up",
+        "C": "Phlegm is another term for saliva",
+        "D": "Phlegm contains no water or proteins"
+      },
+      "answer": "B",
+      "answer_text": "Phlegm refers specifically to mucus produced by the respiratory system, particularly when excess mucus is coughed up"
+    },
+    {
+      "id": "mcq-4",
+      "number": 4,
+      "question": "What causes the yellow tinge in yellow mucus?",
+      "options": {
+        "A": "Dead red blood cells",
+        "B": "Inhaled dust and smoke",
+        "C": "White blood cells (WBCs) rushing to the site of infection",
+        "D": "Fungal spores"
+      },
+      "answer": "C",
+      "answer_text": "White blood cells (WBCs) rushing to the site of infection"
+    },
+    {
+      "id": "mcq-5",
+      "number": 5,
+      "question": "Where does the green colour of thick green mucus come from?",
+      "options": {
+        "A": "Dead WBCs that have been battling infection and other waste products being flushed out",
+        "B": "Dried blood from nasal sprays",
+        "C": "Spicy foods",
+        "D": "Coal dust exposure"
+      },
+      "answer": "A",
+      "answer_text": "Dead WBCs that have been battling infection and other waste products being flushed out"
+    },
+    {
+      "id": "mcq-6",
+      "number": 6,
+      "question": "Besides smoking or heavy air pollution, what can black mucus be a sign of?",
+      "options": {
+        "A": "Hay fever",
+        "B": "Pregnancy rhinitis",
+        "C": "A serious fungal infection",
+        "D": "Dehydration"
+      },
+      "answer": "C",
+      "answer_text": "A serious fungal infection"
+    },
+    {
+      "id": "mcq-7",
+      "number": 7,
+      "question": "Why does white mucus become cloudy and thick?",
+      "options": {
+        "A": "Because of high water content",
+        "B": "Because when the nasal passage gets inflamed, mucus loses its water content and moisture",
+        "C": "Because of pulmonary oedema",
+        "D": "Because of bacterial fibrin buildup"
+      },
+      "answer": "B",
+      "answer_text": "Because when the nasal passage gets inflamed, mucus loses its water content and moisture"
+    },
+    {
+      "id": "mcq-8",
+      "number": 8,
+      "question": "Approximately how much mucus does the body produce per day?",
+      "options": {
+        "A": "100 to 200 mL",
+        "B": "500 mL",
+        "C": "1 to 1.5 litres",
+        "D": "3 to 4 litres"
+      },
+      "answer": "C",
+      "answer_text": "1 to 1.5 litres"
+    },
+    {
+      "id": "mcq-9",
+      "number": 9,
+      "question": "Which medication is classified as an Expectorant in the management of mucus?",
+      "options": {
+        "A": "Phenylephrine (Sudafed)",
+        "B": "Diphenhydramine (Benadryl)",
+        "C": "Guaifenesin (Robitussin)",
+        "D": "Barium sulfate"
+      },
+      "answer": "C",
+      "answer_text": "Guaifenesin (Robitussin)"
+    },
+    {
+      "id": "mcq-10",
+      "number": 10,
+      "question": "Which cells are responsible for the secretion of mucus in mucous membranes?",
+      "options": {
+        "A": "Red blood cells",
+        "B": "Goblet cells and submucosal glands",
+        "C": "Alveolar macrophages",
+        "D": "Platelets"
+      },
+      "answer": "B",
+      "answer_text": "Goblet cells and submucosal glands"
+    },
+    {
+      "id": "mcq-11",
+      "number": 11,
+      "question": "Sputum is specifically secreted by cells in which part of the respiratory tract?",
+      "options": {
+        "A": "Nasal passages and sinuses",
+        "B": "Upper pharynx only",
+        "C": "Lower airways (bronchi and bronchioles)",
+        "D": "Salivary glands"
+      },
+      "answer": "C",
+      "answer_text": "Lower airways (bronchi and bronchioles)"
+    },
+    {
+      "id": "mcq-12",
+      "number": 12,
+      "question": "Pink sputum typically indicates which condition?",
+      "options": {
+        "A": "Black lung disease",
+        "B": "Pulmonary oedema (fluid on lungs), e.g., from congestive heart failure",
+        "C": "Normal healthy lungs",
+        "D": "Allergic sinusitis"
+      },
+      "answer": "B",
+      "answer_text": "Pulmonary oedema (fluid on lungs), e.g., from congestive heart failure"
+    },
+    {
+      "id": "mcq-13",
+      "number": 13,
+      "question": "Red sputum is a sign of internal injury, lung cancer, or:",
+      "options": {
+        "A": "Common cold",
+        "B": "Pulmonary embolism (PE)",
+        "C": "Hay fever",
+        "D": "Pregnancy rhinitis"
+      },
+      "answer": "B",
+      "answer_text": "Pulmonary embolism (PE)"
+    },
+    {
+      "id": "mcq-14",
+      "number": 14,
+      "question": "Dark yellow or green sputum can indicate pneumonia or which inherited condition involving excess mucus buildup?",
+      "options": {
+        "A": "Cystic fibrosis",
+        "B": "Asthma",
+        "C": "Gastroesophageal reflux disease (GERD)",
+        "D": "Croup"
+      },
+      "answer": "A",
+      "answer_text": "Cystic fibrosis"
+    },
+    {
+      "id": "mcq-15",
+      "number": 15,
+      "question": "How is a Subacute cough defined?",
+      "options": {
+        "A": "Begins suddenly and lasts 2 to 3 weeks",
+        "B": "Stays around after an infection and lasts 3 to 8 weeks",
+        "C": "Lasts longer than 8 weeks",
+        "D": "A chronic cough that fails to respond to treatment"
+      },
+      "answer": "B",
+      "answer_text": "Stays around after an infection and lasts 3 to 8 weeks"
+    },
+    {
+      "id": "mcq-16",
+      "number": 16,
+      "question": "A Chronic (persistent) cough is defined as lasting longer than:",
+      "options": {
+        "A": "2 weeks",
+        "B": "4 weeks",
+        "C": "6 weeks",
+        "D": "8 weeks"
+      },
+      "answer": "D",
+      "answer_text": "8 weeks"
+    },
+    {
+      "id": "mcq-17",
+      "number": 17,
+      "question": "A cough that sounds like barking can be a sign of:",
+      "options": {
+        "A": "Pertussis",
+        "B": "Croup",
+        "C": "Pulmonary embolism",
+        "D": "Cystic fibrosis"
+      },
+      "answer": "B",
+      "answer_text": "Croup"
+    },
+    {
+      "id": "mcq-18",
+      "number": 18,
+      "question": "Which class of blood pressure medications is listed as a common cause of cough?",
+      "options": {
+        "A": "Beta-blockers",
+        "B": "Calcium channel blockers",
+        "C": "Angiotensin-converting enzyme (ACE) inhibitors",
+        "D": "Diuretics"
+      },
+      "answer": "C",
+      "answer_text": "Angiotensin-converting enzyme (ACE) inhibitors"
+    },
+    {
+      "id": "mcq-19",
+      "number": 19,
+      "question": "Which of the following is listed as a medical condition that causes CHRONIC cough?",
+      "options": {
+        "A": "Acute bronchiolitis",
+        "B": "Gastroesophageal reflux disease (GERD)",
+        "C": "Common cold",
+        "D": "Whooping cough"
+      },
+      "answer": "B",
+      "answer_text": "Gastroesophageal reflux disease (GERD)"
+    },
+    {
+      "id": "mcq-20",
+      "number": 20,
+      "question": "As a complication of cough, what does the term \"dysphonia\" mean?",
+      "options": {
+        "A": "Difficulty swallowing",
+        "B": "Abnormal voice (hoarseness)",
+        "C": "Urinary incontinence",
+        "D": "Chest pain"
+      },
+      "answer": "B",
+      "answer_text": "Abnormal voice (hoarseness)"
+    },
+    {
+      "id": "mcq-21",
+      "number": 21,
+      "question": "In the management of cough, when should decongestants NOT be given?",
+      "options": {
+        "A": "If the patient has a runny nose",
+        "B": "If the patient's blood pressure is high (BP ↑↑)",
+        "C": "If the patient drinks plenty of fluids",
+        "D": "If the patient uses a vaporizer"
+      },
+      "answer": "B",
+      "answer_text": "If the patient's blood pressure is high (BP ↑↑)"
+    },
+    {
+      "id": "mcq-22",
+      "number": 22,
+      "question": "Which test may be done to evaluate gastroesophageal reflux as a cause of cough?",
+      "options": {
+        "A": "Echocardiogram",
+        "B": "CT scan of the sinuses",
+        "C": "Barium swallow",
+        "D": "Sputum cytology"
+      },
+      "answer": "C",
+      "answer_text": "Barium swallow"
+    },
+    {
+      "id": "mcq-23",
+      "number": 23,
+      "question": "According to the Haemoptysis diagram, what defines \"Massive haemoptysis\"?",
+      "options": {
+        "A": "> 100 mL within 24 hours",
+        "B": "> 400 mL within 24 hours or 150–200 mL at once",
+        "C": "< 150 mL within 24 hours",
+        "D": "Small flecks of blood only"
+      },
+      "answer": "B",
+      "answer_text": "> 400 mL within 24 hours or 150–200 mL at once"
+    },
+    {
+      "id": "mcq-24",
+      "number": 24,
+      "question": "How can we tell if a patient has haemoptysis?",
+      "options": {
+        "A": "Sputum is dark brown and accompanied by severe vomiting",
+        "B": "Sputum is frothy or liquid/clotted bright red or pink blood, patient has lung disease, and does not have nausea or vomiting",
+        "C": "Patient has clear runny nose and sinus headache",
+        "D": "Patient only coughs at night with a barking sound"
+      },
+      "answer": "B",
+      "answer_text": "Sputum is frothy or liquid/clotted bright red or pink blood, patient has lung disease, and does not have nausea or vomiting"
+    },
+    {
+      "id": "mcq-25",
+      "number": 25,
+      "question": "In cases of severe haemoptysis, what may the patient need before the underlying cause is found?",
+      "options": {
+        "A": "Antihistamines",
+        "B": "A barium swallow",
+        "C": "A surgical procedure to stop bleeding",
+        "D": "Guaifenesin"
+      },
+      "answer": "C",
+      "answer_text": "A surgical procedure to stop bleeding"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "id": "fib-1",
+      "number": 1,
+      "question": "Mucus is 95% water, 3% proteins (including __________ and antibodies), and 1% salt & other substances.",
+      "answer": "mucin",
+      "accepted_answers": [
+        "mucin"
+      ]
+    },
+    {
+      "id": "fib-2",
+      "number": 2,
+      "question": "The __________ function of mucus lubricates and protects the lining of the stomach and intestines.",
+      "answer": "digestive",
+      "accepted_answers": [
+        "digestive"
+      ]
+    },
+    {
+      "id": "fib-3",
+      "number": 3,
+      "question": "Besides respiratory infections and allergic reactions, even consumption of __________ foods can spark excess mucus production in nasal passages.",
+      "answer": "spicy",
+      "accepted_answers": [
+        "spicy"
+      ]
+    },
+    {
+      "id": "fib-4",
+      "number": 4,
+      "question": "__________ or __________ mucus typically means blood is present because the nasal passage is dry, irritated, or damaged.",
+      "answer": "Pink; red",
+      "accepted_answers": [
+        "Pink; red"
+      ]
+    },
+    {
+      "id": "fib-5",
+      "number": 5,
+      "question": "__________ mucus may be the result of dried blood sitting in the nasal passage, inhaling dirt or smoke, or pneumonia/bronchitis.",
+      "answer": "Brown",
+      "accepted_answers": [
+        "Brown"
+      ]
+    },
+    {
+      "id": "fib-6",
+      "number": 6,
+      "question": "According to the mucus color table, __________ rhinitis can present with clear or red/pink mucus.",
+      "answer": "nonallergic or pregnancy",
+      "accepted_answers": [
+        "nonallergic or pregnancy"
+      ]
+    },
+    {
+      "id": "fib-7",
+      "number": 7,
+      "question": "Phenylephrine (Sudafed) is a __________, whereas Diphenhydramine (Benadryl) is an __________.",
+      "answer": "decongestant; antihistamine",
+      "accepted_answers": [
+        "decongestant; antihistamine"
+      ]
+    },
+    {
+      "id": "fib-8",
+      "number": 8,
+      "question": "The __________ escalator is responsible for the clearance of mucus towards the pharynx, where it is expectorated by the cough reflex.",
+      "answer": "muco-ciliary",
+      "accepted_answers": [
+        "muco-ciliary"
+      ]
+    },
+    {
+      "id": "fib-9",
+      "number": 9,
+      "question": "In diseased states, sputum may also contain __________, blood, fibrin, and microorganisms.",
+      "answer": "pus",
+      "accepted_answers": [
+        "pus"
+      ]
+    },
+    {
+      "id": "fib-10",
+      "number": 10,
+      "question": "The three tests used to evaluate sputum are sputum __________, sputum for tuberculosis, and sputum __________.",
+      "answer": "culture; cytology",
+      "accepted_answers": [
+        "culture; cytology"
+      ]
+    },
+    {
+      "id": "fib-11",
+      "number": 11,
+      "question": "__________ sputum occurs in people who smoke and those with black lung disease, a condition resulting from exposure to coal dust.",
+      "answer": "Brown",
+      "accepted_answers": [
+        "Brown"
+      ]
+    },
+    {
+      "id": "fib-12",
+      "number": 12,
+      "question": "A __________ is a natural reflex that is the body's way of removing irritants from the upper (throat) and lower (lungs) airways.",
+      "answer": "cough",
+      "accepted_answers": [
+        "cough"
+      ]
+    },
+    {
+      "id": "fib-13",
+      "number": 13,
+      "question": "During a cough, the brain tells muscles in the __________ and __________ to push air out of the lungs to force out the irritant.",
+      "answer": "chest; abdomen",
+      "accepted_answers": [
+        "chest; abdomen"
+      ]
+    },
+    {
+      "id": "fib-14",
+      "number": 14,
+      "question": "An __________ cough begins suddenly and lasts for two to three weeks.",
+      "answer": "acute",
+      "accepted_answers": [
+        "acute"
+      ]
+    },
+    {
+      "id": "fib-15",
+      "number": 15,
+      "question": "A __________ cough is a chronic cough that has not responded to treatment.",
+      "answer": "refractory",
+      "accepted_answers": [
+        "refractory"
+      ]
+    },
+    {
+      "id": "fib-16",
+      "number": 16,
+      "question": "A __________ (wet) cough brings up mucus or phlegm, while a __________ (dry) cough does not.",
+      "answer": "productive; non-productive",
+      "accepted_answers": [
+        "productive; non-productive"
+      ]
+    },
+    {
+      "id": "fib-17",
+      "number": 17,
+      "question": "__________ (Pertussis) cough is an infection that causes a cough sounding like a \"whoop.\"",
+      "answer": "Whooping",
+      "accepted_answers": [
+        "Whooping"
+      ]
+    },
+    {
+      "id": "fib-18",
+      "number": 18,
+      "question": "Cough with __________ often happens with children when they cough so hard that they gag.",
+      "answer": "vomiting",
+      "accepted_answers": [
+        "vomiting"
+      ]
+    },
+    {
+      "id": "fib-19",
+      "number": 19,
+      "question": "__________ is a fine powdery substance produced by plants that acts as an allergen causing cough.",
+      "answer": "Pollen",
+      "accepted_answers": [
+        "Pollen"
+      ]
+    },
+    {
+      "id": "fib-20",
+      "number": 20,
+      "question": "Complications of cough include sleep disruption, headache, hoarseness and laryngitis, __________ incontinence, and back and chest pain.",
+      "answer": "urinary",
+      "accepted_answers": [
+        "urinary"
+      ]
+    },
+    {
+      "id": "fib-21",
+      "number": 21,
+      "question": "In the management of cough, __________ helps break up mucus.",
+      "answer": "Guaifenesin",
+      "accepted_answers": [
+        "Guaifenesin"
+      ]
+    },
+    {
+      "id": "fib-22",
+      "number": 22,
+      "question": "An __________ is a test used to check the heart when investigating a cough.",
+      "answer": "echocardiogram",
+      "accepted_answers": [
+        "echocardiogram"
+      ]
+    },
+    {
+      "id": "fib-23",
+      "number": 23,
+      "question": "__________ is defined as coughing up blood from the lungs or bronchial tubes.",
+      "answer": "Haemoptysis",
+      "accepted_answers": [
+        "Haemoptysis"
+      ]
+    },
+    {
+      "id": "fib-24",
+      "number": 24,
+      "question": "__________ is an endoscopic examination indicated in the investigation of haemoptysis, alongside Bronchoscopy and Bronchoalveolar Lavage (BAL).",
+      "answer": "Fibroscopy",
+      "accepted_answers": [
+        "Fibroscopy"
+      ]
+    },
+    {
+      "id": "fib-25",
+      "number": 25,
+      "question": "If a bacterial infection is the cause of haemoptysis, the patient will probably be treated with __________.",
+      "answer": "antibiotics",
+      "accepted_answers": [
+        "antibiotics"
+      ]
+    }
+  ],
+  "study_questions": [
+    {
+      "id": "study-1",
+      "number": 1,
+      "type": "points",
+      "question": "What causes mucus production to increase?",
+      "answer": [
+        "Respiratory infections (colds, flu, & sinusitis).",
+        "Allergic reactions.",
+        "Even consumption of spicy foods can spark excess mucus production in nasal passages."
+      ]
+    },
+    {
+      "id": "study-2",
+      "number": 2,
+      "type": "points",
+      "question": "What are symptoms of excessive mucus?",
+      "answer": [
+        "Runny nose",
+        "Nasal congestion",
+        "Sore throat",
+        "Sinus headache",
+        "Cough"
+      ]
+    },
+    {
+      "id": "study-3",
+      "number": 3,
+      "type": "points",
+      "question": "What areas of body produce mucus?",
+      "answer": [
+        "Lungs",
+        "Sinuses",
+        "Mouth",
+        "Throat",
+        "Nose",
+        "GIT"
+      ]
+    },
+    {
+      "id": "study-4",
+      "number": 4,
+      "type": "points",
+      "question": "Management of mucus",
+      "answer": [
+        "Decongestants: Phenylephrine (Sudafed)",
+        "Antihistamines: Diphenhydramine (Benadryl)",
+        "Expectorant: Guaifenesin (Robitussin)",
+        "Drink plenty of water",
+        "Take a walk",
+        "Sleep with your head elevated."
+      ]
+    },
+    {
+      "id": "study-5",
+      "number": 6,
+      "type": "points",
+      "question": "Causes changes in sputum",
+      "answer": [
+        "Smoking",
+        "Bronchitis",
+        "Asthma",
+        "Cystic fibrosis",
+        "Respiratory tract infections",
+        "Pneumonia",
+        "Tuberculosis (TB)",
+        "Flu",
+        "COVID-19"
+      ]
+    },
+    {
+      "id": "study-6",
+      "number": 9,
+      "type": "points",
+      "question": "Who is more likely to experience cough?",
+      "answer": [
+        "1) Smoke substances (like tobacco or marijuana).",
+        "2) Vape.",
+        "3) Have chronic illnesses, especially those involving lungs or nervous system.",
+        "4) Have allergies.",
+        "5) Children: especially if they're in daycare or school."
+      ]
+    },
+    {
+      "id": "study-7",
+      "number": 10,
+      "type": "points",
+      "question": "What are most common causes of cough?",
+      "answer": [
+        "Irritants or allergens:",
+        "Smoke.",
+        "Strong smells (like cleaners and perfumes).",
+        "Mold.",
+        "Dust.",
+        "Pollen (fine powdery substance produced by plants)",
+        "Pet dander (cats and dogs' fur can cause allergic reaction)",
+        "Mucus.",
+        "Certain medications: E.g., blood pressure medications known as Angiotensin-converting enzyme (ACE) inhibitors.",
+        "Medical conditions cause acute & subacute cough:",
+        "Cold.",
+        "Flu.",
+        "Acute bronchitis or bronchiolitis.",
+        "Sinusitis.",
+        "Pneumonia.",
+        "Whooping cough (pertussis).",
+        "Asthma.",
+        "Allergies.",
+        "Acute second- or third-hand smoke exposure.",
+        "Medical conditions cause chronic cough:",
+        "Chronic bronchitis.",
+        "Asthma.",
+        "Allergies.",
+        "Chronic obstructive pulmonary disease (COPD) and other lung conditions.",
+        "Gastroesophageal reflux disease (GERD).",
+        "Throat disorders, including vocal cord disorders.",
+        "Postnasal drip.",
+        "Heart failure and other cardiac conditions."
+      ]
+    },
+    {
+      "id": "study-8",
+      "number": 11,
+      "type": "points",
+      "question": "What are some complications of cough?",
+      "answer": [
+        "Sleep disruption",
+        "Headache",
+        "Hoarseness (dysphonia = abnormal voice) and laryngitis",
+        "Urinary incontinence",
+        "Back and chest pain"
+      ]
+    },
+    {
+      "id": "study-9",
+      "number": 12,
+      "type": "points",
+      "question": "Management of cough",
+      "answer": [
+        "Drink plenty of fluids",
+        "Use a vaporizer or take a steamy shower",
+        "Guaifenesin helps break up mucus.",
+        "Decongestants help clear a runny nose (do not give if BP ↑↑)"
+      ]
+    },
+    {
+      "id": "study-10",
+      "number": 16,
+      "type": "points",
+      "question": "Signs and symptoms associated with haemoptysis",
+      "answer": [
+        "Fever",
+        "Cough",
+        "Night sweats",
+        "Weight loss",
+        "Fatigue",
+        "Difficulty breathing or shortness of breath",
+        "Chest pain"
+      ]
+    },
+    {
+      "id": "study-11",
+      "number": 1,
+      "type": "points_with_explanation",
+      "question": "Functions Of Mucus:",
+      "answer": [
+        "1. Protection: Prevent entry of harmful microorganisms, dust, & foreign particles.",
+        "2. Moisturisation: In respiratory tract, where moisture is needed for optimal functioning.",
+        "3. Trapping and Removal: Pushing mucus along with trapped particles out of body. This helps to clear airways & prevent infections.",
+        "4. Digestive Function: In digestive system, mucus lubricates (apply oil or grease) & protects lining of stomach & intestines. It aids in process of digestion & movement of food through digestive tract.",
+        "5. Immune Defence: Mucus contains antibodies, enzymes, & other components of immune system. Help neutralise or destroy pathogens, contributing to body's defence against infections."
+      ]
+    },
+    {
+      "id": "study-12",
+      "number": 2,
+      "type": "points_with_explanation",
+      "question": "What Mucus colours mean?",
+      "answer": [
+        "1) Clear mucus: Clear mucus is generally considered norm. But clear mucus that's runny could be sign of allergies, like hay fever, or even start of cold.",
+        "2) Yellow mucus: Yellow mucus is signing that body is probably fighting infection. yellow tinge comes from WBCs, which rush to site of infection as immune response to infection.",
+        "3) Green mucus: Thick green mucus is common symptom when body is working hard to fight off infection. Green colour comes from dead WBCs that have been battling infection, other waste products being flushed out body.",
+        "4) Pink or red mucus: Blood in mucus typically means that nasal passage is dry, irritated or damaged. This can occur with allergies or viral infections due to using nasal sprays or blowing nose frequently.",
+        "5) Brown mucus: Brown mucus may be result of dried blood that has been sitting in nasal passage for a while. It caused by inhaling something brown or red, (dirt or smoke). Pneumonia or bronchitis can cause it.",
+        "6) Black mucus: While you may notice that you have black mucus if you smoke or are somewhere with heavy air pollution. It can also be a sign of a serious fungal infection.",
+        "7) White mucus: White mucus can be a sign of a cold, nasal infection or allergy. When nasal passage gets inflamed, mucus loses its water content & moisture – making it cloudy & thick."
+      ]
+    },
+    {
+      "id": "study-13",
+      "number": 5,
+      "type": "points_with_explanation",
+      "question": "Types of Coughs",
+      "answer": [
+        "1. Acute cough: Begins suddenly and lasts for two to three weeks.",
+        "2. Subacute cough: is one that stays around after you've had infection & lasts 3 to 8 weeks.",
+        "3. Chronic cough: lasts longer than eight weeks. Long-lasting coughs may also be called persistent coughs.",
+        "4. Refractory cough: is chronic cough that hasn't responded to treatment."
+      ]
+    },
+    {
+      "id": "study-14",
+      "number": 6,
+      "type": "points_with_explanation",
+      "question": "Types of coughs related to mucus",
+      "answer": [
+        "1) Productive (wet) cough: is a cough that brings up mucus or phlegm.",
+        "2) Non-productive (dry) cough: doesn't bring up mucus or phlegm."
+      ]
+    },
+    {
+      "id": "study-15",
+      "number": 7,
+      "type": "points_with_explanation",
+      "question": "Types of coughs that have distinct sounds & related to specific conditions",
+      "answer": [
+        "1. Whooping (Pertussis) cough: is an infection that causes a cough that sounds like a \"whoop.\"",
+        "2. Barking: A cough that sounds like barking can be sign of croup.",
+        "3. Wheezing: This type happens when you have blocked airways. It associated with infection, like cold, or chronic conditions (asthma)."
+      ]
+    },
+    {
+      "id": "study-16",
+      "number": 8,
+      "type": "points_with_explanation",
+      "question": "Types of coughs related to when you cough",
+      "answer": [
+        "I. Daytime cough.",
+        "II. Nighttime (nocturnal) cough.",
+        "III. Cough with vomiting. This often happens with children. They cough so hard that they gag and sometimes vomit."
+      ]
+    }
+  ]
+}

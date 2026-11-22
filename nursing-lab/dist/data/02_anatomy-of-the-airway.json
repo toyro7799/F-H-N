@@ -1,0 +1,2546 @@
+{
+  "exam_id": 2,
+  "slug": "anatomy-of-the-airway",
+  "title": "Anatomy of the Airway",
+  "source_file": "2_Anatomy_of_the_Airway_Study_Questions.docx",
+  "notes": [],
+  "counts": {
+    "multiple_choice": 100,
+    "fill_in_the_blank": 100,
+    "study_questions": 25
+  },
+  "multiple_choice": [
+    {
+      "id": "mcq-1",
+      "number": 1,
+      "question": "Which structure represents the first part of the digestive tract?",
+      "options": {
+        "A": "Pharynx",
+        "B": "Oral cavity",
+        "C": "Larynx",
+        "D": "Esophagus"
+      },
+      "answer": "B",
+      "answer_text": "Oral cavity"
+    },
+    {
+      "id": "mcq-2",
+      "number": 2,
+      "question": "The opening of the parotid duct is located opposite which tooth?",
+      "options": {
+        "A": "First lower molar",
+        "B": "Second upper molar",
+        "C": "Second lower premolar",
+        "D": "Upper canine"
+      },
+      "answer": "B",
+      "answer_text": "Second upper molar"
+    },
+    {
+      "id": "mcq-3",
+      "number": 3,
+      "question": "The anterior portion of the palate is supported by bone and known as the:",
+      "options": {
+        "A": "Soft palate",
+        "B": "Hard palate",
+        "C": "Uvula",
+        "D": "Gingiva"
+      },
+      "answer": "B",
+      "answer_text": "Hard palate"
+    },
+    {
+      "id": "mcq-4",
+      "number": 4,
+      "question": "The soft palate terminates posteriorly in a conical projection called the:",
+      "options": {
+        "A": "Epiglottis",
+        "B": "Palatine tonsil",
+        "C": "Uvula",
+        "D": "Carina"
+      },
+      "answer": "C",
+      "answer_text": "Uvula"
+    },
+    {
+      "id": "mcq-5",
+      "number": 5,
+      "question": "During swallowing, which structures move upward to prevent food from entering the nasal cavity?",
+      "options": {
+        "A": "Epiglottis and tongue",
+        "B": "Hard palate and teeth",
+        "C": "Soft palate and uvula",
+        "D": "Cricoid cartilage and hyoid"
+      },
+      "answer": "C",
+      "answer_text": "Soft palate and uvula"
+    },
+    {
+      "id": "mcq-6",
+      "number": 6,
+      "question": "In an unconscious patient or a case of mandibular fracture, what structure tends to fall back and occlude the airway?",
+      "options": {
+        "A": "Epiglottis",
+        "B": "Uvula",
+        "C": "Tongue",
+        "D": "Soft palate"
+      },
+      "answer": "C",
+      "answer_text": "Tongue"
+    },
+    {
+      "id": "mcq-7",
+      "number": 7,
+      "question": "How many teeth are present in a normal deciduous (primary) dentition?",
+      "options": {
+        "A": "16",
+        "B": "20",
+        "C": "28",
+        "D": "32"
+      },
+      "answer": "B",
+      "answer_text": "20"
+    },
+    {
+      "id": "mcq-8",
+      "number": 8,
+      "question": "How many permanent (secondary) teeth are present in an adult?",
+      "options": {
+        "A": "24",
+        "B": "28",
+        "C": "30",
+        "D": "32"
+      },
+      "answer": "D",
+      "answer_text": "32"
+    },
+    {
+      "id": "mcq-9",
+      "number": 9,
+      "question": "Which cranial nerve provides sensation to the face and mouth and aids in biting, chewing, and swallowing?",
+      "options": {
+        "A": "Cranial nerve I (Olfactory)",
+        "B": "Cranial nerve V (Trigeminal)",
+        "C": "Cranial nerve VII (Facial)",
+        "D": "Cranial nerve X (Vagus)"
+      },
+      "answer": "B",
+      "answer_text": "Cranial nerve V (Trigeminal)"
+    },
+    {
+      "id": "mcq-10",
+      "number": 10,
+      "question": "The bridge of the nose is primarily composed of:",
+      "options": {
+        "A": "Hyaline cartilage",
+        "B": "Two nasal bones and extensions of the maxillae",
+        "C": "Sphenoid and ethmoid bones",
+        "D": "Dense fibrous connective tissue"
+      },
+      "answer": "B",
+      "answer_text": "Two nasal bones and extensions of the maxillae"
+    },
+    {
+      "id": "mcq-11",
+      "number": 11,
+      "question": "The flexible, lower portion of the nose framework consists of:",
+      "options": {
+        "A": "Bone",
+        "B": "Cartilage",
+        "C": "Dense muscle",
+        "D": "Ligamentous sheets"
+      },
+      "answer": "B",
+      "answer_text": "Cartilage"
+    },
+    {
+      "id": "mcq-12",
+      "number": 12,
+      "question": "Air enters the nasal cavity from the outside through the:",
+      "options": {
+        "A": "Internal nares",
+        "B": "External nares",
+        "C": "Glottis",
+        "D": "Carina"
+      },
+      "answer": "B",
+      "answer_text": "External nares"
+    },
+    {
+      "id": "mcq-13",
+      "number": 13,
+      "question": "The openings connecting the nasal cavity to the pharynx are called:",
+      "options": {
+        "A": "External nares",
+        "B": "Internal nares",
+        "C": "Eustachian tubes",
+        "D": "Vestibules"
+      },
+      "answer": "B",
+      "answer_text": "Internal nares"
+    },
+    {
+      "id": "mcq-14",
+      "number": 14,
+      "question": "What is the primary function of coarse hairs located at the entrance of the nose?",
+      "options": {
+        "A": "Warm the air",
+        "B": "Humidify the air",
+        "C": "Trap large inhaled particles",
+        "D": "Produce smelling sensations"
+      },
+      "answer": "C",
+      "answer_text": "Trap large inhaled particles"
+    },
+    {
+      "id": "mcq-15",
+      "number": 15,
+      "question": "Which of the following is NOT a paranasal sinus?",
+      "options": {
+        "A": "Frontal",
+        "B": "Maxillary",
+        "C": "Mandibular",
+        "D": "Sphenoid"
+      },
+      "answer": "C",
+      "answer_text": "Mandibular"
+    },
+    {
+      "id": "mcq-16",
+      "number": 16,
+      "question": "What is a primary function of the paranasal sinuses?",
+      "options": {
+        "A": "Gas exchange",
+        "B": "Reducing the weight of the skull",
+        "C": "Contracting during deglutition",
+        "D": "Secreting pulmonary surfactant"
+      },
+      "answer": "B",
+      "answer_text": "Reducing the weight of the skull"
+    },
+    {
+      "id": "mcq-17",
+      "number": 17,
+      "question": "The first cranial nerve (CN I), which supplies the roof of the nose, is responsible for:",
+      "options": {
+        "A": "Vision",
+        "B": "Taste",
+        "C": "Olfaction (smell)",
+        "D": "Gag reflex"
+      },
+      "answer": "C",
+      "answer_text": "Olfaction (smell)"
+    },
+    {
+      "id": "mcq-18",
+      "number": 18,
+      "question": "What clinical hazard can occur during nasal intubation due to the rich vascular supply of the nose?",
+      "options": {
+        "A": "Bronchospasm",
+        "B": "Profuse bleeding",
+        "C": "Vocal cord paralysis",
+        "D": "Tracheal stenosis"
+      },
+      "answer": "B",
+      "answer_text": "Profuse bleeding"
+    },
+    {
+      "id": "mcq-19",
+      "number": 19,
+      "question": "The pharynx extends from the base of the skull down to the level of the:",
+      "options": {
+        "A": "Third cervical vertebra (C3)",
+        "B": "Fourth cervical vertebra (C4)",
+        "C": "Sixth cervical vertebra (C6)",
+        "D": "Second thoracic vertebra (T2)"
+      },
+      "answer": "C",
+      "answer_text": "Sixth cervical vertebra (C6)"
+    },
+    {
+      "id": "mcq-20",
+      "number": 20,
+      "question": "Which subdivision of the pharynx is located directly behind the nasal cavity and contains the adenoids?",
+      "options": {
+        "A": "Oropharynx",
+        "B": "Nasopharynx",
+        "C": "Laryngopharynx",
+        "D": "Hypopharynx"
+      },
+      "answer": "B",
+      "answer_text": "Nasopharynx"
+    },
+    {
+      "id": "mcq-21",
+      "number": 21,
+      "question": "Which segment of the pharynx allows ONLY air to pass under normal conditions?",
+      "options": {
+        "A": "Oropharynx",
+        "B": "Laryngopharynx",
+        "C": "Upper part of the pharynx (nasopharynx)",
+        "D": "Glottis"
+      },
+      "answer": "C",
+      "answer_text": "Upper part of the pharynx (nasopharynx)"
+    },
+    {
+      "id": "mcq-22",
+      "number": 22,
+      "question": "The palatine tonsils are situated in which region of the pharynx?",
+      "options": {
+        "A": "Nasopharynx",
+        "B": "Oropharynx",
+        "C": "Laryngopharynx",
+        "D": "Epipharynx"
+      },
+      "answer": "B",
+      "answer_text": "Oropharynx"
+    },
+    {
+      "id": "mcq-23",
+      "number": 23,
+      "question": "Through which pharyngeal region do air, food, and fluids all pass?",
+      "options": {
+        "A": "Nasopharynx",
+        "B": "Oropharynx",
+        "C": "Trachea",
+        "D": "Subglottis"
+      },
+      "answer": "B",
+      "answer_text": "Oropharynx"
+    },
+    {
+      "id": "mcq-24",
+      "number": 24,
+      "question": "The laryngopharynx continues inferiorly as the:",
+      "options": {
+        "A": "Larynx",
+        "B": "Esophagus",
+        "C": "Trachea",
+        "D": "Bronchus"
+      },
+      "answer": "B",
+      "answer_text": "Esophagus"
+    },
+    {
+      "id": "mcq-25",
+      "number": 25,
+      "question": "The lymphatic ring comprising the pharyngeal, palatine, and lingual tonsils is named:",
+      "options": {
+        "A": "Circle of Willis",
+        "B": "Waldeyer’s ring",
+        "C": "Peyer’s ring",
+        "D": "Glisson’s capsule"
+      },
+      "answer": "B",
+      "answer_text": "Waldeyer’s ring"
+    },
+    {
+      "id": "mcq-26",
+      "number": 26,
+      "question": "Why are infections of the pharynx and floor of the mouth considered dangerous emergencies?",
+      "options": {
+        "A": "They cause immediate stomach perforation",
+        "B": "They can spread to the larynx and cause fatal asphyxia",
+        "C": "They lead directly to emphysema",
+        "D": "They paralyze the diaphragm"
+      },
+      "answer": "B",
+      "answer_text": "They can spread to the larynx and cause fatal asphyxia"
+    },
+    {
+      "id": "mcq-27",
+      "number": 27,
+      "question": "The adult larynx is approximately how long and wide?",
+      "options": {
+        "A": "1 to 2 cm",
+        "B": "4 to 5 cm",
+        "C": "10 to 12 cm",
+        "D": "15 cm"
+      },
+      "answer": "B",
+      "answer_text": "4 to 5 cm"
+    },
+    {
+      "id": "mcq-28",
+      "number": 28,
+      "question": "Anatomically, the larynx extends between which vertebral levels?",
+      "options": {
+        "A": "C1 to C3",
+        "B": "C4 to C6",
+        "C": "C7 to T3",
+        "D": "T4 to T6"
+      },
+      "answer": "B",
+      "answer_text": "C4 to C6"
+    },
+    {
+      "id": "mcq-29",
+      "number": 29,
+      "question": "How many cartilages make up the skeletal framework of the larynx?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "12"
+      },
+      "answer": "C",
+      "answer_text": "9"
+    },
+    {
+      "id": "mcq-30",
+      "number": 30,
+      "question": "The prominence commonly called the “Adam’s apple” is formed by the:",
+      "options": {
+        "A": "Cricoid cartilage",
+        "B": "Epiglottis",
+        "C": "Thyroid cartilage",
+        "D": "Arytenoid cartilage"
+      },
+      "answer": "C",
+      "answer_text": "Thyroid cartilage"
+    },
+    {
+      "id": "mcq-31",
+      "number": 31,
+      "question": "Which laryngeal cartilage acts as a “trap door” to prevent aspiration during swallowing?",
+      "options": {
+        "A": "Cricoid cartilage",
+        "B": "Epiglottis",
+        "C": "Thyroid cartilage",
+        "D": "Corniculate cartilage"
+      },
+      "answer": "B",
+      "answer_text": "Epiglottis"
+    },
+    {
+      "id": "mcq-32",
+      "number": 32,
+      "question": "The only complete cartilaginous ring in the respiratory tract is the:",
+      "options": {
+        "A": "Thyroid cartilage",
+        "B": "Cricoid cartilage",
+        "C": "Epiglottis",
+        "D": "Carina"
+      },
+      "answer": "B",
+      "answer_text": "Cricoid cartilage"
+    },
+    {
+      "id": "mcq-33",
+      "number": 33,
+      "question": "Which anatomical structure represents the narrowest portion of the infant airway?",
+      "options": {
+        "A": "Oropharynx",
+        "B": "Glottis",
+        "C": "Cricoid cartilage",
+        "D": "Carina"
+      },
+      "answer": "C",
+      "answer_text": "Cricoid cartilage"
+    },
+    {
+      "id": "mcq-34",
+      "number": 34,
+      "question": "True vocal cords produce sound by:",
+      "options": {
+        "A": "Relaxing and separating during exhalation",
+        "B": "Closing together and vibrating as air is expelled",
+        "C": "Beating their cilia against the airflow",
+        "D": "Contracting the epiglottic flap"
+      },
+      "answer": "B",
+      "answer_text": "Closing together and vibrating as air is expelled"
+    },
+    {
+      "id": "mcq-35",
+      "number": 35,
+      "question": "What is the functional role of the false vocal cords (vestibular folds)?",
+      "options": {
+        "A": "Fine pitch modulation",
+        "B": "Helping close off the larynx during swallowing",
+        "C": "Warming inhaled air",
+        "D": "Filtering dust particles"
+      },
+      "answer": "B",
+      "answer_text": "Helping close off the larynx during swallowing"
+    },
+    {
+      "id": "mcq-36",
+      "number": 36,
+      "question": "An emergency airway incision made between the cricoid and thyroid cartilages is called:",
+      "options": {
+        "A": "Tracheostomy",
+        "B": "Bronchoscopy",
+        "C": "Cricothyrotomy",
+        "D": "Laryngectomy"
+      },
+      "answer": "C",
+      "answer_text": "Cricothyrotomy"
+    },
+    {
+      "id": "mcq-37",
+      "number": 37,
+      "question": "For emergency percutaneous needle ventilation through the cricothyroid membrane, which gauge needle is recommended?",
+      "options": {
+        "A": "22 to 24 gauge",
+        "B": "18 to 20 gauge",
+        "C": "12 to 14 gauge",
+        "D": "25 to 27 gauge"
+      },
+      "answer": "C",
+      "answer_text": "12 to 14 gauge"
+    },
+    {
+      "id": "mcq-38",
+      "number": 38,
+      "question": "Sensory innervation to the larynx ABOVE the vocal cords is carried by the:",
+      "options": {
+        "A": "Recurrent laryngeal nerve",
+        "B": "Internal laryngeal nerve",
+        "C": "Hypoglossal nerve",
+        "D": "Glossopharyngeal nerve"
+      },
+      "answer": "B",
+      "answer_text": "Internal laryngeal nerve"
+    },
+    {
+      "id": "mcq-39",
+      "number": 39,
+      "question": "Sensory innervation to the larynx BELOW the vocal cords is mediated by the:",
+      "options": {
+        "A": "Internal laryngeal nerve",
+        "B": "Recurrent laryngeal nerve",
+        "C": "External laryngeal nerve",
+        "D": "Phrenic nerve"
+      },
+      "answer": "B",
+      "answer_text": "Recurrent laryngeal nerve"
+    },
+    {
+      "id": "mcq-40",
+      "number": 40,
+      "question": "Damage to the recurrent laryngeal nerve commonly results in:",
+      "options": {
+        "A": "Anosmia",
+        "B": "Hoarseness of voice",
+        "C": "Loss of taste",
+        "D": "Tongue atrophy"
+      },
+      "answer": "B",
+      "answer_text": "Hoarseness of voice"
+    },
+    {
+      "id": "mcq-41",
+      "number": 41,
+      "question": "During direct laryngoscopy, the fibrous white medial cords observed are the:",
+      "options": {
+        "A": "Vestibular folds",
+        "B": "Vocal cords (true cords)",
+        "C": "Pharyngeal arches",
+        "D": "Aryepiglottic folds"
+      },
+      "answer": "B",
+      "answer_text": "Vocal cords (true cords)"
+    },
+    {
+      "id": "mcq-42",
+      "number": 42,
+      "question": "What structure serves as the anatomical opening and target site for endotracheal tube placement?",
+      "options": {
+        "A": "Carina",
+        "B": "Glottic opening",
+        "C": "Nasopharynx",
+        "D": "Esophageal orifice"
+      },
+      "answer": "B",
+      "answer_text": "Glottic opening"
+    },
+    {
+      "id": "mcq-43",
+      "number": 43,
+      "question": "Acute laryngitis is defined by a duration of symptoms of:",
+      "options": {
+        "A": "Less than 3 weeks",
+        "B": "More than 3 weeks",
+        "C": "More than 3 months",
+        "D": "Greater than 1 year"
+      },
+      "answer": "A",
+      "answer_text": "Less than 3 weeks"
+    },
+    {
+      "id": "mcq-44",
+      "number": 44,
+      "question": "Which diagnostic test allows direct visualization of vocal cord vibration?",
+      "options": {
+        "A": "Endobronchial ultrasound",
+        "B": "Videostroboscopy",
+        "C": "Spirometry",
+        "D": "Exhaled nitric oxide test"
+      },
+      "answer": "B",
+      "answer_text": "Videostroboscopy"
+    },
+    {
+      "id": "mcq-45",
+      "number": 45,
+      "question": "The adult trachea measures approximately:",
+      "options": {
+        "A": "5 cm long and 1 cm wide",
+        "B": "10 cm long and 2.5 cm wide",
+        "C": "15 cm long and 4 cm wide",
+        "D": "20 cm long and 3 cm wide"
+      },
+      "answer": "B",
+      "answer_text": "10 cm long and 2.5 cm wide"
+    },
+    {
+      "id": "mcq-46",
+      "number": 46,
+      "question": "What type and number of cartilaginous rings support the tracheal wall?",
+      "options": {
+        "A": "8 to 10 complete rings",
+        "B": "16 to 20 “C”-shaped cartilages",
+        "C": "25 to 30 spiral cartilages",
+        "D": "12 to 14 circular rings"
+      },
+      "answer": "B",
+      "answer_text": "16 to 20 “C”-shaped cartilages"
+    },
+    {
+      "id": "mcq-47",
+      "number": 47,
+      "question": "The anatomical point where the trachea bifurcates into the right and left main bronchi is called the:",
+      "options": {
+        "A": "Uvula",
+        "B": "Glottis",
+        "C": "Carina",
+        "D": "Atrium"
+      },
+      "answer": "C",
+      "answer_text": "Carina"
+    },
+    {
+      "id": "mcq-48",
+      "number": 48,
+      "question": "A surgical incision made directly into the trachea to relieve upper airway obstruction is called a:",
+      "options": {
+        "A": "Tracheostomy",
+        "B": "Lobectomy",
+        "C": "Thoracentesis",
+        "D": "Cricoidectomy"
+      },
+      "answer": "A",
+      "answer_text": "Tracheostomy"
+    },
+    {
+      "id": "mcq-49",
+      "number": 49,
+      "question": "An abnormal connection or tract between the trachea and the esophagus is termed:",
+      "options": {
+        "A": "Tracheomalacia",
+        "B": "Tracheoesophageal fistula",
+        "C": "Tracheal stenosis",
+        "D": "Tracheitis"
+      },
+      "answer": "B",
+      "answer_text": "Tracheoesophageal fistula"
+    },
+    {
+      "id": "mcq-50",
+      "number": 50,
+      "question": "Tracheomalacia is characterized by:",
+      "options": {
+        "A": "Thickening of the mucous glands",
+        "B": "Collapse of the trachea in on itself, typically in newborns",
+        "C": "Cancerous ulceration of the carina",
+        "D": "Fibrous stricture following trauma"
+      },
+      "answer": "B",
+      "answer_text": "Collapse of the trachea in on itself, typically in newborns"
+    },
+    {
+      "id": "mcq-51",
+      "number": 51,
+      "question": "How many lobar bronchi supply the right lung?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "C",
+      "answer_text": "3"
+    },
+    {
+      "id": "mcq-52",
+      "number": 52,
+      "question": "How many lobar bronchi supply the left lung?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "B",
+      "answer_text": "2"
+    },
+    {
+      "id": "mcq-53",
+      "number": 53,
+      "question": "Unlike larger airways, the walls of bronchioles are devoid of cartilage and consist entirely of:",
+      "options": {
+        "A": "Skeletal muscle",
+        "B": "Smooth muscle",
+        "C": "Dense cortical bone",
+        "D": "Elastic cartilage"
+      },
+      "answer": "B",
+      "answer_text": "Smooth muscle"
+    },
+    {
+      "id": "mcq-54",
+      "number": 54,
+      "question": "What is the immediate role of the bronchi in human respiration?",
+      "options": {
+        "A": "Gas exchange between air and capillaries",
+        "B": "Distributing and conducting air to the lungs",
+        "C": "Producing pulmonary surfactant",
+        "D": "Regulating blood pH directly"
+      },
+      "answer": "B",
+      "answer_text": "Distributing and conducting air to the lungs"
+    },
+    {
+      "id": "mcq-55",
+      "number": 55,
+      "question": "Do the bronchi directly participate in gas exchange?",
+      "options": {
+        "A": "Yes, throughout all branches",
+        "B": "Yes, but only in the main bronchi",
+        "C": "No, they solely supply air to the alveoli",
+        "D": "Yes, lobar bronchi participate during heavy exercise"
+      },
+      "answer": "C",
+      "answer_text": "No, they solely supply air to the alveoli"
+    },
+    {
+      "id": "mcq-56",
+      "number": 56,
+      "question": "Bronchiectasis is pathologically defined as:",
+      "options": {
+        "A": "Acute viral spasm of the bronchiolar walls",
+        "B": "Permanent widening and scarring of the bronchi",
+        "C": "Collapse of the alveolar spaces",
+        "D": "Malignant growth of alveolar type II cells"
+      },
+      "answer": "B",
+      "answer_text": "Permanent widening and scarring of the bronchi"
+    },
+    {
+      "id": "mcq-57",
+      "number": 57,
+      "question": "Bronchiolitis is primarily an infection caused by:",
+      "options": {
+        "A": "Fungi",
+        "B": "Viruses",
+        "C": "Protozoa",
+        "D": "Autoantibodies"
+      },
+      "answer": "B",
+      "answer_text": "Viruses"
+    },
+    {
+      "id": "mcq-58",
+      "number": 58,
+      "question": "Which procedure uses an ultrasound probe attached to a flexible bronchoscope to biopsy peribronchial lymph nodes?",
+      "options": {
+        "A": "Spirometry",
+        "B": "EBUS (Endobronchial Ultrasound)",
+        "C": "Videostroboscopy",
+        "D": "Exhaled nitric oxide test"
+      },
+      "answer": "B",
+      "answer_text": "EBUS (Endobronchial Ultrasound)"
+    },
+    {
+      "id": "mcq-59",
+      "number": 59,
+      "question": "Elevated levels on an exhaled nitric oxide test typically signify:",
+      "options": {
+        "A": "Bronchial cartilage destruction",
+        "B": "Airway inflammation",
+        "C": "Severe alveolar bleeding",
+        "D": "Mandibular subluxation"
+      },
+      "answer": "B",
+      "answer_text": "Airway inflammation"
+    },
+    {
+      "id": "mcq-60",
+      "number": 60,
+      "question": "The primary functional units of gas exchange in the lungs are:",
+      "options": {
+        "A": "Lobar bronchi",
+        "B": "Alveoli",
+        "C": "Segmental bronchi",
+        "D": "False vocal cords"
+      },
+      "answer": "B",
+      "answer_text": "Alveoli"
+    },
+    {
+      "id": "mcq-61",
+      "number": 61,
+      "question": "The total number of alveoli in both human lungs is approximately:",
+      "options": {
+        "A": "10 to 50 million",
+        "B": "100 to 200 million",
+        "C": "300 to 480 million",
+        "D": "1 to 2 billion"
+      },
+      "answer": "C",
+      "answer_text": "300 to 480 million"
+    },
+    {
+      "id": "mcq-62",
+      "number": 62,
+      "question": "What is the functional surface area of the respiratory membrane at rest?",
+      "options": {
+        "A": "10 to 20 m²",
+        "B": "50 to 100 m²",
+        "C": "160 to 200 m²",
+        "D": "300 m²"
+      },
+      "answer": "B",
+      "answer_text": "50 to 100 m²"
+    },
+    {
+      "id": "mcq-63",
+      "number": 63,
+      "question": "The maximum anatomical surface area of the alveolar membrane at total lung capacity (TLC) is approximately:",
+      "options": {
+        "A": "50 m²",
+        "B": "100 m²",
+        "C": "160 m²",
+        "D": "250 m²"
+      },
+      "answer": "C",
+      "answer_text": "160 m²"
+    },
+    {
+      "id": "mcq-64",
+      "number": 64,
+      "question": "During alveolar gas exchange, oxygen moves from the alveolar air directly into:",
+      "options": {
+        "A": "Pulmonary lymphatics",
+        "B": "Capillary blood",
+        "C": "Bronchial smooth muscle",
+        "D": "Pleural space"
+      },
+      "answer": "B",
+      "answer_text": "Capillary blood"
+    },
+    {
+      "id": "mcq-65",
+      "number": 65,
+      "question": "What substance secreted in the alveoli prevents them from collapsing on expiration?",
+      "options": {
+        "A": "Mucus",
+        "B": "Amylase",
+        "C": "Surfactant",
+        "D": "Pepsin"
+      },
+      "answer": "C",
+      "answer_text": "Surfactant"
+    },
+    {
+      "id": "mcq-66",
+      "number": 66,
+      "question": "What specialized immune cells clear inhaled bacteria and particulate debris from the alveolar lumen?",
+      "options": {
+        "A": "Microglia",
+        "B": "Alveolar macrophages (dust cells)",
+        "C": "Mast cells",
+        "D": "Neutrophils in sputum"
+      },
+      "answer": "B",
+      "answer_text": "Alveolar macrophages (dust cells)"
+    },
+    {
+      "id": "mcq-67",
+      "number": 67,
+      "question": "In Pulmonary Alveolar Proteinosis (PAP), what substance builds up abnormally in the alveoli?",
+      "options": {
+        "A": "Blood",
+        "B": "Protein-rich surfactant",
+        "C": "Pure water",
+        "D": "Bile pigments"
+      },
+      "answer": "B",
+      "answer_text": "Protein-rich surfactant"
+    },
+    {
+      "id": "mcq-68",
+      "number": 68,
+      "question": "Which of the following is a potential life-threatening systemic complication of upper airway infections?",
+      "options": {
+        "A": "Otitis externa",
+        "B": "Sepsis",
+        "C": "Gingivitis",
+        "D": "Epistaxis"
+      },
+      "answer": "B",
+      "answer_text": "Sepsis"
+    },
+    {
+      "id": "mcq-69",
+      "number": 69,
+      "question": "Upper respiratory tract infections are most commonly caused by:",
+      "options": {
+        "A": "Gram-negative bacilli",
+        "B": "Viruses",
+        "C": "Opportunistic yeasts",
+        "D": "Obligate anaerobes"
+      },
+      "answer": "B",
+      "answer_text": "Viruses"
+    },
+    {
+      "id": "mcq-70",
+      "number": 70,
+      "question": "Which class of medication is appropriate ONLY when an airway infection is confirmed or suspected to be bacterial?",
+      "options": {
+        "A": "Antipyretics",
+        "B": "Antibiotics",
+        "C": "Corticosteroids",
+        "D": "Decongestants"
+      },
+      "answer": "B",
+      "answer_text": "Antibiotics"
+    },
+    {
+      "id": "mcq-71",
+      "number": 71,
+      "question": "The division of the oral cavity lying between the lips/cheeks and the teeth/gums is the:",
+      "options": {
+        "A": "Oral cavity proper",
+        "B": "Vestibule",
+        "C": "Glosso-epiglottic fold",
+        "D": "Oropharynx"
+      },
+      "answer": "B",
+      "answer_text": "Vestibule"
+    },
+    {
+      "id": "mcq-72",
+      "number": 72,
+      "question": "Lips assist in eating by holding food and also judge temperature and texture because they contain:",
+      "options": {
+        "A": "Abundant cartilage",
+        "B": "Dense sensory receptors",
+        "C": "Ciliated mucosa",
+        "D": "Parotid glands"
+      },
+      "answer": "B",
+      "answer_text": "Dense sensory receptors"
+    },
+    {
+      "id": "mcq-73",
+      "number": 73,
+      "question": "The lower airway is anatomically defined as the portion of the respiratory tract located:",
+      "options": {
+        "A": "Below the soft palate",
+        "B": "Below the vocal cords",
+        "C": "Below the carina",
+        "D": "Inside the alveoli only"
+      },
+      "answer": "B",
+      "answer_text": "Below the vocal cords"
+    },
+    {
+      "id": "mcq-74",
+      "number": 74,
+      "question": "The respiratory epithelial mechanism that sweeps trapped particles toward the pharynx is called:",
+      "options": {
+        "A": "Alveolar diffusion",
+        "B": "Mucociliary action (cilia and mucus)",
+        "C": "Peristalsis",
+        "D": "Bronchial constriction"
+      },
+      "answer": "B",
+      "answer_text": "Mucociliary action (cilia and mucus)"
+    },
+    {
+      "id": "mcq-75",
+      "number": 75,
+      "question": "The pharynx is best described histologically and functionally as a:",
+      "options": {
+        "A": "Rigid cartilaginous box",
+        "B": "Muscular tube / passageway",
+        "C": "Purely bony corridor",
+        "D": "Non-collapsible fibrous canal"
+      },
+      "answer": "B",
+      "answer_text": "Muscular tube / passageway"
+    },
+    {
+      "id": "mcq-76",
+      "number": 76,
+      "question": "The tonsils located in the nasopharynx are known as the:",
+      "options": {
+        "A": "Palatine tonsils",
+        "B": "Lingual tonsils",
+        "C": "Adenoids (pharyngeal tonsils)",
+        "D": "Submandibular glands"
+      },
+      "answer": "C",
+      "answer_text": "Adenoids (pharyngeal tonsils)"
+    },
+    {
+      "id": "mcq-77",
+      "number": 77,
+      "question": "Which tonsils are located at the base of the tongue?",
+      "options": {
+        "A": "Lingual tonsils",
+        "B": "Palatine tonsils",
+        "C": "Adenoids",
+        "D": "Tubal tonsils"
+      },
+      "answer": "A",
+      "answer_text": "Lingual tonsils"
+    },
+    {
+      "id": "mcq-78",
+      "number": 78,
+      "question": "A high fever indicating a possible severe pharyngeal or upper airway infection is defined as a temperature above:",
+      "options": {
+        "A": "37.0°C",
+        "B": "37.5°C",
+        "C": "38.0°C",
+        "D": "39.0°C"
+      },
+      "answer": "D",
+      "answer_text": "39.0°C"
+    },
+    {
+      "id": "mcq-79",
+      "number": 79,
+      "question": "The larynx is divided into which three anatomical regions?",
+      "options": {
+        "A": "Anterior, middle, posterior",
+        "B": "Supraglottis, glottis, subglottis",
+        "C": "Cervical, thoracic, abdominal",
+        "D": "Superior, inferior, lateral"
+      },
+      "answer": "B",
+      "answer_text": "Supraglottis, glottis, subglottis"
+    },
+    {
+      "id": "mcq-80",
+      "number": 80,
+      "question": "What anatomical structure lies between the tongue base and the anterior surface of the epiglottis?",
+      "options": {
+        "A": "Carina",
+        "B": "Glosso-epiglottic fold",
+        "C": "Cricoid ring",
+        "D": "True vocal fold"
+      },
+      "answer": "B",
+      "answer_text": "Glosso-epiglottic fold"
+    },
+    {
+      "id": "mcq-81",
+      "number": 81,
+      "question": "Which structure forms the fleshy lateral folds observed during laryngoscopy?",
+      "options": {
+        "A": "True vocal cords",
+        "B": "Vestibular folds (false vocal cords)",
+        "C": "Arytenoid cartilages",
+        "D": "Cricoid lamina"
+      },
+      "answer": "B",
+      "answer_text": "Vestibular folds (false vocal cords)"
+    },
+    {
+      "id": "mcq-82",
+      "number": 82,
+      "question": "In addition to hoarseness and vocal changes, bilateral damage to the recurrent laryngeal nerve can cause:",
+      "options": {
+        "A": "Severe airway obstruction",
+        "B": "Excessive salivation",
+        "C": "Blindness",
+        "D": "Rhinorrhea"
+      },
+      "answer": "A",
+      "answer_text": "Severe airway obstruction"
+    },
+    {
+      "id": "mcq-83",
+      "number": 83,
+      "question": "Chronic laryngitis is distinguished clinically from acute laryngitis when symptoms persist longer than:",
+      "options": {
+        "A": "3 days",
+        "B": "10 days",
+        "C": "3 weeks",
+        "D": "6 months"
+      },
+      "answer": "C",
+      "answer_text": "3 weeks"
+    },
+    {
+      "id": "mcq-84",
+      "number": 84,
+      "question": "Noncancerous vocal cord lesions such as nodules or polyps most frequently develop as a result of:",
+      "options": {
+        "A": "Bacterial infection",
+        "B": "Overuse or strain of the voice",
+        "C": "Vitamin deficiency",
+        "D": "Cold weather exposure"
+      },
+      "answer": "B",
+      "answer_text": "Overuse or strain of the voice"
+    },
+    {
+      "id": "mcq-85",
+      "number": 85,
+      "question": "The two main anatomical sections of the trachea are the:",
+      "options": {
+        "A": "Nasal and oral trachea",
+        "B": "Cervical and thoracic trachea",
+        "C": "Glottic and subglottic trachea",
+        "D": "Superior and inferior lobes"
+      },
+      "answer": "B",
+      "answer_text": "Cervical and thoracic trachea"
+    },
+    {
+      "id": "mcq-86",
+      "number": 86,
+      "question": "Why are the tracheal cartilages shaped like a “C” rather than complete circles?",
+      "options": {
+        "A": "To allow flexibility and accommodate expansion of the posterior esophagus during swallowing",
+        "B": "To allow the trachea to collapse completely during exhalation",
+        "C": "To generate acoustic resonance for speech",
+        "D": "To prevent blood flow from stopping"
+      },
+      "answer": "A",
+      "answer_text": "To allow flexibility and accommodate expansion of the posterior esophagus during swallowing"
+    },
+    {
+      "id": "mcq-87",
+      "number": 87,
+      "question": "What happens when an infant develops bronchopulmonary dysplasia?",
+      "options": {
+        "A": "The vocal cords become permanently paralyzed",
+        "B": "The lungs do not develop properly",
+        "C": "The trachea develops extra cartilage rings",
+        "D": "The tongue becomes enlarged"
+      },
+      "answer": "B",
+      "answer_text": "The lungs do not develop properly"
+    },
+    {
+      "id": "mcq-88",
+      "number": 88,
+      "question": "Chronic obstructive pulmonary disease (COPD) typically includes which conditions?",
+      "options": {
+        "A": "Rhinitis and sinusitis",
+        "B": "Chronic bronchitis and emphysema",
+        "C": "Pharyngitis and tonsillitis",
+        "D": "Laryngitis and croup"
+      },
+      "answer": "B",
+      "answer_text": "Chronic bronchitis and emphysema"
+    },
+    {
+      "id": "mcq-89",
+      "number": 89,
+      "question": "A patient whose airways shrink and narrow primarily during physical exertion has:",
+      "options": {
+        "A": "Tracheomalacia",
+        "B": "Exercise-induced asthma",
+        "C": "Chronic bronchitis",
+        "D": "Pulmonary alveolar proteinosis"
+      },
+      "answer": "B",
+      "answer_text": "Exercise-induced asthma"
+    },
+    {
+      "id": "mcq-90",
+      "number": 90,
+      "question": "Spirometry is a diagnostic tool primarily used to measure:",
+      "options": {
+        "A": "The speed of mucociliary clearance",
+        "B": "How much air you can hold and how forcefully you can exhale it",
+        "C": "The exact thickness of the alveolar wall",
+        "D": "The diameter of the cricoid ring"
+      },
+      "answer": "B",
+      "answer_text": "How much air you can hold and how forcefully you can exhale it"
+    },
+    {
+      "id": "mcq-91",
+      "number": 91,
+      "question": "In the alveolar respiratory membrane, gas diffuses across:",
+      "options": {
+        "A": "Multiple layers of stratified squamous cells",
+        "B": "A single layer of alveolar cells and a single layer of capillary endothelial cells",
+        "C": "Thick cartilage plates",
+        "D": "Smooth muscle rings"
+      },
+      "answer": "B",
+      "answer_text": "A single layer of alveolar cells and a single layer of capillary endothelial cells"
+    },
+    {
+      "id": "mcq-92",
+      "number": 92,
+      "question": "What gas is transferred from the capillary blood into the alveoli to be eliminated?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Carbon dioxide (CO₂)",
+        "D": "Carbon monoxide"
+      },
+      "answer": "C",
+      "answer_text": "Carbon dioxide (CO₂)"
+    },
+    {
+      "id": "mcq-93",
+      "number": 93,
+      "question": "Which symptom is typical of Pulmonary Alveolar Proteinosis (PAP)?",
+      "options": {
+        "A": "High-pitched stridor only",
+        "B": "Breathing difficulty, cough, fatigue, and weight loss",
+        "C": "Epistaxis and anosmia",
+        "D": "Facial muscle spasm"
+      },
+      "answer": "B",
+      "answer_text": "Breathing difficulty, cough, fatigue, and weight loss"
+    },
+    {
+      "id": "mcq-94",
+      "number": 94,
+      "question": "What complication involves severe infection spreading to the membranes covering the brain and spinal cord?",
+      "options": {
+        "A": "Meningitis",
+        "B": "Bronchiectasis",
+        "C": "Tracheitis",
+        "D": "Laryngitis"
+      },
+      "answer": "A",
+      "answer_text": "Meningitis"
+    },
+    {
+      "id": "mcq-95",
+      "number": 95,
+      "question": "In bacterial lower respiratory infections like community-acquired bacterial pneumonia, what is a standard antibiotic prescribed?",
+      "options": {
+        "A": "Amoxicillin",
+        "B": "Ibuprofen",
+        "C": "Acetaminophen",
+        "D": "Humidified air"
+      },
+      "answer": "A",
+      "answer_text": "Amoxicillin"
+    },
+    {
+      "id": "mcq-96",
+      "number": 96,
+      "question": "For most uncomplicated viral upper airway infections, management focuses on:",
+      "options": {
+        "A": "High-dose intravenous broad-spectrum antibiotics",
+        "B": "Supportive care with rest, hydration, and pain relievers",
+        "C": "Emergency surgical tracheostomy",
+        "D": "Prolonged endotracheal intubation"
+      },
+      "answer": "B",
+      "answer_text": "Supportive care with rest, hydration, and pain relievers"
+    },
+    {
+      "id": "mcq-97",
+      "number": 97,
+      "question": "The space between true vocal cords through which air enters the trachea is called the:",
+      "options": {
+        "A": "Rima glottidis (glottic opening)",
+        "B": "Vallecula",
+        "C": "Piriform fossa",
+        "D": "Tracheal bifurcation"
+      },
+      "answer": "A",
+      "answer_text": "Rima glottidis (glottic opening)"
+    },
+    {
+      "id": "mcq-98",
+      "number": 98,
+      "question": "Bronchoscopy allows clinicians to:",
+      "options": {
+        "A": "View the interior of the bronchi using a small, flexible camera tube",
+        "B": "Test hearing ability after airway infections",
+        "C": "Repair broken teeth after trauma",
+        "D": "Radiate tumors non-invasively"
+      },
+      "answer": "A",
+      "answer_text": "View the interior of the bronchi using a small, flexible camera tube"
+    },
+    {
+      "id": "mcq-99",
+      "number": 99,
+      "question": "Acute inflammation of the trachea resulting from an infection that triggers coughing is called:",
+      "options": {
+        "A": "Tracheitis",
+        "B": "Bronchiectasis",
+        "C": "Atelectasis",
+        "D": "Pneumothorax"
+      },
+      "answer": "A",
+      "answer_text": "Tracheitis"
+    },
+    {
+      "id": "mcq-100",
+      "number": 100,
+      "question": "During deep inhalation, reaching Total Lung Capacity (TLC), the alveolar surface area reaches up to:",
+      "options": {
+        "A": "50 m²",
+        "B": "75 m²",
+        "C": "100 m²",
+        "D": "160 m²"
+      },
+      "answer": "D",
+      "answer_text": "160 m²"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "id": "fib-1",
+      "number": 1,
+      "question": "The oral cavity is anatomically divided into the ________ and the mouth cavity proper.",
+      "answer": "vestibule",
+      "accepted_answers": [
+        "vestibule"
+      ]
+    },
+    {
+      "id": "fib-2",
+      "number": 2,
+      "question": "The parotid duct opens inside the mouth opposite the ________ upper molar tooth.",
+      "answer": "second",
+      "accepted_answers": [
+        "second"
+      ]
+    },
+    {
+      "id": "fib-3",
+      "number": 3,
+      "question": "The anterior roof of the oral cavity formed by bone is called the ________ palate.",
+      "answer": "hard",
+      "accepted_answers": [
+        "hard"
+      ]
+    },
+    {
+      "id": "fib-4",
+      "number": 4,
+      "question": "The posterior muscular roof of the oral cavity is termed the ________ palate.",
+      "answer": "soft",
+      "accepted_answers": [
+        "soft"
+      ]
+    },
+    {
+      "id": "fib-5",
+      "number": 5,
+      "question": "The conical muscular projection hanging from the soft palate is the ________.",
+      "answer": "uvula",
+      "accepted_answers": [
+        "uvula"
+      ]
+    },
+    {
+      "id": "fib-6",
+      "number": 6,
+      "question": "The tongue is anchored anteriorly to the ________ bone.",
+      "answer": "mandible",
+      "accepted_answers": [
+        "mandible"
+      ]
+    },
+    {
+      "id": "fib-7",
+      "number": 7,
+      "question": "In comatose patients, the tongue falls backward against the ________ pharyngeal wall, blocking the airway.",
+      "answer": "posterior",
+      "accepted_answers": [
+        "posterior"
+      ]
+    },
+    {
+      "id": "fib-8",
+      "number": 8,
+      "question": "A child has ________ primary (deciduous) teeth.",
+      "answer": "20",
+      "accepted_answers": [
+        "20"
+      ]
+    },
+    {
+      "id": "fib-9",
+      "number": 9,
+      "question": "A complete permanent adult human dentition consists of ________ teeth.",
+      "answer": "32",
+      "accepted_answers": [
+        "32"
+      ]
+    },
+    {
+      "id": "fib-10",
+      "number": 10,
+      "question": "Sensation to the face and the motor control for chewing and biting is supplied by the ________ nerve.",
+      "answer": "trigeminal",
+      "accepted_answers": [
+        "trigeminal"
+      ]
+    },
+    {
+      "id": "fib-11",
+      "number": 11,
+      "question": "The bony bridge of the nose is formed by two small nasal bones and the processes of the ________.",
+      "answer": "maxillae",
+      "accepted_answers": [
+        "maxillae"
+      ]
+    },
+    {
+      "id": "fib-12",
+      "number": 12,
+      "question": "Air enters the nasal passages anteriorly via the external ________.",
+      "answer": "nares (or nostrils)",
+      "accepted_answers": [
+        "nares",
+        "nostrils"
+      ]
+    },
+    {
+      "id": "fib-13",
+      "number": 13,
+      "question": "Air passes from the nasal cavity into the pharynx through the ________ nares.",
+      "answer": "internal",
+      "accepted_answers": [
+        "internal"
+      ]
+    },
+    {
+      "id": "fib-14",
+      "number": 14,
+      "question": "Inhaled coarse dust and foreign particles are initially trapped at the nasal aperture by nose ________.",
+      "answer": "hairs",
+      "accepted_answers": [
+        "hairs"
+      ]
+    },
+    {
+      "id": "fib-15",
+      "number": 15,
+      "question": "The paranasal sinuses are air-filled cavities located within the frontal, maxillary, ethmoid, and ________ bones.",
+      "answer": "sphenoid",
+      "accepted_answers": [
+        "sphenoid"
+      ]
+    },
+    {
+      "id": "fib-16",
+      "number": 16,
+      "question": "One major mechanical function of the paranasal sinuses is to decrease the overall ________ of the skull.",
+      "answer": "weight",
+      "accepted_answers": [
+        "weight"
+      ]
+    },
+    {
+      "id": "fib-17",
+      "number": 17,
+      "question": "The sinuses act as resonating chambers to influence ________ quality.",
+      "answer": "voice",
+      "accepted_answers": [
+        "voice"
+      ]
+    },
+    {
+      "id": "fib-18",
+      "number": 18,
+      "question": "The nasal mucosa functions to ________ and warm incoming air.",
+      "answer": "humidify (or moisten)",
+      "accepted_answers": [
+        "humidify",
+        "moisten"
+      ]
+    },
+    {
+      "id": "fib-19",
+      "number": 19,
+      "question": "Nasal mucosal ________ beat rhythmically to move trapped mucus and particles toward the pharynx.",
+      "answer": "cilia",
+      "accepted_answers": [
+        "cilia"
+      ]
+    },
+    {
+      "id": "fib-20",
+      "number": 20,
+      "question": "The sense of smell is mediated by cranial nerve number ________.",
+      "answer": "I (or one / olfactory)",
+      "accepted_answers": [
+        "I",
+        "one",
+        "olfactory"
+      ]
+    },
+    {
+      "id": "fib-21",
+      "number": 21,
+      "question": "Vigorous or rough nasal intubation can trigger profuse ________ due to rich mucosal vascularity.",
+      "answer": "bleeding (or epistaxis)",
+      "accepted_answers": [
+        "bleeding",
+        "epistaxis"
+      ]
+    },
+    {
+      "id": "fib-22",
+      "number": 22,
+      "question": "The pharynx is an open muscular passageway extending from the skull base down to vertebra ________.",
+      "answer": "C6 (sixth cervical vertebra)",
+      "accepted_answers": [
+        "C6 (sixth cervical vertebra)"
+      ]
+    },
+    {
+      "id": "fib-23",
+      "number": 23,
+      "question": "The pharynx communicates with both the respiratory system and the ________ system.",
+      "answer": "digestive",
+      "accepted_answers": [
+        "digestive"
+      ]
+    },
+    {
+      "id": "fib-24",
+      "number": 24,
+      "question": "The upper division of the throat located behind the nasal cavity is the ________.",
+      "answer": "nasopharynx",
+      "accepted_answers": [
+        "nasopharynx"
+      ]
+    },
+    {
+      "id": "fib-25",
+      "number": 25,
+      "question": "The lymphoid tissue found in the posterosuperior wall of the nasopharynx is known as the ________.",
+      "answer": "adenoids (or pharyngeal tonsils)",
+      "accepted_answers": [
+        "adenoids",
+        "pharyngeal tonsils"
+      ]
+    },
+    {
+      "id": "fib-26",
+      "number": 26,
+      "question": "The only substance that should normally pass through the nasopharynx is ________.",
+      "answer": "air",
+      "accepted_answers": [
+        "air"
+      ]
+    },
+    {
+      "id": "fib-27",
+      "number": 27,
+      "question": "The middle division of the throat communicating with the oral cavity is the ________.",
+      "answer": "oropharynx",
+      "accepted_answers": [
+        "oropharynx"
+      ]
+    },
+    {
+      "id": "fib-28",
+      "number": 28,
+      "question": "The lymphoid masses situated on each side of the oropharynx are the ________ tonsils.",
+      "answer": "palatine",
+      "accepted_answers": [
+        "palatine"
+      ]
+    },
+    {
+      "id": "fib-29",
+      "number": 29,
+      "question": "Air, solid food, and liquids all traverse the ________ during swallowing and respiration.",
+      "answer": "oropharynx",
+      "accepted_answers": [
+        "oropharynx"
+      ]
+    },
+    {
+      "id": "fib-30",
+      "number": 30,
+      "question": "The lowest segment of the pharynx, located behind the larynx, is the ________.",
+      "answer": "laryngopharynx (or hypopharynx)",
+      "accepted_answers": [
+        "laryngopharynx",
+        "hypopharynx"
+      ]
+    },
+    {
+      "id": "fib-31",
+      "number": 31,
+      "question": "Inferiorly, the laryngopharynx continues as the tubular ________.",
+      "answer": "esophagus",
+      "accepted_answers": [
+        "esophagus"
+      ]
+    },
+    {
+      "id": "fib-32",
+      "number": 32,
+      "question": "The complete ring of lymphoid tissue protecting the pharynx is called ________ ring.",
+      "answer": "Waldeyer’s",
+      "accepted_answers": [
+        "Waldeyer’s"
+      ]
+    },
+    {
+      "id": "fib-33",
+      "number": 33,
+      "question": "Pharyngeal infection can spread down to the larynx causing airway obstruction and death by ________.",
+      "answer": "asphyxia",
+      "accepted_answers": [
+        "asphyxia"
+      ]
+    },
+    {
+      "id": "fib-34",
+      "number": 34,
+      "question": "A clinical sign suggesting a severe pharyngeal infection is a body temperature exceeding ________ °C.",
+      "answer": "39",
+      "accepted_answers": [
+        "39"
+      ]
+    },
+    {
+      "id": "fib-35",
+      "number": 35,
+      "question": "Direct endoscopic examination of the pharynx and larynx is termed ________.",
+      "answer": "laryngoscopy",
+      "accepted_answers": [
+        "laryngoscopy"
+      ]
+    },
+    {
+      "id": "fib-36",
+      "number": 36,
+      "question": "The larynx connects the throat superiorly to the ________ inferiorly.",
+      "answer": "trachea",
+      "accepted_answers": [
+        "trachea"
+      ]
+    },
+    {
+      "id": "fib-37",
+      "number": 37,
+      "question": "The total length and width of the larynx is approximately ________ to ________ cm.",
+      "answer": "4 to 5",
+      "accepted_answers": [
+        "4 to 5"
+      ]
+    },
+    {
+      "id": "fib-38",
+      "number": 38,
+      "question": "The larynx spans vertically from cervical vertebra C4 to ________.",
+      "answer": "C6",
+      "accepted_answers": [
+        "C6"
+      ]
+    },
+    {
+      "id": "fib-39",
+      "number": 39,
+      "question": "The cartilaginous framework of the human larynx is made of ________ distinct cartilages.",
+      "answer": "9",
+      "accepted_answers": [
+        "9"
+      ]
+    },
+    {
+      "id": "fib-40",
+      "number": 40,
+      "question": "The large anterior shield-like cartilage forming the Adam’s apple is the ________ cartilage.",
+      "answer": "thyroid",
+      "accepted_answers": [
+        "thyroid"
+      ]
+    },
+    {
+      "id": "fib-41",
+      "number": 41,
+      "question": "The leaf-shaped flap of elastic cartilage guarding the laryngeal inlet is the ________.",
+      "answer": "epiglottis",
+      "accepted_answers": [
+        "epiglottis"
+      ]
+    },
+    {
+      "id": "fib-42",
+      "number": 42,
+      "question": "The signet ring-shaped cartilage forming a complete circle is the ________ cartilage.",
+      "answer": "cricoid",
+      "accepted_answers": [
+        "cricoid"
+      ]
+    },
+    {
+      "id": "fib-43",
+      "number": 43,
+      "question": "In pediatric patients and infants, the narrowest point of the airway occurs at the ________ cartilage.",
+      "answer": "cricoid",
+      "accepted_answers": [
+        "cricoid"
+      ]
+    },
+    {
+      "id": "fib-44",
+      "number": 44,
+      "question": "Expelled lung air vibrates the ________ vocal cords to generate voice sounds.",
+      "answer": "true",
+      "accepted_answers": [
+        "true"
+      ]
+    },
+    {
+      "id": "fib-45",
+      "number": 45,
+      "question": "The ________ vocal cords possess no phonatory role but assist in sealing the laryngeal inlet during deglutition.",
+      "answer": "false (or vestibular folds)",
+      "accepted_answers": [
+        "false",
+        "vestibular folds"
+      ]
+    },
+    {
+      "id": "fib-46",
+      "number": 46,
+      "question": "The tough fibrous membrane connecting the cricoid and thyroid cartilages is the ________ membrane.",
+      "answer": "cricothyroid",
+      "accepted_answers": [
+        "cricothyroid"
+      ]
+    },
+    {
+      "id": "fib-47",
+      "number": 47,
+      "question": "In acute upper airway emergencies, an opening can be incised in the neck via a procedure known as ________.",
+      "answer": "cricothyrotomy",
+      "accepted_answers": [
+        "cricothyrotomy"
+      ]
+    },
+    {
+      "id": "fib-48",
+      "number": 48,
+      "question": "For percutaneous emergency ventilation, a catheter or needle of ________ to 14 gauge is inserted.",
+      "answer": "12",
+      "accepted_answers": [
+        "12"
+      ]
+    },
+    {
+      "id": "fib-49",
+      "number": 49,
+      "question": "Sensory signals from the laryngeal mucosal lining above the vocal cords travel through the ________ laryngeal nerve.",
+      "answer": "internal",
+      "accepted_answers": [
+        "internal"
+      ]
+    },
+    {
+      "id": "fib-50",
+      "number": 50,
+      "question": "Sensory innervation below the level of the true vocal cords is provided by the ________ laryngeal nerve.",
+      "answer": "recurrent",
+      "accepted_answers": [
+        "recurrent"
+      ]
+    },
+    {
+      "id": "fib-51",
+      "number": 51,
+      "question": "An injury to the recurrent laryngeal nerve typically causes voice ________.",
+      "answer": "hoarseness",
+      "accepted_answers": [
+        "hoarseness"
+      ]
+    },
+    {
+      "id": "fib-52",
+      "number": 52,
+      "question": "In direct laryngoscopy, the fibrous white medial folds are identified as the ________ cords.",
+      "answer": "vocal (or true vocal)",
+      "accepted_answers": [
+        "vocal",
+        "true vocal"
+      ]
+    },
+    {
+      "id": "fib-53",
+      "number": 53,
+      "question": "The fleshy lateral folds visible during laryngoscopy are known as the ________ folds.",
+      "answer": "vestibular (or false vocal)",
+      "accepted_answers": [
+        "vestibular",
+        "false vocal"
+      ]
+    },
+    {
+      "id": "fib-54",
+      "number": 54,
+      "question": "The opening between the true vocal cords that accommodates the endotracheal tube is the ________ opening.",
+      "answer": "glottic (or glottis)",
+      "accepted_answers": [
+        "glottic",
+        "glottis"
+      ]
+    },
+    {
+      "id": "fib-55",
+      "number": 55,
+      "question": "Laryngitis lasting longer than three weeks is clinically classified as ________ laryngitis.",
+      "answer": "chronic",
+      "accepted_answers": [
+        "chronic"
+      ]
+    },
+    {
+      "id": "fib-56",
+      "number": 56,
+      "question": "Diagnostic assessment of vocal fold vibration during phonation is performed using ________.",
+      "answer": "videostroboscopy",
+      "accepted_answers": [
+        "videostroboscopy"
+      ]
+    },
+    {
+      "id": "fib-57",
+      "number": 57,
+      "question": "The trachea measures approximately ________ cm in length.",
+      "answer": "10",
+      "accepted_answers": [
+        "10"
+      ]
+    },
+    {
+      "id": "fib-58",
+      "number": 58,
+      "question": "The average diameter (width) of the human trachea is approximately ________ cm.",
+      "answer": "2.5",
+      "accepted_answers": [
+        "2.5"
+      ]
+    },
+    {
+      "id": "fib-59",
+      "number": 59,
+      "question": "The trachea is divided anatomically into a cervical part and a ________ part.",
+      "answer": "thoracic",
+      "accepted_answers": [
+        "thoracic"
+      ]
+    },
+    {
+      "id": "fib-60",
+      "number": 60,
+      "question": "The tracheal lumen is held permanently patent by 16 to 20 ________-shaped rings of cartilage.",
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": "fib-61",
+      "number": 61,
+      "question": "The ridge at the base of the trachea where it bifurcates into the right and left main bronchi is the ________.",
+      "answer": "carina",
+      "accepted_answers": [
+        "carina"
+      ]
+    },
+    {
+      "id": "fib-62",
+      "number": 62,
+      "question": "A surgical opening made directly through the anterior neck into the trachea to secure an airway is called a ________.",
+      "answer": "tracheostomy",
+      "accepted_answers": [
+        "tracheostomy"
+      ]
+    },
+    {
+      "id": "fib-63",
+      "number": 63,
+      "question": "The sequential path of inspired air goes: mouth/nose → trachea → bronchi → bronchioles → ________.",
+      "answer": "alveoli",
+      "accepted_answers": [
+        "alveoli"
+      ]
+    },
+    {
+      "id": "fib-64",
+      "number": 64,
+      "question": "An abnormal fistulous channel connecting the windpipe and the esophagus is a ________ fistula.",
+      "answer": "tracheoesophageal",
+      "accepted_answers": [
+        "tracheoesophageal"
+      ]
+    },
+    {
+      "id": "fib-65",
+      "number": 65,
+      "question": "A condition characterized by abnormal flaccidity and collapse of tracheal cartilage, particularly in neonates, is ________.",
+      "answer": "tracheomalacia",
+      "accepted_answers": [
+        "tracheomalacia"
+      ]
+    },
+    {
+      "id": "fib-66",
+      "number": 66,
+      "question": "Pathologic narrowing of the tracheal lumen that restricts airflow is termed tracheal ________.",
+      "answer": "stenosis",
+      "accepted_answers": [
+        "stenosis"
+      ]
+    },
+    {
+      "id": "fib-67",
+      "number": 67,
+      "question": "The right lung is supplied by ________ lobar bronchi.",
+      "answer": "3",
+      "accepted_answers": [
+        "3"
+      ]
+    },
+    {
+      "id": "fib-68",
+      "number": 68,
+      "question": "The left lung is supplied by ________ lobar bronchi.",
+      "answer": "2",
+      "accepted_answers": [
+        "2"
+      ]
+    },
+    {
+      "id": "fib-69",
+      "number": 69,
+      "question": "Lobar bronchi divide into smaller branches called ________ bronchi that supply specific bronchopulmonary segments.",
+      "answer": "segmental",
+      "accepted_answers": [
+        "segmental"
+      ]
+    },
+    {
+      "id": "fib-70",
+      "number": 70,
+      "question": "The microscopic walls of bronchioles lack cartilage and are made completely of ________ muscle.",
+      "answer": "smooth",
+      "accepted_answers": [
+        "smooth"
+      ]
+    },
+    {
+      "id": "fib-71",
+      "number": 71,
+      "question": "Terminal bronchioles lead downstream to respiratory bronchioles and terminate in ________ sacs.",
+      "answer": "alveolar",
+      "accepted_answers": [
+        "alveolar"
+      ]
+    },
+    {
+      "id": "fib-72",
+      "number": 72,
+      "question": "The bronchi serve purely as conducting conduits and do not participate in ________ exchange.",
+      "answer": "gas",
+      "accepted_answers": [
+        "gas"
+      ]
+    },
+    {
+      "id": "fib-73",
+      "number": 73,
+      "question": "Chronic inflammation causing airway hyperreactivity, bronchospasm, and dyspnea is known as ________.",
+      "answer": "asthma",
+      "accepted_answers": [
+        "asthma"
+      ]
+    },
+    {
+      "id": "fib-74",
+      "number": 74,
+      "question": "A chronic condition characterized by irreversible dilatation and scarring of the bronchi is ________.",
+      "answer": "bronchiectasis",
+      "accepted_answers": [
+        "bronchiectasis"
+      ]
+    },
+    {
+      "id": "fib-75",
+      "number": 75,
+      "question": "An acute or chronic inflammation of the mucous membranes of the bronchial tubes is ________.",
+      "answer": "bronchitis",
+      "accepted_answers": [
+        "bronchitis"
+      ]
+    },
+    {
+      "id": "fib-76",
+      "number": 76,
+      "question": "A common viral respiratory infection affecting the small bronchioles in infants is ________.",
+      "answer": "bronchiolitis",
+      "accepted_answers": [
+        "bronchiolitis"
+      ]
+    },
+    {
+      "id": "fib-77",
+      "number": 77,
+      "question": "The combined acronym COPD stands for Chronic ________ Pulmonary Disease.",
+      "answer": "Obstructive",
+      "accepted_answers": [
+        "Obstructive"
+      ]
+    },
+    {
+      "id": "fib-78",
+      "number": 78,
+      "question": "Visual inspection of the interior of the tracheobronchial tree using a flexible fiberoptic scope is called ________.",
+      "answer": "bronchoscopy",
+      "accepted_answers": [
+        "bronchoscopy"
+      ]
+    },
+    {
+      "id": "fib-79",
+      "number": 79,
+      "question": "The non-invasive pulmonary test measuring lung volumes and expiratory flow rates is ________.",
+      "answer": "spirometry",
+      "accepted_answers": [
+        "spirometry"
+      ]
+    },
+    {
+      "id": "fib-80",
+      "number": 80,
+      "question": "A diagnostic method combining bronchoscopy with sound wave imaging to visualize mediastinal lymph nodes is ________.",
+      "answer": "EBUS (Endobronchial Ultrasound)",
+      "accepted_answers": [
+        "EBUS (Endobronchial Ultrasound)"
+      ]
+    },
+    {
+      "id": "fib-81",
+      "number": 81,
+      "question": "Measuring the fraction of exhaled ________ oxide helps clinicians determine the degree of bronchial inflammation.",
+      "answer": "nitric",
+      "accepted_answers": [
+        "nitric"
+      ]
+    },
+    {
+      "id": "fib-82",
+      "number": 82,
+      "question": "Alveoli are tiny, balloon-shaped microscopic air sacs located at the terminus of the ________.",
+      "answer": "bronchioles (or alveolar ducts)",
+      "accepted_answers": [
+        "bronchioles",
+        "alveolar ducts"
+      ]
+    },
+    {
+      "id": "fib-83",
+      "number": 83,
+      "question": "Alveolar walls are surrounded by a dense network of pulmonary ________.",
+      "answer": "capillaries",
+      "accepted_answers": [
+        "capillaries"
+      ]
+    },
+    {
+      "id": "fib-84",
+      "number": 84,
+      "question": "In healthy lungs, the total number of alveoli is estimated between 300 and ________ million.",
+      "answer": "480",
+      "accepted_answers": [
+        "480"
+      ]
+    },
+    {
+      "id": "fib-85",
+      "number": 85,
+      "question": "At rest, the functional surface area of the respiratory membrane spans between 50 and ________ m².",
+      "answer": "100",
+      "accepted_answers": [
+        "100"
+      ]
+    },
+    {
+      "id": "fib-86",
+      "number": 86,
+      "question": "When maximally expanded at total lung capacity, the alveolar membrane reaches approximately ________ m².",
+      "answer": "160",
+      "accepted_answers": [
+        "160"
+      ]
+    },
+    {
+      "id": "fib-87",
+      "number": 87,
+      "question": "Within the alveolus, oxygen passes across a ________ layer of alveolar epithelial cells into the blood.",
+      "answer": "single",
+      "accepted_answers": [
+        "single"
+      ]
+    },
+    {
+      "id": "fib-88",
+      "number": 88,
+      "question": "The removal of ________ gas from capillary blood to the alveoli is essential to prevent hypercapnia.",
+      "answer": "carbon dioxide (CO₂)",
+      "accepted_answers": [
+        "carbon dioxide (CO₂)"
+      ]
+    },
+    {
+      "id": "fib-89",
+      "number": 89,
+      "question": "A chemical substance that decreases surface tension inside the alveoli to prevent end-expiratory collapse is ________.",
+      "answer": "surfactant",
+      "accepted_answers": [
+        "surfactant"
+      ]
+    },
+    {
+      "id": "fib-90",
+      "number": 90,
+      "question": "Phagocytic cells stationed inside alveoli to engulf inhaled dust and bacteria are called alveolar ________.",
+      "answer": "macrophages (or dust cells)",
+      "accepted_answers": [
+        "macrophages",
+        "dust cells"
+      ]
+    },
+    {
+      "id": "fib-91",
+      "number": 91,
+      "question": "In Pulmonary Alveolar Proteinosis (PAP), excessive accumulation of ________ occurs in the air sacs.",
+      "answer": "surfactant (or protein)",
+      "accepted_answers": [
+        "surfactant",
+        "protein"
+      ]
+    },
+    {
+      "id": "fib-92",
+      "number": 92,
+      "question": "Symptoms of Pulmonary Alveolar Proteinosis include dyspnea, fatigue, weight loss, and chronic ________.",
+      "answer": "cough",
+      "accepted_answers": [
+        "cough"
+      ]
+    },
+    {
+      "id": "fib-93",
+      "number": 93,
+      "question": "An infection that causes fluid or pus consolidation within the alveoli is known as ________.",
+      "answer": "pneumonia",
+      "accepted_answers": [
+        "pneumonia"
+      ]
+    },
+    {
+      "id": "fib-94",
+      "number": 94,
+      "question": "Spread of upper airway bacterial pathogens into the central nervous system can trigger life-threatening ________.",
+      "answer": "meningitis",
+      "accepted_answers": [
+        "meningitis"
+      ]
+    },
+    {
+      "id": "fib-95",
+      "number": 95,
+      "question": "Systemic bacteremia arising from airway infections can cause widespread organ failure known as ________.",
+      "answer": "sepsis",
+      "accepted_answers": [
+        "sepsis"
+      ]
+    },
+    {
+      "id": "fib-96",
+      "number": 96,
+      "question": "The vast majority of uncomplicated upper airway infections are caused by ________ and resolve spontaneously.",
+      "answer": "viruses",
+      "accepted_answers": [
+        "viruses"
+      ]
+    },
+    {
+      "id": "fib-97",
+      "number": 97,
+      "question": "Pharmacologic treatment of viral infections focuses primarily on ________ management and hydration.",
+      "answer": "symptom",
+      "accepted_answers": [
+        "symptom"
+      ]
+    },
+    {
+      "id": "fib-98",
+      "number": 98,
+      "question": "Antimicrobial agents such as ________ should only be prescribed when a bacterial etiology is confirmed.",
+      "answer": "amoxicillin (or antibiotics)",
+      "accepted_answers": [
+        "amoxicillin",
+        "antibiotics"
+      ]
+    },
+    {
+      "id": "fib-99",
+      "number": 99,
+      "question": "In cases of severe laryngeal or airway edema, intravenous anti-inflammatory drugs called ________ may be administered.",
+      "answer": "steroids (or corticosteroids)",
+      "accepted_answers": [
+        "steroids",
+        "corticosteroids"
+      ]
+    },
+    {
+      "id": "fib-100",
+      "number": 100,
+      "question": "Lower airway infections like acute bacterial bronchitis or pneumonia demand therapy directed against the specific causative ________.",
+      "answer": "organism (or pathogen / bacterium)",
+      "accepted_answers": [
+        "organism",
+        "pathogen",
+        "bacterium"
+      ]
+    }
+  ],
+  "study_questions": [
+    {
+      "id": "study-1",
+      "category": "The Airway: Introduction",
+      "type": "points",
+      "question": "What structures make up the airway?",
+      "answer": [
+        "Mouth",
+        "Nose",
+        "Pharynx",
+        "Larynx",
+        "Trachea",
+        "Bronchial tree",
+        "Alveoli"
+      ]
+    },
+    {
+      "id": "study-2",
+      "category": "Mouth (Oral Cavity)",
+      "type": "points",
+      "question": "What are the functions of the lips and cheeks?",
+      "answer": [
+        "They help hold food in the mouth and keep it in place for chewing.",
+        "They are used in the formation of words for speech.",
+        "The lips contain numerous sensory receptors that are useful for judging the temperature and texture of foods."
+      ]
+    },
+    {
+      "id": "study-3",
+      "category": "Mouth (Oral Cavity)",
+      "type": "points",
+      "question": "How many teeth are in each set?",
+      "answer": [
+        "Deciduous (primary) set: contains 20 teeth.",
+        "Permanent (secondary) set: contains 32 teeth.",
+        "Design: the shape of each tooth type corresponds to the way it handles food."
+      ]
+    },
+    {
+      "id": "study-4",
+      "category": "Mouth (Oral Cavity)",
+      "type": "points",
+      "question": "What are the two main functions of the mouth?",
+      "answer": [
+        "The two main functions of the mouth are eating and speaking.",
+        "Salivary secretions: in addition, it receives the secretions from the salivary glands.",
+        "Innervation: the trigeminal nerve of the face provides sensation (feeling) and helps us bite, chew, and swallow."
+      ]
+    },
+    {
+      "id": "study-5",
+      "category": "Nose",
+      "type": "points",
+      "question": "What are the paranasal sinuses and what are their functions?",
+      "answer": [
+        "They are air-filled cavities located in the frontal, maxillae, ethmoid, and sphenoid bones.",
+        "Functions:",
+        "1) reduce the weight of the skull;",
+        "2) produce mucus;",
+        "3) influence voice quality by acting as resonating chambers."
+      ]
+    },
+    {
+      "id": "study-6",
+      "category": "Nose",
+      "type": "points",
+      "question": "What are the functions of the nose?",
+      "answer": [
+        "Natural airway",
+        "Moistens the air",
+        "Warms the air",
+        "Filtration and cleaning of the air",
+        "Smell",
+        "Voice"
+      ]
+    },
+    {
+      "id": "study-7",
+      "category": "Pharynx (Throat)",
+      "type": "points",
+      "question": "What is the function of the throat (pharynx)?",
+      "answer": [
+        "The throat serves both the respiratory and digestive systems by receiving air from the nasal cavity and air, food, and water from the oral cavity.",
+        "Routes air coming in through the nose and mouth down to the larynx (voice box), which in turn moves air to the trachea and lungs.",
+        "Delivers food and liquid to the oesophagus, which sends them on to the stomach.",
+        "Helps make sure particles of food and liquid don't tumble into the trachea and lungs."
+      ]
+    },
+    {
+      "id": "study-8",
+      "category": "Pharynx (Throat)",
+      "type": "points",
+      "question": "How is the pharynx divided by location?",
+      "answer": [
+        "A) Nasopharynx: the part behind the nose; it contains the adenoids. Passage restriction: the upper part lets only air pass through.",
+        "B) Oropharynx: the part communicating with the mouth; it contains the tonsils. Air, food and fluid all pass through it.",
+        "C) Laryngopharynx (hypopharynx): the part behind the voice box (larynx); it continues downward as the oesophagus. It regulates how food moves to the oesophagus and how air moves to the lungs."
+      ]
+    },
+    {
+      "id": "study-9",
+      "category": "Pharynx (Throat)",
+      "type": "points",
+      "question": "What are the common symptoms of conditions that affect the pharynx?",
+      "answer": [
+        "A sore throat",
+        "Trouble swallowing",
+        "Earache",
+        "Fever higher than 39°C, which could be a sign of infection",
+        "Lumps in the back of the neck",
+        "Neck feeling weak or stiff"
+      ]
+    },
+    {
+      "id": "study-10",
+      "category": "Larynx (Voice Box)",
+      "type": "points",
+      "question": "What are the cartilages and protective structures of the larynx?",
+      "answer": [
+        "Thyroid cartilage: the Adam's apple.",
+        "Epiglottis: acts like a trap door to keep food and other particles from entering the larynx.",
+        "Cricoid cartilage: the complete ring in the larynx; it is the narrowest part of the airway in infants."
+      ]
+    },
+    {
+      "id": "study-11",
+      "category": "Larynx (Voice Box)",
+      "type": "points",
+      "question": "What can damage to the larynx nerves produce?",
+      "answer": [
+        "produce: hoarseness of voice, respiratory obstruction, and risk of aspiration."
+      ]
+    },
+    {
+      "id": "study-12",
+      "category": "Larynx (Voice Box)",
+      "type": "points",
+      "question": "What are the functions of the larynx?",
+      "answer": [
+        "Protects the lower respiratory tract",
+        "Takes part in swallowing",
+        "Speech",
+        "Breathing"
+      ]
+    },
+    {
+      "id": "study-13",
+      "category": "Larynx (Voice Box)",
+      "type": "points",
+      "question": "What conditions and disorders affect the larynx?",
+      "answer": [
+        "Acute laryngitis: may develop with an infection or from straining the vocal cords by overusing the voice.",
+        "Chronic laryngitis: long-term laryngitis lasting longer than three weeks. Causes include smoking, allergies and reflux.",
+        "Laryngeal cancer: cancer can develop in any part of the larynx.",
+        "Trauma or injury: from overusing the voice when speaking, shouting or singing for a long time, or being hit in the throat.",
+        "Vocal cord dysfunction: occurs when the vocal cords don't act or work normally.",
+        "Vocal cord lesions: noncancerous lesions, nodules, polyps or cysts, especially with overuse of the voice.",
+        "Vocal cord paralysis: occurs when one or both vocal cords don't move properly."
+      ]
+    },
+    {
+      "id": "study-14",
+      "category": "Larynx (Voice Box)",
+      "type": "points",
+      "question": "What are the common symptoms of conditions that affect the larynx?",
+      "answer": [
+        "Sore throat or cough",
+        "Voice changes, including hoarseness",
+        "Pain or other difficulties when swallowing"
+      ]
+    },
+    {
+      "id": "study-15",
+      "category": "Trachea (Windpipe)",
+      "type": "points",
+      "question": "What is the function of the trachea?",
+      "answer": [
+        "The trachea's main function is to carry air in and out of the lungs.",
+        "Because it is a stiff, flexible tube, it provides a reliable pathway for oxygen to enter the body."
+      ]
+    },
+    {
+      "id": "study-16",
+      "category": "Trachea (Windpipe)",
+      "type": "points",
+      "question": "How does the trachea work with the respiratory system when we inhale?",
+      "answer": [
+        "1. From the nose and mouth into the trachea.",
+        "2. From the trachea into the left and right bronchi.",
+        "3. Through the bronchi and into bronchioles in the lungs.",
+        "4. Into small sacs in the lungs called alveoli, where the body exchanges oxygen for carbon dioxide (gas exchange).",
+        "When we exhale, the body performs these motions in reverse to carry carbon dioxide out of the body."
+      ]
+    },
+    {
+      "id": "study-17",
+      "category": "Trachea (Windpipe)",
+      "type": "points",
+      "question": "What conditions and disorders affect the trachea?",
+      "answer": [
+        "Tracheal cancer: cancer that starts in the windpipe.",
+        "Tracheal obstruction: a blockage in the upper airway, which includes the trachea, larynx or pharynx.",
+        "Tracheal stenosis: airway narrowing that restricts breathing.",
+        "Tracheitis: inflammation in the trachea, often because of a cold or other infection that causes coughing.",
+        "Tracheoesophageal fistula: an irregular connection (hole) in one or more places between the oesophagus and the trachea.",
+        "Tracheomalacia: the trachea collapsing in on itself, usually in newborns."
+      ]
+    },
+    {
+      "id": "study-18",
+      "category": "Bronchial Tree",
+      "type": "points",
+      "question": "What conditions and disorders affect the bronchi?",
+      "answer": [
+        "Asthma: chronic inflammation in the airways that makes it difficult to breathe.",
+        "Bronchiectasis: when the bronchi widen and scar, causing coughing up of mucus.",
+        "Bronchitis: inflammation or infection in the bronchi, which may be short-term (acute) or long-lasting (chronic).",
+        "Bronchiolitis: a viral lung infection of the bronchioles.",
+        "Bronchopulmonary dysplasia: a breathing condition that occurs when an infant's lungs do not develop properly.",
+        "Chronic obstructive pulmonary disease (COPD): a group of inflammatory lung diseases that can cause obstruction in airway flow, including bronchitis and emphysema.",
+        "Exercise-induced asthma: airways that shrink when you exert yourself."
+      ]
+    },
+    {
+      "id": "study-19",
+      "category": "Alveoli",
+      "type": "points",
+      "question": "What is the function of the alveoli and how does gas exchange happen?",
+      "answer": [
+        "Gas movement: the alveoli move oxygen and carbon dioxide (CO₂) molecules into and out of the bloodstream.",
+        "Diffusion membrane: they are extremely thin-walled so that gas exchange occurs between the alveoli and the surrounding capillaries."
+      ]
+    },
+    {
+      "id": "study-20",
+      "category": "Alveoli",
+      "type": "points",
+      "question": "What is the breathing process?",
+      "answer": [
+        "Inhalation: when we breathe in, oxygen moves to our bloodstream.",
+        "Exhalation: when we breathe out, we expel carbon dioxide.",
+        "Gas exchange site: this process takes place in the alveoli in our lungs.",
+        "Airway note: our bronchi are not involved in gas exchange; they only supply air to the alveoli."
+      ]
+    },
+    {
+      "id": "study-21",
+      "category": "Alveoli",
+      "type": "points",
+      "question": "What is the respiratory pathway?",
+      "answer": [
+        "We inhale air into our mouth or nose.",
+        "Air travels down the trachea.",
+        "Air travels through the airways (bronchi) into the lungs.",
+        "Air is directed through smaller and smaller passages (bronchioles), moves through tiny ducts (alveolar ducts), and finally enters individual alveoli.",
+        "O₂ molecules move through a single layer of lung cells in the alveolus, then through a single cell layer in the capillary to enter the bloodstream."
+      ]
+    },
+    {
+      "id": "study-22",
+      "category": "Alveoli",
+      "type": "points",
+      "question": "What are the alveolar lung diseases?",
+      "answer": [
+        "Pneumonia",
+        "Emphysema (including COPD)",
+        "Tuberculosis (TB)",
+        "Pulmonary alveolar proteinosis",
+        "Bronchioloalveolar carcinoma",
+        "Acute respiratory distress syndrome",
+        "Respiratory distress syndrome",
+        "Pulmonary oedema"
+      ]
+    },
+    {
+      "id": "study-23",
+      "category": "Infections of the Airways",
+      "type": "points",
+      "question": "What are the complications of upper airway infections?",
+      "answer": [
+        "Pneumonia",
+        "Meningitis",
+        "Fever",
+        "Sepsis",
+        "Organ damage"
+      ]
+    },
+    {
+      "id": "study-24",
+      "category": "Infections of the Airways",
+      "type": "points",
+      "question": "How is an upper airway infection managed?",
+      "answer": [
+        "Upper airway infections are usually caused by viruses and get better on their own.",
+        "Treatment focuses on managing symptoms until the body heals.",
+        "Use pain relievers, rest, and fluids.",
+        "Only bacterial infections require antibiotics.",
+        "Severe swelling may need hospital care or steroids."
+      ]
+    },
+    {
+      "id": "study-25",
+      "category": "Infections of the Airways",
+      "type": "points",
+      "question": "How is a lower airway infection managed?",
+      "answer": [
+        "Managing lower airway infections (like pneumonia or bronchitis) requires targeting the specific cause and relieving symptoms.",
+        "Doctors treat bacterial infections with prescribed antibiotics (e.g., amoxicillin), while viral infections require rest, fluids, and symptom relief (like NSAIDs or humidified air).",
+        "Severe cases may require hospital care."
+      ]
+    }
+  ]
+}

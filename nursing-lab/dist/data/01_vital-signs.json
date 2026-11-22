@@ -1,0 +1,2534 @@
+{
+  "exam_id": 1,
+  "slug": "vital-signs",
+  "title": "Vital Signs (1)",
+  "source_file": "1____Vital_Signs_Questions.docx",
+  "notes": [
+    "Source: Dr Salim M. Makhlouf – Fundamentals of Nursing II"
+  ],
+  "counts": {
+    "multiple_choice": 100,
+    "fill_in_the_blank": 100,
+    "study_questions": 24
+  },
+  "multiple_choice": [
+    {
+      "id": "mcq-1",
+      "number": 1,
+      "question": "Which of the following is NOT listed as one of the primary vital signs?",
+      "options": {
+        "A": "Blood pressure",
+        "B": "Body temperature",
+        "C": "Blood glucose",
+        "D": "Pain"
+      },
+      "answer": "C",
+      "answer_text": "Blood glucose"
+    },
+    {
+      "id": "mcq-2",
+      "number": 2,
+      "question": "Vital signs are grouped together because they indicate:",
+      "options": {
+        "A": "The patient’s psychological status",
+        "B": "The state of a patient’s health",
+        "C": "The financial status of the patient",
+        "D": "The administrative records of admission"
+      },
+      "answer": "B",
+      "answer_text": "The state of a patient’s health"
+    },
+    {
+      "id": "mcq-3",
+      "number": 3,
+      "question": "Which of the following is a purpose of measuring vital signs?",
+      "options": {
+        "A": "To diagnose psychiatric disorders only",
+        "B": "To assess the general physical health of a person",
+        "C": "To replace surgical procedures",
+        "D": "To avoid physical examination"
+      },
+      "answer": "B",
+      "answer_text": "To assess the general physical health of a person"
+    },
+    {
+      "id": "mcq-4",
+      "number": 4,
+      "question": "Vital signs should be recorded before and after:",
+      "options": {
+        "A": "Patient meals",
+        "B": "Any surgical or invasive procedure",
+        "C": "Patient visiting hours",
+        "D": "Hospital discharge billing"
+      },
+      "answer": "B",
+      "answer_text": "Any surgical or invasive procedure"
+    },
+    {
+      "id": "mcq-5",
+      "number": 5,
+      "question": "Which factor influencing vital signs is related to exercise tolerance?",
+      "options": {
+        "A": "Gender",
+        "B": "Race",
+        "C": "Environment",
+        "D": "Pain"
+      },
+      "answer": "B",
+      "answer_text": "Race"
+    },
+    {
+      "id": "mcq-6",
+      "number": 6,
+      "question": "Which equipment is used to assess arterial oxygen saturation and pulse?",
+      "options": {
+        "A": "Sphygmomanometer",
+        "B": "Stethoscope",
+        "C": "Pulse oximetry",
+        "D": "Clinical thermometer"
+      },
+      "answer": "C",
+      "answer_text": "Pulse oximetry"
+    },
+    {
+      "id": "mcq-7",
+      "number": 7,
+      "question": "Humans maintain a stable body temperature by balancing:",
+      "options": {
+        "A": "Fluid intake and urine output",
+        "B": "Heat production and heat loss",
+        "C": "Systolic and diastolic pressure",
+        "D": "Oxygen and nitrogen intake"
+      },
+      "answer": "B",
+      "answer_text": "Heat production and heat loss"
+    },
+    {
+      "id": "mcq-8",
+      "number": 8,
+      "question": "Which brain structure functions as the body’s thermostat?",
+      "options": {
+        "A": "Thalamus",
+        "B": "Cerebellum",
+        "C": "Medulla oblongata",
+        "D": "Hypothalamus"
+      },
+      "answer": "D",
+      "answer_text": "Hypothalamus"
+    },
+    {
+      "id": "mcq-9",
+      "number": 9,
+      "question": "The baseline body temperature set point maintained by the hypothalamus is:",
+      "options": {
+        "A": "36.0°C (96.8°F)",
+        "B": "37.0°C (98.6°F)",
+        "C": "38.0°C (100.4°F)",
+        "D": "39.0°C (102.2°F)"
+      },
+      "answer": "B",
+      "answer_text": "37.0°C (98.6°F)"
+    },
+    {
+      "id": "mcq-10",
+      "number": 10,
+      "question": "When the body is too hot, the hypothalamus promotes heat loss by:",
+      "options": {
+        "A": "Shivering",
+        "B": "Vasoconstriction",
+        "C": "Sweating and vasodilation",
+        "D": "Piloerection"
+      },
+      "answer": "C",
+      "answer_text": "Sweating and vasodilation"
+    },
+    {
+      "id": "mcq-11",
+      "number": 11,
+      "question": "Rapid, involuntary muscle contractions that generate warmth when cold are known as:",
+      "options": {
+        "A": "Piloerection",
+        "B": "Vasodilation",
+        "C": "Shivering",
+        "D": "Perspiration"
+      },
+      "answer": "C",
+      "answer_text": "Shivering"
+    },
+    {
+      "id": "mcq-12",
+      "number": 12,
+      "question": "Piloerection helps warm the body by:",
+      "options": {
+        "A": "Causing blood vessel dilation",
+        "B": "Trapping a layer of warm air",
+        "C": "Increasing perspiration",
+        "D": "Inhibiting metabolism"
+      },
+      "answer": "B",
+      "answer_text": "Trapping a layer of warm air"
+    },
+    {
+      "id": "mcq-13",
+      "number": 13,
+      "question": "A body temperature rise above what threshold is officially termed a fever?",
+      "options": {
+        "A": "37.0°C",
+        "B": "37.5°C",
+        "C": "38.0°C",
+        "D": "39.5°C"
+      },
+      "answer": "C",
+      "answer_text": "38.0°C"
+    },
+    {
+      "id": "mcq-14",
+      "number": 14,
+      "question": "Most fevers are primarily caused by:",
+      "options": {
+        "A": "Malnutrition",
+        "B": "Infections",
+        "C": "Hypertension",
+        "D": "Dehydration alone"
+      },
+      "answer": "B",
+      "answer_text": "Infections"
+    },
+    {
+      "id": "mcq-15",
+      "number": 15,
+      "question": "A continuous high temperature pattern is clinically described as:",
+      "options": {
+        "A": "Intermittent",
+        "B": "Recurrent",
+        "C": "Sustained",
+        "D": "Nocturnal"
+      },
+      "answer": "C",
+      "answer_text": "Sustained"
+    },
+    {
+      "id": "mcq-16",
+      "number": 16,
+      "question": "A fever that specifically spikes during the night-time is called:",
+      "options": {
+        "A": "Sustained fever",
+        "B": "Nocturnal fever",
+        "C": "Remittent fever",
+        "D": "Recurrent fever"
+      },
+      "answer": "B",
+      "answer_text": "Nocturnal fever"
+    },
+    {
+      "id": "mcq-17",
+      "number": 17,
+      "question": "To convert Celsius to Fahrenheit, the formula is:",
+      "options": {
+        "A": "(°C × 5 ÷ 9) + 32",
+        "B": "(°C × 9 ÷ 5) + 32",
+        "C": "(°C - 32) × 5 ÷ 9",
+        "D": "(°C + 32) × 9 ÷ 5"
+      },
+      "answer": "B",
+      "answer_text": "(°C × 9 ÷ 5) + 32"
+    },
+    {
+      "id": "mcq-18",
+      "number": 18,
+      "question": "100°C converted to Fahrenheit equals:",
+      "options": {
+        "A": "180°F",
+        "B": "200°F",
+        "C": "212°F",
+        "D": "100°F"
+      },
+      "answer": "C",
+      "answer_text": "212°F"
+    },
+    {
+      "id": "mcq-19",
+      "number": 19,
+      "question": "Before taking an oral temperature, how long must you wait if the patient smoked or drank hot liquids?",
+      "options": {
+        "A": "10 minutes",
+        "B": "15 minutes",
+        "C": "20 minutes",
+        "D": "30 minutes"
+      },
+      "answer": "D",
+      "answer_text": "30 minutes"
+    },
+    {
+      "id": "mcq-20",
+      "number": 20,
+      "question": "Which temperature measurement site is the safest for neonates?",
+      "options": {
+        "A": "Oral",
+        "B": "Axillary",
+        "C": "Rectal",
+        "D": "Tympanic"
+      },
+      "answer": "B",
+      "answer_text": "Axillary"
+    },
+    {
+      "id": "mcq-21",
+      "number": 21,
+      "question": "What is the standard temperature measurement site for infants and young children?",
+      "options": {
+        "A": "Oral",
+        "B": "Rectal",
+        "C": "Axillary",
+        "D": "Forehead"
+      },
+      "answer": "B",
+      "answer_text": "Rectal"
+    },
+    {
+      "id": "mcq-22",
+      "number": 22,
+      "question": "Compared to an oral reading, an axillary temperature reading is approximately:",
+      "options": {
+        "A": "1 degree higher",
+        "B": "1 degree lower",
+        "C": "2 degrees lower",
+        "D": "Exactly the same"
+      },
+      "answer": "B",
+      "answer_text": "1 degree lower"
+    },
+    {
+      "id": "mcq-23",
+      "number": 23,
+      "question": "Compared to an oral reading, a rectal temperature reading is approximately:",
+      "options": {
+        "A": "1 degree lower",
+        "B": "1 degree higher",
+        "C": "2 degrees higher",
+        "D": "Identical"
+      },
+      "answer": "B",
+      "answer_text": "1 degree higher"
+    },
+    {
+      "id": "mcq-24",
+      "number": 24,
+      "question": "A major disadvantage of a mercury-in-glass thermometer is:",
+      "options": {
+        "A": "Inaccuracy",
+        "B": "High expense",
+        "C": "Breakability and time delay",
+        "D": "Unavailability"
+      },
+      "answer": "C",
+      "answer_text": "Breakability and time delay"
+    },
+    {
+      "id": "mcq-25",
+      "number": 25,
+      "question": "How long must an oral clinical glass thermometer be kept in place for a reliable reading?",
+      "options": {
+        "A": "30 seconds",
+        "B": "1 minute",
+        "C": "2 minutes",
+        "D": "5 minutes"
+      },
+      "answer": "C",
+      "answer_text": "2 minutes"
+    },
+    {
+      "id": "mcq-26",
+      "number": 26,
+      "question": "An axillary glass thermometer must be kept in place for:",
+      "options": {
+        "A": "1-2 minutes",
+        "B": "3-4 minutes",
+        "C": "5-10 minutes",
+        "D": "15 minutes"
+      },
+      "answer": "C",
+      "answer_text": "5-10 minutes"
+    },
+    {
+      "id": "mcq-27",
+      "number": 27,
+      "question": "The normal body temperature range for an adult in Celsius is:",
+      "options": {
+        "A": "35.0 - 36.0°C",
+        "B": "36.1 - 37.2°C",
+        "C": "37.5 - 38.5°C",
+        "D": "38.0 - 39.0°C"
+      },
+      "answer": "B",
+      "answer_text": "36.1 - 37.2°C"
+    },
+    {
+      "id": "mcq-28",
+      "number": 28,
+      "question": "A high fever is classified when the temperature exceeds:",
+      "options": {
+        "A": "38.0°C (100.4°F)",
+        "B": "38.5°C (101.3°F)",
+        "C": "39.5°C (103.1°F)",
+        "D": "41.0°C (105.8°F)"
+      },
+      "answer": "C",
+      "answer_text": "39.5°C (103.1°F)"
+    },
+    {
+      "id": "mcq-29",
+      "number": 29,
+      "question": "A body temperature of 41°C (105.8°F) or higher is classified as:",
+      "options": {
+        "A": "Hypothermia",
+        "B": "Pyrexia",
+        "C": "Hyperpyrexia (very high fever)",
+        "D": "Normal variation"
+      },
+      "answer": "C",
+      "answer_text": "Hyperpyrexia (very high fever)"
+    },
+    {
+      "id": "mcq-30",
+      "number": 30,
+      "question": "Hypothermia is defined as a core body temperature below:",
+      "options": {
+        "A": "37.0°C",
+        "B": "36.5°C",
+        "C": "36.0°C",
+        "D": "35.5°C"
+      },
+      "answer": "C",
+      "answer_text": "36.0°C"
+    },
+    {
+      "id": "mcq-31",
+      "number": 31,
+      "question": "Before inserting a clinical thermometer, shake the mercury down below:",
+      "options": {
+        "A": "37.0°C",
+        "B": "36.0°C",
+        "C": "35.0°C",
+        "D": "34.0°C"
+      },
+      "answer": "C",
+      "answer_text": "35.0°C"
+    },
+    {
+      "id": "mcq-32",
+      "number": 32,
+      "question": "When washing a thermometer after use, you should rinse it with:",
+      "options": {
+        "A": "Boiling water",
+        "B": "Lukewarm soapy water followed by cool water",
+        "C": "Alcohol only",
+        "D": "Hot steaming water"
+      },
+      "answer": "B",
+      "answer_text": "Lukewarm soapy water followed by cool water"
+    },
+    {
+      "id": "mcq-33",
+      "number": 33,
+      "question": "Which of the following is NOT a common symptom of fever?",
+      "options": {
+        "A": "Chills and shivering",
+        "B": "Headache and weakness",
+        "C": "Bradycardia and hypoventilation",
+        "D": "Appetite loss and sweating"
+      },
+      "answer": "C",
+      "answer_text": "Bradycardia and hypoventilation"
+    },
+    {
+      "id": "mcq-34",
+      "number": 34,
+      "question": "The pulse wave traveling through arteries is created by distension of the:",
+      "options": {
+        "A": "Vena cava",
+        "B": "Aorta",
+        "C": "Pulmonary vein",
+        "D": "Capillary bed"
+      },
+      "answer": "B",
+      "answer_text": "Aorta"
+    },
+    {
+      "id": "mcq-35",
+      "number": 35,
+      "question": "The most common site used routinely for taking a pulse in adults is the:",
+      "options": {
+        "A": "Carotid artery",
+        "B": "Femoral artery",
+        "C": "Radial artery",
+        "D": "Brachial artery"
+      },
+      "answer": "C",
+      "answer_text": "Radial artery"
+    },
+    {
+      "id": "mcq-36",
+      "number": 36,
+      "question": "Which pulse site is best and most reliable in a collapsed patient?",
+      "options": {
+        "A": "Radial",
+        "B": "Carotid",
+        "C": "Pedal",
+        "D": "Popliteal"
+      },
+      "answer": "B",
+      "answer_text": "Carotid"
+    },
+    {
+      "id": "mcq-37",
+      "number": 37,
+      "question": "Why should you NEVER use your thumb to palpate a patient’s pulse?",
+      "options": {
+        "A": "It lacks tactile sensation",
+        "B": "It has its own strong pulse",
+        "C": "It exerts too much mechanical pressure",
+        "D": "It can cause nerve damage"
+      },
+      "answer": "B",
+      "answer_text": "It has its own strong pulse"
+    },
+    {
+      "id": "mcq-38",
+      "number": 38,
+      "question": "Before measuring a resting pulse rate, allow the patient to rest for:",
+      "options": {
+        "A": "1-2 minutes",
+        "B": "5-10 minutes",
+        "C": "20 minutes",
+        "D": "30 minutes"
+      },
+      "answer": "B",
+      "answer_text": "5-10 minutes"
+    },
+    {
+      "id": "mcq-39",
+      "number": 39,
+      "question": "If an adult patient’s pulse is irregular, you must count it for:",
+      "options": {
+        "A": "15 seconds multiplied by 4",
+        "B": "30 seconds multiplied by 2",
+        "C": "A full 60 seconds (1 minute)",
+        "D": "2 minutes"
+      },
+      "answer": "C",
+      "answer_text": "A full 60 seconds (1 minute)"
+    },
+    {
+      "id": "mcq-40",
+      "number": 40,
+      "question": "Tachycardia in an adult is defined as a heart rate above:",
+      "options": {
+        "A": "80 beats/min",
+        "B": "90 beats/min",
+        "C": "100 beats/min",
+        "D": "120 beats/min"
+      },
+      "answer": "C",
+      "answer_text": "100 beats/min"
+    },
+    {
+      "id": "mcq-41",
+      "number": 41,
+      "question": "Bradycardia in an adult is defined as a heart rate below:",
+      "options": {
+        "A": "50 beats/min",
+        "B": "60 beats/min",
+        "C": "70 beats/min",
+        "D": "80 beats/min"
+      },
+      "answer": "B",
+      "answer_text": "60 beats/min"
+    },
+    {
+      "id": "mcq-42",
+      "number": 42,
+      "question": "On the pulse grading scale, a pulse volume of “1+” represents:",
+      "options": {
+        "A": "Absent",
+        "B": "Weak",
+        "C": "Normal",
+        "D": "Bounding"
+      },
+      "answer": "B",
+      "answer_text": "Weak"
+    },
+    {
+      "id": "mcq-43",
+      "number": 43,
+      "question": "On the pulse grading scale, a “bounding” pulse is graded as:",
+      "options": {
+        "A": "0",
+        "B": "1+",
+        "C": "2+",
+        "D": "3+"
+      },
+      "answer": "D",
+      "answer_text": "3+"
+    },
+    {
+      "id": "mcq-44",
+      "number": 44,
+      "question": "Comparing the radial pulse bilaterally on both sides of the body assesses:",
+      "options": {
+        "A": "Rhythm",
+        "B": "Elasticity",
+        "C": "Equality",
+        "D": "Rate"
+      },
+      "answer": "C",
+      "answer_text": "Equality"
+    },
+    {
+      "id": "mcq-45",
+      "number": 45,
+      "question": "What is the normal heart rate range for a newborn (0-1 month)?",
+      "options": {
+        "A": "60-100 bpm",
+        "B": "70-190 bpm",
+        "C": "80-130 bpm",
+        "D": "100-140 bpm"
+      },
+      "answer": "B",
+      "answer_text": "70-190 bpm"
+    },
+    {
+      "id": "mcq-46",
+      "number": 46,
+      "question": "What is the normal resting heart rate for a healthy adult?",
+      "options": {
+        "A": "50-80 bpm",
+        "B": "60-100 bpm",
+        "C": "70-120 bpm",
+        "D": "80-140 bpm"
+      },
+      "answer": "B",
+      "answer_text": "60-100 bpm"
+    },
+    {
+      "id": "mcq-47",
+      "number": 47,
+      "question": "The physiological exchange of oxygen and carbon dioxide is termed:",
+      "options": {
+        "A": "Perfusion",
+        "B": "Respiration",
+        "C": "Diffusion",
+        "D": "Osmosis"
+      },
+      "answer": "B",
+      "answer_text": "Respiration"
+    },
+    {
+      "id": "mcq-48",
+      "number": 48,
+      "question": "Between inspiration and expiration:",
+      "options": {
+        "A": "Expiration is more active than inspiration",
+        "B": "Inspiration is a more active process than expiration",
+        "C": "Both are completely passive",
+        "D": "Expiration requires more muscle contraction"
+      },
+      "answer": "B",
+      "answer_text": "Inspiration is a more active process than expiration"
+    },
+    {
+      "id": "mcq-49",
+      "number": 49,
+      "question": "Quiet normal breathing is mainly characterized by:",
+      "options": {
+        "A": "Dominant abdominal movement",
+        "B": "Marked shoulder movement",
+        "C": "Flaring of the ala nasi",
+        "D": "Prominent neck muscle contractions"
+      },
+      "answer": "A",
+      "answer_text": "Dominant abdominal movement"
+    },
+    {
+      "id": "mcq-50",
+      "number": 50,
+      "question": "Accessory muscles used during respiratory distress include:",
+      "options": {
+        "A": "Forearm muscles",
+        "B": "Shoulders, neck muscles, and ala nasi",
+        "C": "Quadriceps",
+        "D": "Gluteal muscles"
+      },
+      "answer": "B",
+      "answer_text": "Shoulders, neck muscles, and ala nasi"
+    },
+    {
+      "id": "mcq-51",
+      "number": 51,
+      "question": "Sensory receptors that detect changes in blood O₂ and CO₂ concentrations are:",
+      "options": {
+        "A": "Baroreceptors",
+        "B": "Chemoreceptors",
+        "C": "Thermoreceptors",
+        "D": "Nociceptors"
+      },
+      "answer": "B",
+      "answer_text": "Chemoreceptors"
+    },
+    {
+      "id": "mcq-52",
+      "number": 52,
+      "question": "What is the primary purpose of the “deception technique” when counting respirations?",
+      "options": {
+        "A": "To check pulse and breath sounds simultaneously",
+        "B": "To prevent the patient from unconsciously altering their breathing",
+        "C": "To save clinical time",
+        "D": "To test patient awareness"
+      },
+      "answer": "B",
+      "answer_text": "To prevent the patient from unconsciously altering their breathing"
+    },
+    {
+      "id": "mcq-53",
+      "number": 53,
+      "question": "One complete respiration cycle consists of:",
+      "options": {
+        "A": "One inspiration only",
+        "B": "One expiration only",
+        "C": "One inspiration plus one expiration",
+        "D": "Two inspirations and one expiration"
+      },
+      "answer": "C",
+      "answer_text": "One inspiration plus one expiration"
+    },
+    {
+      "id": "mcq-54",
+      "number": 54,
+      "question": "Which drug class decreases respiratory rate?",
+      "options": {
+        "A": "Beta-blockers",
+        "B": "Antibiotics",
+        "C": "Narcotics (e.g., morphine)",
+        "D": "Antihistamines"
+      },
+      "answer": "C",
+      "answer_text": "Narcotics (e.g., morphine)"
+    },
+    {
+      "id": "mcq-55",
+      "number": 55,
+      "question": "Increased intracranial pressure (ICP) causes the respiratory rate to:",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Remain completely unaffected",
+        "D": "Fluctuate every 5 seconds"
+      },
+      "answer": "B",
+      "answer_text": "Decrease"
+    },
+    {
+      "id": "mcq-56",
+      "number": 56,
+      "question": "What is the normal respiratory rate for a neonate?",
+      "options": {
+        "A": "12-20 breaths/min",
+        "B": "25 breaths/min",
+        "C": "30 breaths/min",
+        "D": "35 breaths/min"
+      },
+      "answer": "D",
+      "answer_text": "35 breaths/min"
+    },
+    {
+      "id": "mcq-57",
+      "number": 57,
+      "question": "What is the normal respiratory rate for an adult?",
+      "options": {
+        "A": "8-12 breaths/min",
+        "B": "12-20 breaths/min",
+        "C": "20-30 breaths/min",
+        "D": "25-35 breaths/min"
+      },
+      "answer": "B",
+      "answer_text": "12-20 breaths/min"
+    },
+    {
+      "id": "mcq-58",
+      "number": 58,
+      "question": "Temporary cessation of breathing is known as:",
+      "options": {
+        "A": "Dyspnoea",
+        "B": "Apnoea",
+        "C": "Bradypnoea",
+        "D": "Orthopnoea"
+      },
+      "answer": "B",
+      "answer_text": "Apnoea"
+    },
+    {
+      "id": "mcq-59",
+      "number": 59,
+      "question": "Difficulty in breathing while lying flat is called:",
+      "options": {
+        "A": "Tachypnoea",
+        "B": "Orthopnoea",
+        "C": "Hyperpnoea",
+        "D": "Cheyne-Stokes"
+      },
+      "answer": "B",
+      "answer_text": "Orthopnoea"
+    },
+    {
+      "id": "mcq-60",
+      "number": 60,
+      "question": "An irregular breathing rhythm with alternating periods of apnoea and hyperventilation is:",
+      "options": {
+        "A": "Kussmaul respiration",
+        "B": "Cheyne-Stokes respiration",
+        "C": "Hyperventilation",
+        "D": "Bradypnoea"
+      },
+      "answer": "B",
+      "answer_text": "Cheyne-Stokes respiration"
+    },
+    {
+      "id": "mcq-61",
+      "number": 61,
+      "question": "Abnormally deep but regular respirations typically seen in diabetic ketoacidosis are:",
+      "options": {
+        "A": "Kussmaul respiration",
+        "B": "Cheyne-Stokes respiration",
+        "C": "Orthopnoea",
+        "D": "Tachypnoea"
+      },
+      "answer": "A",
+      "answer_text": "Kussmaul respiration"
+    },
+    {
+      "id": "mcq-62",
+      "number": 62,
+      "question": "Systolic blood pressure reflects the pressure during:",
+      "options": {
+        "A": "Relaxation of the left ventricle",
+        "B": "Contraction of the left ventricle",
+        "C": "Contraction of the right atrium",
+        "D": "Passive ventricular filling"
+      },
+      "answer": "B",
+      "answer_text": "Contraction of the left ventricle"
+    },
+    {
+      "id": "mcq-63",
+      "number": 63,
+      "question": "The mathematical difference between systolic and diastolic pressure is called:",
+      "options": {
+        "A": "Mean arterial pressure",
+        "B": "Pulse pressure",
+        "C": "Central venous pressure",
+        "D": "Cardiac output"
+      },
+      "answer": "B",
+      "answer_text": "Pulse pressure"
+    },
+    {
+      "id": "mcq-64",
+      "number": 64,
+      "question": "The blood pressure cuff bladder width should be what percentage of limb circumference?",
+      "options": {
+        "A": "20%",
+        "B": "30%",
+        "C": "40%",
+        "D": "60%"
+      },
+      "answer": "C",
+      "answer_text": "40%"
+    },
+    {
+      "id": "mcq-65",
+      "number": 65,
+      "question": "The length of the blood pressure cuff bladder should be:",
+      "options": {
+        "A": "Equal to its breadth",
+        "B": "Twice its breadth",
+        "C": "Three times its breadth",
+        "D": "Half of its breadth"
+      },
+      "answer": "B",
+      "answer_text": "Twice its breadth"
+    },
+    {
+      "id": "mcq-66",
+      "number": 66,
+      "question": "A diastolic blood pressure between 90 and 104 mmHg is classified as:",
+      "options": {
+        "A": "Normal",
+        "B": "High normal",
+        "C": "Mild rise",
+        "D": "Severe rise"
+      },
+      "answer": "C",
+      "answer_text": "Mild rise"
+    },
+    {
+      "id": "mcq-67",
+      "number": 67,
+      "question": "A systolic blood pressure of 165 mmHg with normal diastolic pressure is classified as:",
+      "options": {
+        "A": "Normal systolic",
+        "B": "Borderline isolated systolic hypertension",
+        "C": "Isolated systolic hypertension",
+        "D": "Malignant hypertension"
+      },
+      "answer": "C",
+      "answer_text": "Isolated systolic hypertension"
+    },
+    {
+      "id": "mcq-68",
+      "number": 68,
+      "question": "Ideal blood pressure is considered to be between:",
+      "options": {
+        "A": "80/50 and 100/70 mmHg",
+        "B": "90/60 and 120/80 mmHg",
+        "C": "120/80 and 140/90 mmHg",
+        "D": "100/60 and 130/85 mmHg"
+      },
+      "answer": "B",
+      "answer_text": "90/60 and 120/80 mmHg"
+    },
+    {
+      "id": "mcq-69",
+      "number": 69,
+      "question": "When placing the blood pressure cuff, it should be positioned:",
+      "options": {
+        "A": "Directly over the wrist",
+        "B": "Above the elbow",
+        "C": "Below the elbow",
+        "D": "Around the forearm"
+      },
+      "answer": "B",
+      "answer_text": "Above the elbow"
+    },
+    {
+      "id": "mcq-70",
+      "number": 70,
+      "question": "During blood pressure measurement, the stethoscope diaphragm is placed over the:",
+      "options": {
+        "A": "Radial artery",
+        "B": "Carotid artery",
+        "C": "Brachial artery",
+        "D": "Ulnar artery"
+      },
+      "answer": "C",
+      "answer_text": "Brachial artery"
+    },
+    {
+      "id": "mcq-71",
+      "number": 71,
+      "question": "In the auscultation method, the first sound heard corresponds to the:",
+      "options": {
+        "A": "Diastolic pressure",
+        "B": "Systolic arterial pressure",
+        "C": "Mean arterial pressure",
+        "D": "Pulse deficit"
+      },
+      "answer": "B",
+      "answer_text": "Systolic arterial pressure"
+    },
+    {
+      "id": "mcq-72",
+      "number": 72,
+      "question": "Sounds heard during auscultatory blood pressure measurement are named:",
+      "options": {
+        "A": "Korotkoff sounds",
+        "B": "Heart murmurs",
+        "C": "Friction rubs",
+        "D": "Bruits"
+      },
+      "answer": "A",
+      "answer_text": "Korotkoff sounds"
+    },
+    {
+      "id": "mcq-73",
+      "number": 73,
+      "question": "In infants and children, when sounds do not disappear, which point is taken as diastolic?",
+      "options": {
+        "A": "The first loud tap",
+        "B": "The point of muffling",
+        "C": "Complete silence",
+        "D": "Zero pressure"
+      },
+      "answer": "B",
+      "answer_text": "The point of muffling"
+    },
+    {
+      "id": "mcq-74",
+      "number": 74,
+      "question": "The palpation method for measuring blood pressure provides:",
+      "options": {
+        "A": "Both systolic and diastolic readings",
+        "B": "Only the diastolic reading",
+        "C": "Only the systolic reading",
+        "D": "Pulse pressure only"
+      },
+      "answer": "C",
+      "answer_text": "Only the systolic reading"
+    },
+    {
+      "id": "mcq-75",
+      "number": 75,
+      "question": "The auscultatory gap can lead to an error of:",
+      "options": {
+        "A": "Falsely elevated diastolic pressure",
+        "B": "Falsely low value for systolic pressure",
+        "C": "Falsely elevated systolic pressure",
+        "D": "Complete failure to detect the pulse"
+      },
+      "answer": "B",
+      "answer_text": "Falsely low value for systolic pressure"
+    },
+    {
+      "id": "mcq-76",
+      "number": 76,
+      "question": "To prevent errors caused by the auscultatory gap, you should:",
+      "options": {
+        "A": "Use an oversized cuff",
+        "B": "Use palpation together with auscultation",
+        "C": "Deflate the cuff extremely fast",
+        "D": "Take readings only from the leg"
+      },
+      "answer": "B",
+      "answer_text": "Use palpation together with auscultation"
+    },
+    {
+      "id": "mcq-77",
+      "number": 77,
+      "question": "The IASP defines pain as an unpleasant sensory and:",
+      "options": {
+        "A": "Motor experience",
+        "B": "Emotional experience",
+        "C": "Cognitive decline",
+        "D": "Reflexive twitch"
+      },
+      "answer": "B",
+      "answer_text": "Emotional experience"
+    },
+    {
+      "id": "mcq-78",
+      "number": 78,
+      "question": "The two main broad categories of pain are:",
+      "options": {
+        "A": "Mild and severe",
+        "B": "Acute and chronic",
+        "C": "Visceral and somatic",
+        "D": "Central and peripheral"
+      },
+      "answer": "B",
+      "answer_text": "Acute and chronic"
+    },
+    {
+      "id": "mcq-79",
+      "number": 79,
+      "question": "Pain characterized by quick onset and short duration resulting from injury is:",
+      "options": {
+        "A": "Chronic pain",
+        "B": "Acute pain",
+        "C": "Neuropathic pain",
+        "D": "Idiopathic pain"
+      },
+      "answer": "B",
+      "answer_text": "Acute pain"
+    },
+    {
+      "id": "mcq-80",
+      "number": 80,
+      "question": "Pain is classified as chronic when it continues for:",
+      "options": {
+        "A": "More than 2 weeks",
+        "B": "More than 4 weeks",
+        "C": "More than 12 weeks",
+        "D": "More than 6 months"
+      },
+      "answer": "C",
+      "answer_text": "More than 12 weeks"
+    },
+    {
+      "id": "mcq-81",
+      "number": 81,
+      "question": "Pain caused by damage to body tissues and described as aching or sharp is:",
+      "options": {
+        "A": "Neuropathic pain",
+        "B": "Nociceptive pain",
+        "C": "Psychogenic pain",
+        "D": "Phantom pain"
+      },
+      "answer": "B",
+      "answer_text": "Nociceptive pain"
+    },
+    {
+      "id": "mcq-82",
+      "number": 82,
+      "question": "Pain messages travel from the dorsal horn of the spinal cord to the brain via the:",
+      "options": {
+        "A": "Corticospinal tract",
+        "B": "Spinothalamic tract",
+        "C": "Dorsal column",
+        "D": "Pyramidal tract"
+      },
+      "answer": "B",
+      "answer_text": "Spinothalamic tract"
+    },
+    {
+      "id": "mcq-83",
+      "number": 83,
+      "question": "Pain signals are carried along which two primary types of nerve fibres?",
+      "options": {
+        "A": "Alpha and Beta fibres",
+        "B": "Large A-delta and small C fibres",
+        "C": "Autonomic and motor fibres",
+        "D": "Cranial and sympathetic fibres"
+      },
+      "answer": "B",
+      "answer_text": "Large A-delta and small C fibres"
+    },
+    {
+      "id": "mcq-84",
+      "number": 84,
+      "question": "The fundamental basic sensation of pain occurs in the brain at the:",
+      "options": {
+        "A": "Cerebral cortex",
+        "B": "Thalamus",
+        "C": "Pons",
+        "D": "Medulla"
+      },
+      "answer": "B",
+      "answer_text": "Thalamus"
+    },
+    {
+      "id": "mcq-85",
+      "number": 85,
+      "question": "Which brain system serves as the emotional centre for interpreting pain?",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Limbic system",
+        "C": "Basal ganglia",
+        "D": "Brainstem"
+      },
+      "answer": "B",
+      "answer_text": "Limbic system"
+    },
+    {
+      "id": "mcq-86",
+      "number": 86,
+      "question": "Which of the following is released by damaged cells at an injury site?",
+      "options": {
+        "A": "Bradykinin",
+        "B": "Histamine",
+        "C": "Prostaglandins",
+        "D": "All of the above"
+      },
+      "answer": "D",
+      "answer_text": "All of the above"
+    },
+    {
+      "id": "mcq-87",
+      "number": 87,
+      "question": "Somatic nociceptive pain arises from:",
+      "options": {
+        "A": "Internal visceral organs",
+        "B": "Musculoskeletal tissue injury",
+        "C": "Central nervous system lesions",
+        "D": "Peripheral demyelination"
+      },
+      "answer": "B",
+      "answer_text": "Musculoskeletal tissue injury"
+    },
+    {
+      "id": "mcq-88",
+      "number": 88,
+      "question": "Pain originating from internal organs due to ischemia or distension is:",
+      "options": {
+        "A": "Somatic pain",
+        "B": "Visceral pain",
+        "C": "Neuropathic pain",
+        "D": "Radiating pain"
+      },
+      "answer": "B",
+      "answer_text": "Visceral pain"
+    },
+    {
+      "id": "mcq-89",
+      "number": 89,
+      "question": "Nociceptive pain responds well to:",
+      "options": {
+        "A": "Anticonvulsants only",
+        "B": "Traditional analgesics (NSAIDs and opioids)",
+        "C": "Antidepressants only",
+        "D": "Sedatives only"
+      },
+      "answer": "B",
+      "answer_text": "Traditional analgesics (NSAIDs and opioids)"
+    },
+    {
+      "id": "mcq-90",
+      "number": 90,
+      "question": "Neuropathic pain is defined as pain caused by:",
+      "options": {
+        "A": "Musculoskeletal injury",
+        "B": "Primary injury or dysfunction in the nervous system",
+        "C": "Emotional trauma",
+        "D": "Skin abrasions"
+      },
+      "answer": "B",
+      "answer_text": "Primary injury or dysfunction in the nervous system"
+    },
+    {
+      "id": "mcq-91",
+      "number": 91,
+      "question": "Which symptom is characteristically associated with neuropathic pain?",
+      "options": {
+        "A": "Dull constant ache",
+        "B": "Burning pain, electric shocks, and numbness",
+        "C": "Local tenderness on bone pressure",
+        "D": "Swelling and redness"
+      },
+      "answer": "B",
+      "answer_text": "Burning pain, electric shocks, and numbness"
+    },
+    {
+      "id": "mcq-92",
+      "number": 92,
+      "question": "Neuropathic pain responds POORLY to:",
+      "options": {
+        "A": "Tricyclic antidepressants",
+        "B": "Anticonvulsants",
+        "C": "Traditional analgesia (paracetamol, codeine, morphine)",
+        "D": "Pregabalin"
+      },
+      "answer": "C",
+      "answer_text": "Traditional analgesia (paracetamol, codeine, morphine)"
+    },
+    {
+      "id": "mcq-93",
+      "number": 93,
+      "question": "An example of an anticonvulsant used to treat neuropathic pain is:",
+      "options": {
+        "A": "Amitriptyline",
+        "B": "Pregabalin",
+        "C": "Paracetamol",
+        "D": "Morphine"
+      },
+      "answer": "B",
+      "answer_text": "Pregabalin"
+    },
+    {
+      "id": "mcq-94",
+      "number": 94,
+      "question": "Pain perceived at a location different from its actual source is called:",
+      "options": {
+        "A": "Radiating pain",
+        "B": "Referred pain",
+        "C": "Somatic pain",
+        "D": "Visceral pain"
+      },
+      "answer": "B",
+      "answer_text": "Referred pain"
+    },
+    {
+      "id": "mcq-95",
+      "number": 95,
+      "question": "Sciatic pain traveling down the leg is a classic example of:",
+      "options": {
+        "A": "Breakthrough pain",
+        "B": "Radiating pain",
+        "C": "Visceral pain",
+        "D": "Phantom pain"
+      },
+      "answer": "B",
+      "answer_text": "Radiating pain"
+    },
+    {
+      "id": "mcq-96",
+      "number": 96,
+      "question": "On a clinical chart, what symbol represents systolic blood pressure?",
+      "options": {
+        "A": "V",
+        "B": "A",
+        "C": "Θ",
+        "D": "X"
+      },
+      "answer": "B",
+      "answer_text": "A"
+    },
+    {
+      "id": "mcq-97",
+      "number": 97,
+      "question": "On a clinical chart, what symbol represents diastolic blood pressure?",
+      "options": {
+        "A": "A",
+        "B": "V",
+        "C": "Θ",
+        "D": "• (red)"
+      },
+      "answer": "B",
+      "answer_text": "V"
+    },
+    {
+      "id": "mcq-98",
+      "number": 98,
+      "question": "On a clinical chart, the symbol used for respiration is:",
+      "options": {
+        "A": "X",
+        "B": "• (blue)",
+        "C": "Θ",
+        "D": ""
+      },
+      "answer": "C",
+      "answer_text": "Θ"
+    },
+    {
+      "id": "mcq-99",
+      "number": 99,
+      "question": "On a clinical chart, pulse is documented using:",
+      "options": {
+        "A": "Red circle or",
+        "B": "Blue circle (•) or X",
+        "C": "Letter A",
+        "D": "Letter V"
+      },
+      "answer": "B",
+      "answer_text": "Blue circle (•) or X"
+    },
+    {
+      "id": "mcq-100",
+      "number": 100,
+      "question": "On the numerical pain rating scale (NRS), a score of 10 represents:",
+      "options": {
+        "A": "Mild discomfort",
+        "B": "Moderate pain",
+        "C": "No pain",
+        "D": "The worst pain"
+      },
+      "answer": "D",
+      "answer_text": "The worst pain"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "id": "fib-1",
+      "number": 1,
+      "question": "Body temperature, pulse, respiration, blood pressure, and pain are grouped together as ________ signs.",
+      "answer": "vital",
+      "accepted_answers": [
+        "vital"
+      ]
+    },
+    {
+      "id": "fib-2",
+      "number": 2,
+      "question": "Vital signs give important clues to possible ________.",
+      "answer": "diseases",
+      "accepted_answers": [
+        "diseases"
+      ]
+    },
+    {
+      "id": "fib-3",
+      "number": 3,
+      "question": "Vital signs are recorded on admission and according to the ________ orders.",
+      "answer": "physician’s",
+      "accepted_answers": [
+        "physician’s"
+      ]
+    },
+    {
+      "id": "fib-4",
+      "number": 4,
+      "question": "Recording vital signs is indicated before and after any ________ procedure.",
+      "answer": "surgical (or invasive / nursing)",
+      "accepted_answers": [
+        "surgical",
+        "invasive",
+        "nursing"
+      ]
+    },
+    {
+      "id": "fib-5",
+      "number": 5,
+      "question": "A drug affecting vital signs requires checking parameters both ________ and ________ administration.",
+      "answer": "before / after",
+      "accepted_answers": [
+        "before / after"
+      ]
+    },
+    {
+      "id": "fib-6",
+      "number": 6,
+      "question": "Age, gender, heredity, and lifestyle are factors that directly ________ vital signs.",
+      "answer": "influence (or affect)",
+      "accepted_answers": [
+        "influence",
+        "affect"
+      ]
+    },
+    {
+      "id": "fib-7",
+      "number": 7,
+      "question": "Blood pressure is checked using a stethoscope and a ________ cuff.",
+      "answer": "sphygmomanometer",
+      "accepted_answers": [
+        "sphygmomanometer"
+      ]
+    },
+    {
+      "id": "fib-8",
+      "number": 8,
+      "question": "Humans are ________ animals that maintain a stable internal core temperature.",
+      "answer": "warm-blooded",
+      "accepted_answers": [
+        "warm-blooded"
+      ]
+    },
+    {
+      "id": "fib-9",
+      "number": 9,
+      "question": "Body temperature regulation is a balance between heat production and heat ________.",
+      "answer": "loss",
+      "accepted_answers": [
+        "loss"
+      ]
+    },
+    {
+      "id": "fib-10",
+      "number": 10,
+      "question": "The specialized area of the brain acting as the body’s thermostat is the ________.",
+      "answer": "hypothalamus",
+      "accepted_answers": [
+        "hypothalamus"
+      ]
+    },
+    {
+      "id": "fib-11",
+      "number": 11,
+      "question": "The baseline set point maintained by the hypothalamus is ________ °F (37°C).",
+      "answer": "98.6",
+      "accepted_answers": [
+        "98.6"
+      ]
+    },
+    {
+      "id": "fib-12",
+      "number": 12,
+      "question": "To cool down the body, blood vessels dilate near the skin surface in a process called ________.",
+      "answer": "vasodilation",
+      "accepted_answers": [
+        "vasodilation"
+      ]
+    },
+    {
+      "id": "fib-13",
+      "number": 13,
+      "question": "Sweating cools the body down through heat escape via ________.",
+      "answer": "evaporation",
+      "accepted_answers": [
+        "evaporation"
+      ]
+    },
+    {
+      "id": "fib-14",
+      "number": 14,
+      "question": "In cold conditions, blood vessels narrow to keep warm blood centered via ________.",
+      "answer": "vasoconstriction",
+      "accepted_answers": [
+        "vasoconstriction"
+      ]
+    },
+    {
+      "id": "fib-15",
+      "number": 15,
+      "question": "Rapid, involuntary muscle contractions that produce heat are called ________.",
+      "answer": "shivering",
+      "accepted_answers": [
+        "shivering"
+      ]
+    },
+    {
+      "id": "fib-16",
+      "number": 16,
+      "question": "Hair standing on end to trap warm air is known as ________.",
+      "answer": "piloerection (or goosebumps)",
+      "accepted_answers": [
+        "piloerection",
+        "goosebumps"
+      ]
+    },
+    {
+      "id": "fib-17",
+      "number": 17,
+      "question": "A temperature rise above ________ °C is officially termed a fever.",
+      "answer": "38",
+      "accepted_answers": [
+        "38"
+      ]
+    },
+    {
+      "id": "fib-18",
+      "number": 18,
+      "question": "A fever is not an organ malfunction, but the body’s natural defense to fight ________.",
+      "answer": "illness (or infections)",
+      "accepted_answers": [
+        "illness",
+        "infections"
+      ]
+    },
+    {
+      "id": "fib-19",
+      "number": 19,
+      "question": "A continuous high temperature is known as a ________ fever pattern.",
+      "answer": "sustained",
+      "accepted_answers": [
+        "sustained"
+      ]
+    },
+    {
+      "id": "fib-20",
+      "number": 20,
+      "question": "A fever pattern that fluctuates up and down is called ________ or remittent.",
+      "answer": "intermittent",
+      "accepted_answers": [
+        "intermittent"
+      ]
+    },
+    {
+      "id": "fib-21",
+      "number": 21,
+      "question": "A fever pattern that disappears and returns over time is called ________.",
+      "answer": "recurrent",
+      "accepted_answers": [
+        "recurrent"
+      ]
+    },
+    {
+      "id": "fib-22",
+      "number": 22,
+      "question": "A fever that spikes specifically during the night-time is called ________.",
+      "answer": "nocturnal",
+      "accepted_answers": [
+        "nocturnal"
+      ]
+    },
+    {
+      "id": "fib-23",
+      "number": 23,
+      "question": "The formula to convert Fahrenheit to Celsius is: (°F - 32) × 5 ÷ ________.",
+      "answer": "9",
+      "accepted_answers": [
+        "9"
+      ]
+    },
+    {
+      "id": "fib-24",
+      "number": 24,
+      "question": "A temperature of 100°F converted to Celsius is equal to ________ °C.",
+      "answer": "37.8",
+      "accepted_answers": [
+        "37.8"
+      ]
+    },
+    {
+      "id": "fib-25",
+      "number": 25,
+      "question": "If a patient has eaten or smoked, wait ________ minutes before taking an oral temperature.",
+      "answer": "30",
+      "accepted_answers": [
+        "30"
+      ]
+    },
+    {
+      "id": "fib-26",
+      "number": 26,
+      "question": "The safest site for measuring temperature in neonates is the ________ site.",
+      "answer": "axillary",
+      "accepted_answers": [
+        "axillary"
+      ]
+    },
+    {
+      "id": "fib-27",
+      "number": 27,
+      "question": "The axillary site is indicated for patients receiving continuous ________ therapy.",
+      "answer": "oxygen",
+      "accepted_answers": [
+        "oxygen"
+      ]
+    },
+    {
+      "id": "fib-28",
+      "number": 28,
+      "question": "The standard temperature site measured for infants and young children is ________.",
+      "answer": "rectal",
+      "accepted_answers": [
+        "rectal"
+      ]
+    },
+    {
+      "id": "fib-29",
+      "number": 29,
+      "question": "Axillary and temporal temperature readings are about ________ degree lower than oral readings.",
+      "answer": "1",
+      "accepted_answers": [
+        "1"
+      ]
+    },
+    {
+      "id": "fib-30",
+      "number": 30,
+      "question": "Rectal and tympanic temperature readings are about ________ degree higher than oral readings.",
+      "answer": "1",
+      "accepted_answers": [
+        "1"
+      ]
+    },
+    {
+      "id": "fib-31",
+      "number": 31,
+      "question": "Breakability and time delay are disadvantages of a ________ thermometer.",
+      "answer": "mercury-in-glass",
+      "accepted_answers": [
+        "mercury-in-glass"
+      ]
+    },
+    {
+      "id": "fib-32",
+      "number": 32,
+      "question": "The normal body temperature range for an adult is 97-99°F or ________ °C.",
+      "answer": "36.1 - 37.2",
+      "accepted_answers": [
+        "36.1 - 37.2"
+      ]
+    },
+    {
+      "id": "fib-33",
+      "number": 33,
+      "question": "The average body temperature for a child is approximately ________ °C.",
+      "answer": "36.4 (or 97.52°F)",
+      "accepted_answers": [
+        "36.4",
+        "97.52°F"
+      ]
+    },
+    {
+      "id": "fib-34",
+      "number": 34,
+      "question": "A body temperature greater than 103.1°F (>39.5°C) is classified as a ________ fever.",
+      "answer": "high",
+      "accepted_answers": [
+        "high"
+      ]
+    },
+    {
+      "id": "fib-35",
+      "number": 35,
+      "question": "A temperature above 105.8°F (>41°C) is classified as ________ fever.",
+      "answer": "very high (or hyperpyrexia)",
+      "accepted_answers": [
+        "very high",
+        "hyperpyrexia"
+      ]
+    },
+    {
+      "id": "fib-36",
+      "number": 36,
+      "question": "Another clinical medical term meaning a fever state is ________.",
+      "answer": "pyrexia (or febrile)",
+      "accepted_answers": [
+        "pyrexia",
+        "febrile"
+      ]
+    },
+    {
+      "id": "fib-37",
+      "number": 37,
+      "question": "Elevated body temperature due to failed thermoregulation is termed ________.",
+      "answer": "hyperthermia",
+      "accepted_answers": [
+        "hyperthermia"
+      ]
+    },
+    {
+      "id": "fib-38",
+      "number": 38,
+      "question": "Dangerously low body temperature below 36°C is known as ________.",
+      "answer": "hypothermia",
+      "accepted_answers": [
+        "hypothermia"
+      ]
+    },
+    {
+      "id": "fib-39",
+      "number": 39,
+      "question": "Hyperpyrexia is defined as a temperature of ________ °C or higher.",
+      "answer": "41",
+      "accepted_answers": [
+        "41"
+      ]
+    },
+    {
+      "id": "fib-40",
+      "number": 40,
+      "question": "When measuring oral temperature, shake down the mercury level below ________ °C.",
+      "answer": "35",
+      "accepted_answers": [
+        "35"
+      ]
+    },
+    {
+      "id": "fib-41",
+      "number": 41,
+      "question": "The oral thermometer bulb should be placed under the patient’s ________.",
+      "answer": "tongue",
+      "accepted_answers": [
+        "tongue"
+      ]
+    },
+    {
+      "id": "fib-42",
+      "number": 42,
+      "question": "An oral clinical thermometer should be left in place for ________ minutes.",
+      "answer": "2",
+      "accepted_answers": [
+        "2"
+      ]
+    },
+    {
+      "id": "fib-43",
+      "number": 43,
+      "question": "An axillary thermometer must be kept in place for ________ minutes.",
+      "answer": "5-10",
+      "accepted_answers": [
+        "5-10"
+      ]
+    },
+    {
+      "id": "fib-44",
+      "number": 44,
+      "question": "After use, wash the clinical thermometer in lukewarm soapy water and rinse in ________ water.",
+      "answer": "cool",
+      "accepted_answers": [
+        "cool"
+      ]
+    },
+    {
+      "id": "fib-45",
+      "number": 45,
+      "question": "Natural body temperature fluctuations throughout the day are called ________ variations.",
+      "answer": "diurnal",
+      "accepted_answers": [
+        "diurnal"
+      ]
+    },
+    {
+      "id": "fib-46",
+      "number": 46,
+      "question": "Shivering, chills, headache, and sweating are common symptoms of ________.",
+      "answer": "fever",
+      "accepted_answers": [
+        "fever"
+      ]
+    },
+    {
+      "id": "fib-47",
+      "number": 47,
+      "question": "The heart functions as a pulsatile ________.",
+      "answer": "pump",
+      "accepted_answers": [
+        "pump"
+      ]
+    },
+    {
+      "id": "fib-48",
+      "number": 48,
+      "question": "With each stroke-volume ejection, the walls of the ________ distend, creating a pulse wave.",
+      "answer": "aorta",
+      "accepted_answers": [
+        "aorta"
+      ]
+    },
+    {
+      "id": "fib-49",
+      "number": 49,
+      "question": "The ________ artery is used routinely for standard vital sign checks.",
+      "answer": "radial",
+      "accepted_answers": [
+        "radial"
+      ]
+    },
+    {
+      "id": "fib-50",
+      "number": 50,
+      "question": "The ________ artery is the best site to assess pulse in a collapsed patient.",
+      "answer": "carotid",
+      "accepted_answers": [
+        "carotid"
+      ]
+    },
+    {
+      "id": "fib-51",
+      "number": 51,
+      "question": "Palpate the pulse using the first two or three fingers of your ________ hand.",
+      "answer": "dominant",
+      "accepted_answers": [
+        "dominant"
+      ]
+    },
+    {
+      "id": "fib-52",
+      "number": 52,
+      "question": "Never use your ________ to palpate a pulse because it has its own beat.",
+      "answer": "thumb",
+      "accepted_answers": [
+        "thumb"
+      ]
+    },
+    {
+      "id": "fib-53",
+      "number": 53,
+      "question": "Allow the patient to rest for ________ minutes before assessing resting pulse rate.",
+      "answer": "5-10",
+      "accepted_answers": [
+        "5-10"
+      ]
+    },
+    {
+      "id": "fib-54",
+      "number": 54,
+      "question": "If a pulse rhythm is regular, count for 30 seconds and multiply by ________.",
+      "answer": "2",
+      "accepted_answers": [
+        "2"
+      ]
+    },
+    {
+      "id": "fib-55",
+      "number": 55,
+      "question": "If a pulse is irregular, you must count for a full ________ seconds.",
+      "answer": "60 (or 1 minute)",
+      "accepted_answers": [
+        "60",
+        "1 minute"
+      ]
+    },
+    {
+      "id": "fib-56",
+      "number": 56,
+      "question": "A resting heart rate above 100 beats/min is called ________.",
+      "answer": "tachycardia",
+      "accepted_answers": [
+        "tachycardia"
+      ]
+    },
+    {
+      "id": "fib-57",
+      "number": 57,
+      "question": "A resting heart rate below 60 beats/min is called ________.",
+      "answer": "bradycardia",
+      "accepted_answers": [
+        "bradycardia"
+      ]
+    },
+    {
+      "id": "fib-58",
+      "number": 58,
+      "question": "Severe bleeding that causes pulse rate alterations is called ________.",
+      "answer": "haemorrhage",
+      "accepted_answers": [
+        "haemorrhage"
+      ]
+    },
+    {
+      "id": "fib-59",
+      "number": 59,
+      "question": "The four clinical pulse characteristics to evaluate are rhythm, strength, elasticity, and ________.",
+      "answer": "equality",
+      "accepted_answers": [
+        "equality"
+      ]
+    },
+    {
+      "id": "fib-60",
+      "number": 60,
+      "question": "On the pulse grading scale, a grade of 0 indicates the pulse is ________.",
+      "answer": "absent",
+      "accepted_answers": [
+        "absent"
+      ]
+    },
+    {
+      "id": "fib-61",
+      "number": 61,
+      "question": "On the pulse grading scale, a normal pulse is designated as ________.",
+      "answer": "2+",
+      "accepted_answers": [
+        "2+"
+      ]
+    },
+    {
+      "id": "fib-62",
+      "number": 62,
+      "question": "The radial artery is located in the wrist, just below the ________.",
+      "answer": "thumb",
+      "accepted_answers": [
+        "thumb"
+      ]
+    },
+    {
+      "id": "fib-63",
+      "number": 63,
+      "question": "The normal heart rate for a newborn is ________ bpm.",
+      "answer": "70-190",
+      "accepted_answers": [
+        "70-190"
+      ]
+    },
+    {
+      "id": "fib-64",
+      "number": 64,
+      "question": "The normal heart rate for an adult is ________ bpm.",
+      "answer": "60-100",
+      "accepted_answers": [
+        "60-100"
+      ]
+    },
+    {
+      "id": "fib-65",
+      "number": 65,
+      "question": "Respiration is defined as the exchange of ________ and carbon dioxide.",
+      "answer": "oxygen (O₂)",
+      "accepted_answers": [
+        "oxygen (O₂)"
+      ]
+    },
+    {
+      "id": "fib-66",
+      "number": 66,
+      "question": "Oxygen is brought into the body through inspiration, or ________.",
+      "answer": "inhalation",
+      "accepted_answers": [
+        "inhalation"
+      ]
+    },
+    {
+      "id": "fib-67",
+      "number": 67,
+      "question": "Carbon dioxide is eliminated from the body through expiration, or ________.",
+      "answer": "exhalation",
+      "accepted_answers": [
+        "exhalation"
+      ]
+    },
+    {
+      "id": "fib-68",
+      "number": 68,
+      "question": "Between the two respiratory phases, ________ is a more active process.",
+      "answer": "inspiration",
+      "accepted_answers": [
+        "inspiration"
+      ]
+    },
+    {
+      "id": "fib-69",
+      "number": 69,
+      "question": "Normal quiet breathing is characterized by dominant ________ movement.",
+      "answer": "abdominal",
+      "accepted_answers": [
+        "abdominal"
+      ]
+    },
+    {
+      "id": "fib-70",
+      "number": 70,
+      "question": "Flaring of the nostrils during respiratory distress involves the ala ________.",
+      "answer": "nasi",
+      "accepted_answers": [
+        "nasi"
+      ]
+    },
+    {
+      "id": "fib-71",
+      "number": 71,
+      "question": "Respiratory centers controlling breathing are located in the ________.",
+      "answer": "brain",
+      "accepted_answers": [
+        "brain"
+      ]
+    },
+    {
+      "id": "fib-72",
+      "number": 72,
+      "question": "Keeping fingers on the radial site while counting breaths is called the ________ technique.",
+      "answer": "deception",
+      "accepted_answers": [
+        "deception"
+      ]
+    },
+    {
+      "id": "fib-73",
+      "number": 73,
+      "question": "One complete respiration consists of one inspiration plus one ________.",
+      "answer": "expiration",
+      "accepted_answers": [
+        "expiration"
+      ]
+    },
+    {
+      "id": "fib-74",
+      "number": 74,
+      "question": "When evaluating respirations, document rate, rhythm, and ________.",
+      "answer": "depth",
+      "accepted_answers": [
+        "depth"
+      ]
+    },
+    {
+      "id": "fib-75",
+      "number": 75,
+      "question": "Morphine and other narcotics cause respiratory rate to ________.",
+      "answer": "decrease",
+      "accepted_answers": [
+        "decrease"
+      ]
+    },
+    {
+      "id": "fib-76",
+      "number": 76,
+      "question": "Increased intracranial pressure (ICP) causes respiratory rate to ________.",
+      "answer": "decrease",
+      "accepted_answers": [
+        "decrease"
+      ]
+    },
+    {
+      "id": "fib-77",
+      "number": 77,
+      "question": "The normal respiratory rate for a neonate is ________ breaths per minute.",
+      "answer": "35",
+      "accepted_answers": [
+        "35"
+      ]
+    },
+    {
+      "id": "fib-78",
+      "number": 78,
+      "question": "The normal respiratory rate for an adult is ________ breaths per minute.",
+      "answer": "12-20",
+      "accepted_answers": [
+        "12-20"
+      ]
+    },
+    {
+      "id": "fib-79",
+      "number": 79,
+      "question": "Temporary cessation of breathing is termed ________.",
+      "answer": "apnoea",
+      "accepted_answers": [
+        "apnoea"
+      ]
+    },
+    {
+      "id": "fib-80",
+      "number": 80,
+      "question": "Permanent cessation of breathing is called respiratory ________.",
+      "answer": "arrest",
+      "accepted_answers": [
+        "arrest"
+      ]
+    },
+    {
+      "id": "fib-81",
+      "number": 81,
+      "question": "Abnormally fast but regular breathing is called ________.",
+      "answer": "tachypnoea",
+      "accepted_answers": [
+        "tachypnoea"
+      ]
+    },
+    {
+      "id": "fib-82",
+      "number": 82,
+      "question": "Abnormally slow but regular breathing is called ________.",
+      "answer": "bradypnoea",
+      "accepted_answers": [
+        "bradypnoea"
+      ]
+    },
+    {
+      "id": "fib-83",
+      "number": 83,
+      "question": "Difficulty or labored breathing requiring accessory muscles is termed ________.",
+      "answer": "dyspnoea",
+      "accepted_answers": [
+        "dyspnoea"
+      ]
+    },
+    {
+      "id": "fib-84",
+      "number": 84,
+      "question": "Difficulty breathing when lying down is called ________.",
+      "answer": "orthopnoea",
+      "accepted_answers": [
+        "orthopnoea"
+      ]
+    },
+    {
+      "id": "fib-85",
+      "number": 85,
+      "question": "Deep, regular respirations associated with diabetic ketoacidosis are called ________ respiration.",
+      "answer": "Kussmaul",
+      "accepted_answers": [
+        "Kussmaul"
+      ]
+    },
+    {
+      "id": "fib-86",
+      "number": 86,
+      "question": "Blood pressure is the force per unit area exerted on the walls of the ________.",
+      "answer": "arteries",
+      "accepted_answers": [
+        "arteries"
+      ]
+    },
+    {
+      "id": "fib-87",
+      "number": 87,
+      "question": "Systolic pressure occurs during contraction of the ________ ventricle.",
+      "answer": "left",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "fib-88",
+      "number": 88,
+      "question": "Diastolic pressure occurs during ________ of the left ventricle.",
+      "answer": "relaxation",
+      "accepted_answers": [
+        "relaxation"
+      ]
+    },
+    {
+      "id": "fib-89",
+      "number": 89,
+      "question": "Pulse pressure is calculated by subtracting diastolic pressure from ________ pressure.",
+      "answer": "systolic",
+      "accepted_answers": [
+        "systolic"
+      ]
+    },
+    {
+      "id": "fib-90",
+      "number": 90,
+      "question": "The blood pressure cloth cuff width must equal ________ % of the limb circumference.",
+      "answer": "40",
+      "accepted_answers": [
+        "40"
+      ]
+    },
+    {
+      "id": "fib-91",
+      "number": 91,
+      "question": "Ideal resting blood pressure ranges between 90/60 mmHg and ________ mmHg.",
+      "answer": "120/80",
+      "accepted_answers": [
+        "120/80"
+      ]
+    },
+    {
+      "id": "fib-92",
+      "number": 92,
+      "question": "The first sound heard during blood pressure auscultation corresponds to the ________ pressure.",
+      "answer": "systolic",
+      "accepted_answers": [
+        "systolic"
+      ]
+    },
+    {
+      "id": "fib-93",
+      "number": 93,
+      "question": "The sounds heard through the stethoscope during blood pressure deflation are called ________ sounds.",
+      "answer": "Korotkoff",
+      "accepted_answers": [
+        "Korotkoff"
+      ]
+    },
+    {
+      "id": "fib-94",
+      "number": 94,
+      "question": "The blood pressure measurement method that gives only systolic pressure is ________.",
+      "answer": "palpation",
+      "accepted_answers": [
+        "palpation"
+      ]
+    },
+    {
+      "id": "fib-95",
+      "number": 95,
+      "question": "The silent interval between early systolic sounds and later sounds is the ________ gap.",
+      "answer": "auscultatory",
+      "accepted_answers": [
+        "auscultatory"
+      ]
+    },
+    {
+      "id": "fib-96",
+      "number": 96,
+      "question": "Chronic pain is defined as pain persisting for more than ________ weeks.",
+      "answer": "12",
+      "accepted_answers": [
+        "12"
+      ]
+    },
+    {
+      "id": "fib-97",
+      "number": 97,
+      "question": "Pain messages ascend the spinal cord to the brain via the ________ tract.",
+      "answer": "spinothalamic",
+      "accepted_answers": [
+        "spinothalamic"
+      ]
+    },
+    {
+      "id": "fib-98",
+      "number": 98,
+      "question": "Pain caused by musculoskeletal injury is classified as ________ pain.",
+      "answer": "somatic",
+      "accepted_answers": [
+        "somatic"
+      ]
+    },
+    {
+      "id": "fib-99",
+      "number": 99,
+      "question": "Sciatic nerve pain traveling down the leg is an example of ________ pain.",
+      "answer": "radiating",
+      "accepted_answers": [
+        "radiating"
+      ]
+    },
+    {
+      "id": "fib-100",
+      "number": 100,
+      "question": "On the clinical chart, the letter symbol used for diastolic pressure is ________.",
+      "answer": "V",
+      "accepted_answers": [
+        "V"
+      ]
+    }
+  ],
+  "study_questions": [
+    {
+      "id": "study-1",
+      "type": "points",
+      "question": "What are the factors that can directly influence a patient's vital signs? (8 factors)",
+      "answer": [
+        "Age",
+        "Gender",
+        "Heredity (genetics)",
+        "Race (exercise tolerance)",
+        "Lifestyle (weight)",
+        "Environment",
+        "Medications",
+        "Pain"
+      ]
+    },
+    {
+      "id": "study-2",
+      "type": "points",
+      "question": "What supplies are needed to check vital signs? (6 items)",
+      "answer": [
+        "Stethoscope",
+        "Blood pressure cuff with sphygmomanometer",
+        "Thermometer",
+        "Pulse oximetry",
+        "Watch",
+        "Disinfectant wipes and gloves"
+      ]
+    },
+    {
+      "id": "study-3",
+      "type": "points",
+      "question": "What are the temperature classifications?",
+      "answer": [
+        "Normal range: 36 – 37 °C",
+        "Hypothermia: < 36 °C",
+        "Pyrexia (Fever): 38 – 40 °C",
+        "Hyperpyrexia (Very high fever): 41 °C (105 °F) or higher"
+      ]
+    },
+    {
+      "id": "study-4",
+      "type": "points",
+      "question": "What are the sites for counting the heart rate? (5 sites)",
+      "answer": [
+        "Radial (the most commonly used site in adults)",
+        "Brachial",
+        "Carotid",
+        "Pedal",
+        "Femoral"
+      ]
+    },
+    {
+      "id": "study-5",
+      "type": "points",
+      "question": "What are the two main categories of pain?",
+      "answer": [
+        "Acute pain",
+        "Chronic pain"
+      ]
+    },
+    {
+      "id": "study-6",
+      "type": "points",
+      "question": "What are the types of pain?",
+      "answer": [
+        "Acute",
+        "Chronic",
+        "Nociceptive",
+        "Neuropathic",
+        "Nociplastic",
+        "Visceral",
+        "Somatic",
+        "Referred",
+        "Radiating"
+      ]
+    },
+    {
+      "id": "study-7",
+      "type": "points",
+      "question": "What are the two types of fibres that carry pain messages to the spinal cord?",
+      "answer": [
+        "The large A-delta fibres",
+        "The small C fibres"
+      ]
+    },
+    {
+      "id": "study-8",
+      "type": "points",
+      "question": "What are the universal scales recommended for measuring pain intensity?",
+      "answer": [
+        "Visual Analogue Scales (VAS)",
+        "Numerical Rating Scales (NRS)",
+        "Verbal Rating Scales (VRS)",
+        "Faces Pain Rating Scales"
+      ]
+    },
+    {
+      "id": "study-9",
+      "type": "points",
+      "question": "What are the causes of acute pain?",
+      "answer": [
+        "Surgical procedures",
+        "Trauma",
+        "Burns",
+        "Injuries",
+        "Hospital procedures",
+        "Inflammation",
+        "Infection",
+        "Angina",
+        "Labour pain",
+        "Postoperative pain"
+      ]
+    },
+    {
+      "id": "study-10",
+      "type": "points",
+      "question": "What are the factors that alter the pulse rate?",
+      "answer": [
+        "Exercise",
+        "Fever",
+        "Pain",
+        "Anxiety",
+        "Medications",
+        "Haemorrhage (bleeding)",
+        "Postural changes (moving from lying down to standing)"
+      ]
+    },
+    {
+      "id": "study-11",
+      "type": "points",
+      "question": "What are the factors affecting body temperature?",
+      "answer": [
+        "Age",
+        "Diurnal variations (natural temperature fluctuations throughout the day)",
+        "Exercise",
+        "Hormones",
+        "Stress",
+        "Environment"
+      ]
+    },
+    {
+      "id": "study-12",
+      "type": "points",
+      "question": "What are the factors that increase the respiratory rate?",
+      "answer": [
+        "Exercise",
+        "Stress"
+      ]
+    },
+    {
+      "id": "study-13",
+      "type": "points",
+      "question": "What are the factors that decrease the respiratory rate?",
+      "answer": [
+        "Decreased environmental temperature",
+        "Certain medications (specifically narcotics, e.g., morphine)",
+        "Increased intracranial pressure (ICP)"
+      ]
+    },
+    {
+      "id": "study-14",
+      "type": "points",
+      "question": "What are the symptoms of fever?",
+      "answer": [
+        "Appetite loss",
+        "Chills",
+        "Headache",
+        "Irritability",
+        "Muscle aches",
+        "Shivering",
+        "Sweating",
+        "Weakness"
+      ]
+    },
+    {
+      "id": "study-15",
+      "type": "points",
+      "question": "What are the symptoms of neuropathic pain?",
+      "answer": [
+        "Shooting pain",
+        "Burning pain",
+        "Electric shocks",
+        "Numbness",
+        "Pins and needles",
+        "Allodynia",
+        "Hyperalgesia"
+      ]
+    },
+    {
+      "id": "study-16",
+      "type": "points",
+      "question": "What are the conditions that can cause neuropathic pain?",
+      "answer": [
+        "Diabetic neuropathy",
+        "Cancer",
+        "HIV infection",
+        "Alcoholism",
+        "Multiple sclerosis",
+        "Phantom limb pain",
+        "Atypical facial pain",
+        "Post-herpetic neuralgia"
+      ]
+    },
+    {
+      "id": "study-17",
+      "type": "points",
+      "question": "What are the common side effects of the drugs used for neuropathic pain?",
+      "answer": [
+        "Constipation",
+        "Drowsiness",
+        "Abdominal pain",
+        "Dry mouth",
+        "Dizziness",
+        "Rashes",
+        "Nausea and vomiting",
+        "Poor concentration"
+      ]
+    },
+    {
+      "id": "study-18",
+      "type": "points_with_explanation",
+      "question": "What are the fever patterns and what do they mean?",
+      "answer": [
+        "Sustained: continuous high temperature.",
+        "Intermittent / Remittent: fluctuating up and down.",
+        "Recurrent: disappearing and returning over time.",
+        "Nocturnal: specifically spiking during the night-time."
+      ]
+    },
+    {
+      "id": "study-19",
+      "type": "points_with_explanation",
+      "question": "What are the body's responses when it is too hot?",
+      "answer": [
+        "Sweating: triggers sweat production to let heat escape via evaporation.",
+        "Vasodilation: dilates blood vessels near the skin surface to release heat.",
+        "Inhibition of heat production: halts the body's internal heat-generating processes.."
+      ]
+    },
+    {
+      "id": "study-20",
+      "type": "points_with_explanation",
+      "question": "What are the sites for measuring body temperature and their notes?",
+      "answer": [
+        "Oral (Mouth): wait 30 minutes if the patient has ingested hot/cold food or liquid, smoked, or engaged in heavy exercise.",
+        "Axillary (Armpit): the safest site for newborns; indicated for patients on continuous oxygen therapy.",
+        "Rectal (Rectum): the standard site for infants and young children; also an alternative for patients on continuous oxygen therapy.",
+        "Temporal (Forehead): a common alternative site for routine temperature assessment.",
+        "Tympanic (Ear): a common alternative site for routine temperature assessment."
+      ]
+    },
+    {
+      "id": "study-21",
+      "type": "points_with_explanation",
+      "question": "What are the pulse characteristics to evaluate?",
+      "answer": [
+        "Rhythm: can be regular, regularly irregular, or irregularly irregular.",
+        "Strength / Volume: characterized as full, bounding, or weak.",
+        "Elasticity: the condition and compliance of the arterial wall.",
+        "Equality: comparing the pulse bilaterally to ensure symmetry on both sides of the body."
+      ]
+    },
+    {
+      "id": "study-22",
+      "type": "points_with_explanation",
+      "question": "What are the characteristics of respiration to document? (3 characteristics)",
+      "answer": [
+        "Rate: the number of breaths per minute.",
+        "Rhythm: the regularity of the breathing pattern.",
+        "Depth: described clinically as shallow, deep, or normal."
+      ]
+    },
+    {
+      "id": "study-23",
+      "type": "points_with_explanation",
+      "question": "What are the abnormal respiratory patterns? (11 patterns)",
+      "answer": [
+        "Apnoea: temporary cessation of respiration.",
+        "Respiratory arrest: permanent cessation of respiration.",
+        "Tachypnoea: abnormally fast but regular respiration.",
+        "Bradypnoea: abnormally slow but regular respiration.",
+        "Dyspnoea: difficulty in breathing; increased effort is required (use of accessory muscles of respiration).",
+        "Orthopnoea: difficulty in breathing while lying down.",
+        "Hyperpnoea: rate and depth of breathing increased, as seen in exercise.",
+        "Hyperventilation: minute volume increased abnormally.",
+        "Hypoventilation: minute volume decreased abnormally.",
+        "Cheyne-Stokes respiration: irregular rhythm with alternating periods of apnoea and hyperventilation.",
+        "Kussmaul respiration: abnormally deep but regular respiration, as seen in diabetic ketoacidosis."
+      ]
+    },
+    {
+      "id": "study-24",
+      "type": "points_with_explanation",
+      "question": "What are the types of pain and their definitions?",
+      "answer": [
+        "Acute: short-term pain.",
+        "Chronic: long-term pain.",
+        "Nociceptive: pain caused by injury to body tissue.",
+        "Neuropathic: pain caused by damage to the nervous system.",
+        "Referred: pain perceived at another location.",
+        "Radiating: pain which starts in one location and spreads to another.",
+        "Visceral: pain from internal organs.",
+        "Somatic: pain in the skin, muscles, joints.."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,692 @@
+{
+  "exam_id": 6,
+  "slug": "blood-transfusion",
+  "title": "Blood Transfusion – Questions",
+  "source_file": "6_Blood_Transfusion_Questions.docx",
+  "notes": [],
+  "counts": {
+    "multiple_choice": 25,
+    "fill_in_the_blank": 25,
+    "study_questions": 9
+  },
+  "multiple_choice": [
+    {
+      "id": "mcq-1",
+      "number": 1,
+      "question": "What is the definition of a blood transfusion?",
+      "options": {
+        "A": "Removing excess plasma from the bloodstream",
+        "B": "Infusing whole blood or any of its components into a person",
+        "C": "Administering Dextrose or Lactated Ringer's intravenously",
+        "D": "Testing blood for ABO and Rh compatibility"
+      },
+      "answer": "B",
+      "answer_text": "Infusing whole blood or any of its components into a person"
+    },
+    {
+      "id": "mcq-2",
+      "number": 2,
+      "question": "Which blood component is responsible for carrying oxygen throughout the body?",
+      "options": {
+        "A": "Plasma",
+        "B": "Platelets",
+        "C": "Cryoprecipitate",
+        "D": "Red blood cells"
+      },
+      "answer": "D",
+      "answer_text": "Red blood cells"
+    },
+    {
+      "id": "mcq-3",
+      "number": 3,
+      "question": "What is the main function of plasma as a blood component?",
+      "options": {
+        "A": "Helps blood clot",
+        "B": "Carries oxygen throughout the body",
+        "C": "Carries nutrients the body needs",
+        "D": "Prevents air embolism"
+      },
+      "answer": "C",
+      "answer_text": "Carries nutrients the body needs"
+    },
+    {
+      "id": "mcq-4",
+      "number": 4,
+      "question": "In which of the following conditions may a person receive a plasma transfusion?",
+      "options": {
+        "A": "Severe burns, infections, or liver failure",
+        "B": "Iron deficiency anaemia only",
+        "C": "Low platelet count from chemotherapy",
+        "D": "Simple dehydration"
+      },
+      "answer": "A",
+      "answer_text": "Severe burns, infections, or liver failure"
+    },
+    {
+      "id": "mcq-5",
+      "number": 5,
+      "question": "When is a whole blood transfusion typically given?",
+      "options": {
+        "A": "For mild iron deficiency anaemia",
+        "B": "For severe traumatic haemorrhage requiring red blood cells, white blood cells, and platelets",
+        "C": "For hyperthermia",
+        "D": "For routine adult IV access"
+      },
+      "answer": "B",
+      "answer_text": "For severe traumatic haemorrhage requiring red blood cells, white blood cells, and platelets"
+    },
+    {
+      "id": "mcq-6",
+      "number": 6,
+      "question": "According to the Rh Rules, which blood type can an Rh-negative (-) person receive?",
+      "options": {
+        "A": "Rh (+) and Rh (-)",
+        "B": "Rh (+) only",
+        "C": "Rh (-) only",
+        "D": "Any ABO type regardless of Rh"
+      },
+      "answer": "C",
+      "answer_text": "Rh (-) only"
+    },
+    {
+      "id": "mcq-7",
+      "number": 7,
+      "question": "Which ABO blood group is known as the \"Universal Recipient\"?",
+      "options": {
+        "A": "O",
+        "B": "A",
+        "C": "B",
+        "D": "AB"
+      },
+      "answer": "D",
+      "answer_text": "AB"
+    },
+    {
+      "id": "mcq-8",
+      "number": 8,
+      "question": "According to the ABO Rules, which blood groups can a person with type A blood receive?",
+      "options": {
+        "A": "A and B",
+        "B": "A and O",
+        "C": "AB and A",
+        "D": "O only"
+      },
+      "answer": "B",
+      "answer_text": "A and O"
+    },
+    {
+      "id": "mcq-9",
+      "number": 9,
+      "question": "Under Pre-Transfusion Preparation, each unit of blood must be tested for evidence of:",
+      "options": {
+        "A": "Malaria, Dengue, and TB",
+        "B": "HBs, HBc, and HIV",
+        "C": "Hepatitis A and Influenza",
+        "D": "Iron and glucose levels"
+      },
+      "answer": "B",
+      "answer_text": "HBs, HBc, and HIV"
+    },
+    {
+      "id": "mcq-10",
+      "number": 10,
+      "question": "What size peripheral IV line is recommended under Pre-Transfusion Preparation and Administration for routine adult transfusions?",
+      "options": {
+        "A": "24- to 26-gauge",
+        "B": "22- to 24-gauge",
+        "C": "18- to 20-gauge",
+        "D": "12- to 14-gauge"
+      },
+      "answer": "C",
+      "answer_text": "18- to 20-gauge"
+    },
+    {
+      "id": "mcq-11",
+      "number": 11,
+      "question": "Which purpose of blood transfusion applies to a patient with agranulocytosis?",
+      "options": {
+        "A": "To improve leukocyte count in blood",
+        "B": "To lower haemoglobin levels",
+        "C": "To induce haemolysis",
+        "D": "To reduce plasma proteins"
+      },
+      "answer": "A",
+      "answer_text": "To improve leukocyte count in blood"
+    },
+    {
+      "id": "mcq-12",
+      "number": 12,
+      "question": "In the \"Purposes of blood transfusion\" section, what does leukopenia mean?",
+      "options": {
+        "A": "Very high RBCs",
+        "B": "Very low WBCs",
+        "C": "Very low platelets",
+        "D": "Excess clotting factors"
+      },
+      "answer": "B",
+      "answer_text": "Very low WBCs"
+    },
+    {
+      "id": "mcq-13",
+      "number": 13,
+      "question": "Which solution should be used ONLY to flush or prime the IV line for a blood transfusion?",
+      "options": {
+        "A": "5% Dextrose",
+        "B": "Lactated Ringer's",
+        "C": "0.9% Normal Saline",
+        "D": "Sterile water"
+      },
+      "answer": "C",
+      "answer_text": "0.9% Normal Saline"
+    },
+    {
+      "id": "mcq-14",
+      "number": 14,
+      "question": "Which IV solutions must NEVER be mixed with blood?",
+      "options": {
+        "A": "0.9% Normal Saline",
+        "B": "Dextrose or Lactated Ringer's",
+        "C": "Albumin",
+        "D": "Cryoprecipitate"
+      },
+      "answer": "B",
+      "answer_text": "Dextrose or Lactated Ringer's"
+    },
+    {
+      "id": "mcq-15",
+      "number": 15,
+      "question": "Within how many minutes of releasing a blood component from the blood bank must the transfusion be initiated?",
+      "options": {
+        "A": "Within 15 minutes",
+        "B": "Within 30 minutes",
+        "C": "Within 60 minutes",
+        "D": "Within 2 hours"
+      },
+      "answer": "B",
+      "answer_text": "Within 30 minutes"
+    },
+    {
+      "id": "mcq-16",
+      "number": 16,
+      "question": "What is the recommended initial infusion rate for the first 15 minutes of a blood transfusion?",
+      "options": {
+        "A": "About 50–120 mL/h or 2 mL/min",
+        "B": "About 250–300 mL/h",
+        "C": "About 500 mL/h",
+        "D": "Rapid bolus over 5 minutes"
+      },
+      "answer": "A",
+      "answer_text": "About 50–120 mL/h or 2 mL/min"
+    },
+    {
+      "id": "mcq-17",
+      "number": 17,
+      "question": "Why must the healthcare provider stay at the bedside during the first 15 minutes of starting a blood transfusion?",
+      "options": {
+        "A": "Because blood clots after 15 minutes",
+        "B": "Because most acute reactions happen during this window",
+        "C": "Because vital signs are not needed after 15 minutes",
+        "D": "Because the IV line must be flushed every 5 minutes"
+      },
+      "answer": "B",
+      "answer_text": "Because most acute reactions happen during this window"
+    },
+    {
+      "id": "mcq-18",
+      "number": 18,
+      "question": "According to Ongoing Checks under Administration and Monitoring, after the first 15 minutes, how often should vital signs be rechecked?",
+      "options": {
+        "A": "Every 5 minutes",
+        "B": "Every 30 minutes",
+        "C": "Hourly until the transfusion finishes",
+        "D": "Only after the transfusion ends"
+      },
+      "answer": "C",
+      "answer_text": "Hourly until the transfusion finishes"
+    },
+    {
+      "id": "mcq-19",
+      "number": 19,
+      "question": "Which indication for blood transfusion is characterized by a markedly decreased platelet count (↓↓ platelets count)?",
+      "options": {
+        "A": "Severe anaemia",
+        "B": "Oligemic shock",
+        "C": "Thrombocytopenia",
+        "D": "Agranulocytosis"
+      },
+      "answer": "C",
+      "answer_text": "Thrombocytopenia"
+    },
+    {
+      "id": "mcq-20",
+      "number": 20,
+      "question": "A mismatched blood transfusion reaction as a complication leads to:",
+      "options": {
+        "A": "Hyperthermia",
+        "B": "Haemolysis",
+        "C": "Leukopenia",
+        "D": "Polycythaemia"
+      },
+      "answer": "B",
+      "answer_text": "Haemolysis"
+    },
+    {
+      "id": "mcq-21",
+      "number": 21,
+      "question": "Which of the following diseases are listed as possible transmissions (complications) of blood transfusion?",
+      "options": {
+        "A": "Malaria, AIDS, and Hepatitis B",
+        "B": "Tuberculosis, Asthma, and Pneumonia",
+        "C": "Typhoid, Cholera, and Measles",
+        "D": "Diabetes and Hypertension"
+      },
+      "answer": "A",
+      "answer_text": "Malaria, AIDS, and Hepatitis B"
+    },
+    {
+      "id": "mcq-22",
+      "number": 22,
+      "question": "Which of the following is listed as a CONTRAINDICATION of blood transfusion?",
+      "options": {
+        "A": "Severe anaemia",
+        "B": "Congestive heart failure",
+        "C": "Thrombocytopenia",
+        "D": "Haemophilia"
+      },
+      "answer": "B",
+      "answer_text": "Congestive heart failure"
+    },
+    {
+      "id": "mcq-23",
+      "number": 23,
+      "question": "Under \"Management of blood transfusion\" (Page 5), what size cannula is given as an example of a large-size cannula for starting a transfusion?",
+      "options": {
+        "A": "Size 24 G",
+        "B": "Size 22 G",
+        "C": "Size 16 G",
+        "D": "Size 26 G"
+      },
+      "answer": "C",
+      "answer_text": "Size 16 G"
+    },
+    {
+      "id": "mcq-24",
+      "number": 24,
+      "question": "If blood does NOT flow during a transfusion, which of the following could be the cause?",
+      "options": {
+        "A": "The patient's ABO type is O",
+        "B": "Air block, particulate matter, bends/kinks in tubing, or a tight sleeve/tourniquet",
+        "C": "Using 0.9% Normal Saline",
+        "D": "Infusing at 2 mL/min"
+      },
+      "answer": "B",
+      "answer_text": "Air block, particulate matter, bends/kinks in tubing, or a tight sleeve/tourniquet"
+    },
+    {
+      "id": "mcq-25",
+      "number": 25,
+      "question": "According to \"Management of blood transfusion\" (Page 5), after starting blood, how often should pulse and BP be checked?",
+      "options": {
+        "A": "Every 15 minutes for about 2 hours",
+        "B": "Every 2 hours for 24 hours",
+        "C": "Once before and once at the end only",
+        "D": "Every 5 minutes for 30 minutes"
+      },
+      "answer": "A",
+      "answer_text": "Every 15 minutes for about 2 hours"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "id": "fib-1",
+      "number": 1,
+      "question": "Acute or chronic loss of blood or blood components may be treated by the administration of __________ blood or its components.",
+      "answer": "whole",
+      "accepted_answers": [
+        "whole"
+      ]
+    },
+    {
+      "id": "fib-2",
+      "number": 2,
+      "question": "Both __________ and __________ are blood components that help your blood clot.",
+      "answer": "cryoprecipitate; platelets",
+      "accepted_answers": [
+        "cryoprecipitate; platelets"
+      ]
+    },
+    {
+      "id": "fib-3",
+      "number": 3,
+      "question": "A person may receive a __________ transfusion if they have experienced blood loss, anaemia (such as iron deficiency anaemia), or a blood disorder.",
+      "answer": "red blood cell",
+      "accepted_answers": [
+        "red blood cell"
+      ]
+    },
+    {
+      "id": "fib-4",
+      "number": 4,
+      "question": "A __________ transfusion can help patients who have lower platelet counts, such as from chemotherapy or a platelet disorder.",
+      "answer": "platelet",
+      "accepted_answers": [
+        "platelet"
+      ]
+    },
+    {
+      "id": "fib-5",
+      "number": 5,
+      "question": "According to Rh Rules, an Rh __________ recipient can receive both (+) and (-).",
+      "answer": "Positive (+)",
+      "accepted_answers": [
+        "Positive (+)"
+      ]
+    },
+    {
+      "id": "fib-6",
+      "number": 6,
+      "question": "Blood group __________ receives O only and is known as the Universal Donor.",
+      "answer": "O",
+      "accepted_answers": [
+        "O"
+      ]
+    },
+    {
+      "id": "fib-7",
+      "number": 7,
+      "question": "Blood group B can receive blood from groups __________ and __________.",
+      "answer": "B; O",
+      "accepted_answers": [
+        "B; O"
+      ]
+    },
+    {
+      "id": "fib-8",
+      "number": 8,
+      "question": "Under Consent and History, confirm that signed __________ is in the chart and review past medical history or allergies.",
+      "answer": "informed consent",
+      "accepted_answers": [
+        "informed consent"
+      ]
+    },
+    {
+      "id": "fib-9",
+      "number": 9,
+      "question": "__________ ensures the lab has completed ABO and Rh compatibility testing and the unit is verified.",
+      "answer": "Crossmatching",
+      "accepted_answers": [
+        "Crossmatching"
+      ]
+    },
+    {
+      "id": "fib-10",
+      "number": 10,
+      "question": "One purpose of blood transfusion is to raise the __________ level in cases of severe anaemia.",
+      "answer": "Hb (haemoglobin)",
+      "accepted_answers": [
+        "Hb (haemoglobin)"
+      ]
+    },
+    {
+      "id": "fib-11",
+      "number": 11,
+      "question": "Blood transfusion can provide __________ to persons who are sick and having lowered immunity.",
+      "answer": "antibodies",
+      "accepted_answers": [
+        "antibodies"
+      ]
+    },
+    {
+      "id": "fib-12",
+      "number": 12,
+      "question": "Before starting a transfusion, the patient's information must be matched with the blood bag label, ABO/Rh type, unit number, crossmatch form, and __________ date.",
+      "answer": "expiration",
+      "accepted_answers": [
+        "expiration"
+      ]
+    },
+    {
+      "id": "fib-13",
+      "number": 13,
+      "question": "Before transfusing, the blood bag must be checked for any __________ and __________.",
+      "answer": "discoloration; clots",
+      "accepted_answers": [
+        "discoloration; clots"
+      ]
+    },
+    {
+      "id": "fib-14",
+      "number": 14,
+      "question": "The four baseline vital signs obtained immediately before starting a transfusion are Temperature, Pulse, __________, and Respiratory Rate.",
+      "answer": "Blood Pressure",
+      "accepted_answers": [
+        "Blood Pressure"
+      ]
+    },
+    {
+      "id": "fib-15",
+      "number": 15,
+      "question": "Never mix medications or other IV solutions like __________ or Lactated Ringer's with blood.",
+      "answer": "Dextrose",
+      "accepted_answers": [
+        "Dextrose"
+      ]
+    },
+    {
+      "id": "fib-16",
+      "number": 16,
+      "question": "__________ transfusion and mismatched blood transfusion are listed among the indications for blood transfusion.",
+      "answer": "Exchange",
+      "accepted_answers": [
+        "Exchange"
+      ]
+    },
+    {
+      "id": "fib-17",
+      "number": 17,
+      "question": "Haemorrhage and __________ shock are listed as an indication for blood transfusion.",
+      "answer": "oligemic",
+      "accepted_answers": [
+        "oligemic"
+      ]
+    },
+    {
+      "id": "fib-18",
+      "number": 18,
+      "question": "Bleeding disorders such as __________ are an indication for blood transfusion.",
+      "answer": "haemophilia",
+      "accepted_answers": [
+        "haemophilia"
+      ]
+    },
+    {
+      "id": "fib-19",
+      "number": 19,
+      "question": "Septicaemia, shock, and __________ (DIC) are listed among the complications of blood transfusion.",
+      "answer": "disseminated intravascular coagulopathy",
+      "accepted_answers": [
+        "disseminated intravascular coagulopathy"
+      ]
+    },
+    {
+      "id": "fib-20",
+      "number": 20,
+      "question": "Circulatory overload as a complication of blood transfusion is associated with CCF and __________.",
+      "answer": "pulmonary oedema",
+      "accepted_answers": [
+        "pulmonary oedema"
+      ]
+    },
+    {
+      "id": "fib-21",
+      "number": 21,
+      "question": "__________ toxicity, air __________, and hypothermia are complications of blood transfusion.",
+      "answer": "Citrate; embolism",
+      "accepted_answers": [
+        "Citrate; embolism"
+      ]
+    },
+    {
+      "id": "fib-22",
+      "number": 22,
+      "question": "__________ hypertension, hyperthermia, and __________ embolism are contraindications of blood transfusion.",
+      "answer": "Malignant; pulmonary",
+      "accepted_answers": [
+        "Malignant; pulmonary"
+      ]
+    },
+    {
+      "id": "fib-23",
+      "number": 23,
+      "question": "Under Management of blood transfusion, it must be ensured that the blood has been tested for serum-Hepatitis (__________) and AIDS.",
+      "answer": "HBs Ag",
+      "accepted_answers": [
+        "HBs Ag"
+      ]
+    },
+    {
+      "id": "fib-24",
+      "number": 24,
+      "question": "Before starting a blood transfusion, check the date of __________ and __________.",
+      "answer": "collection; expiry",
+      "accepted_answers": [
+        "collection; expiry"
+      ]
+    },
+    {
+      "id": "fib-25",
+      "number": 25,
+      "question": "If blood does not flow during a transfusion, it may be due to a tourniquet or tight sleeve, bends or kinks in the giving set tubing, air block, or __________.",
+      "answer": "particulate matter",
+      "accepted_answers": [
+        "particulate matter"
+      ]
+    }
+  ],
+  "study_questions": [
+    {
+      "id": "study-1",
+      "number": 2,
+      "type": "points",
+      "question": "What are the types of blood transfusions?",
+      "answer": [
+        "Red blood cell transfusion",
+        "Platelet transfusion",
+        "Plasma transfusion",
+        "Whole blood transfusion"
+      ]
+    },
+    {
+      "id": "study-2",
+      "number": 3,
+      "type": "points",
+      "question": "What are the purposes of blood transfusion?",
+      "answer": [
+        "To restore blood volume when there is sudden loss of blood due to haemorrhage",
+        "To raise Hb level in cases of severe anaemia",
+        "To treat deficiencies of plasma protein, clotting factors or homophilic globulin etc.",
+        "To provide antibodies to those persons who are sick and having lowered immunity",
+        "To replace blood with haemolytic agents with fresh blood",
+        "To improve leukocyte count in blood as in agranulocytosis",
+        "To combat infection in leukopenia (very low WBCs)"
+      ]
+    },
+    {
+      "id": "study-3",
+      "number": 4,
+      "type": "points",
+      "question": "What are the indications for blood transfusion?",
+      "answer": [
+        "Haemorrhage & oligemic shock",
+        "During surgery to replace blood loss",
+        "To replace platelets in thrombocytopenia (low platelet count)",
+        "Severe anaemia",
+        "Exchange transfusion",
+        "Bleeding disorders, e.g., haemophilia",
+        "Mismatched blood transfusion"
+      ]
+    },
+    {
+      "id": "study-4",
+      "number": 5,
+      "type": "points",
+      "question": "What are the complications of blood transfusion?",
+      "answer": [
+        "Pyrogen reaction",
+        "Circulatory overload (CCF, pulmonary oedema)",
+        "Septicaemia, shock, & disseminated intravascular coagulopathy (DIC)",
+        "Mismatched blood transfusion reaction (haemolysis)",
+        "Transmission of disease, e.g., malaria, AIDS, Hepatitis B",
+        "Citrate toxicity",
+        "Air embolism",
+        "Hypothermia",
+        "Acute renal failure",
+        "Allergic reaction"
+      ]
+    },
+    {
+      "id": "study-5",
+      "number": 6,
+      "type": "points",
+      "question": "What are the contraindications of blood transfusion?",
+      "answer": [
+        "Acute pulmonary oedema",
+        "Congestive heart failure",
+        "Pulmonary embolism",
+        "Malignant hypertension",
+        "Hyperthermia",
+        "Serious renal failure",
+        "Serious allergy to blood transfusion"
+      ]
+    },
+    {
+      "id": "study-6",
+      "number": 11,
+      "type": "points",
+      "question": "What are the causes if the blood does not flow?",
+      "answer": [
+        "Tourniquet or tight sleeve",
+        "Bends or kinks in the giving set tubing",
+        "Air block",
+        "Particulate matter"
+      ]
+    },
+    {
+      "id": "study-7",
+      "number": 1,
+      "type": "points_with_explanation",
+      "question": "What are the blood components, and what does each one do?",
+      "answer": [
+        "Cryoprecipitate – helps your blood clot.",
+        "Plasma – carries nutrients your body needs.",
+        "Platelets – help your blood clot.",
+        "Red blood cells – carry oxygen throughout your body."
+      ]
+    },
+    {
+      "id": "study-8",
+      "number": 2,
+      "type": "points_with_explanation",
+      "question": "What are the types of blood transfusion, and when is each one given?",
+      "answer": [
+        "Red blood cell transfusion – given if a person has experienced blood loss, has anaemia (such as iron deficiency anaemia), or has a blood disorder.",
+        "Platelet transfusion – helps those who have lower platelet counts, such as from chemotherapy or a platelet disorder.",
+        "Plasma transfusion – plasma contains proteins important for health; given if a person has experienced severe burns, infections, or liver failure.",
+        "Whole blood transfusion – given if a person has experienced a severe traumatic haemorrhage and requires red blood cells, white blood cells, and platelets."
+      ]
+    },
+    {
+      "id": "study-9",
+      "number": 7,
+      "type": "points_with_explanation",
+      "question": "What checks are required on the blood pack and the patient before starting?",
+      "answer": [
+        "Pack check against patient details – on receipt, the blood pack must be checked against the patient's details.",
+        "Pulse and blood pressure – record pulse rate and blood pressure before starting the blood transfusion.",
+        "Dates – check the date of collection and expiry.",
+        "Pack condition – check the pack for any discoloration or clots.",
+        "Cannula size – start the transfusion using a large-size cannula (e.g., size 16 G"
+      ]
+    }
+  ]
+}

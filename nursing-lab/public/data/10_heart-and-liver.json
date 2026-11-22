@@ -1,0 +1,722 @@
+{
+  "exam_id": 10,
+  "slug": "heart-and-liver",
+  "title": "The Heart and Liver: Questions",
+  "source_file": "10_Heart_and_Liver_Questions.docx",
+  "notes": [],
+  "counts": {
+    "multiple_choice": 25,
+    "fill_in_the_blank": 25,
+    "study_questions": 12
+  },
+  "multiple_choice": [
+    {
+      "id": "mcq-1",
+      "number": 1,
+      "question": "How is the heart described in terms of size in the handout?",
+      "options": {
+        "A": "Pea-sized organ",
+        "B": "Fist-sized organ",
+        "C": "Grapefruit-sized organ",
+        "D": "Bean-shaped organ"
+      },
+      "answer": "B",
+      "answer_text": "Fist-sized organ"
+    },
+    {
+      "id": "mcq-2",
+      "number": 2,
+      "question": "What wall of muscle separates the right and left regions of the heart?",
+      "options": {
+        "A": "Pericardium",
+        "B": "Myocardium",
+        "C": "Septum",
+        "D": "Endocardium"
+      },
+      "answer": "C",
+      "answer_text": "Septum"
+    },
+    {
+      "id": "mcq-3",
+      "number": 3,
+      "question": "Through which blood vessels does the right ventricle pump blood to the lungs for re-oxygenation?",
+      "options": {
+        "A": "Pulmonary veins",
+        "B": "Pulmonary arteries",
+        "C": "Aorta",
+        "D": "Superior and inferior vena cava"
+      },
+      "answer": "B",
+      "answer_text": "Pulmonary arteries"
+    },
+    {
+      "id": "mcq-4",
+      "number": 4,
+      "question": "What is the membrane that makes up the external walls and lining of the pericardial cavity?",
+      "options": {
+        "A": "Epicardium",
+        "B": "Pericardium",
+        "C": "Endocardium",
+        "D": "Pleura"
+      },
+      "answer": "B",
+      "answer_text": "Pericardium"
+    },
+    {
+      "id": "mcq-5",
+      "number": 5,
+      "question": "Which layer of the heart wall consists of muscle tissue, contributes to thickness, and is responsible for the pumping action?",
+      "options": {
+        "A": "Epicardium",
+        "B": "Myocardium",
+        "C": "Endocardium",
+        "D": "Pericardium"
+      },
+      "answer": "B",
+      "answer_text": "Myocardium"
+    },
+    {
+      "id": "mcq-6",
+      "number": 6,
+      "question": "Which layer of the heart wall prevents blood from sticking to the inner walls, thereby preventing potentially fatal blood clots?",
+      "options": {
+        "A": "Epicardium",
+        "B": "Myocardium",
+        "C": "Endocardium",
+        "D": "Septum"
+      },
+      "answer": "C",
+      "answer_text": "Endocardium"
+    },
+    {
+      "id": "mcq-7",
+      "number": 7,
+      "question": "How do the atria compare to the ventricles structurally?",
+      "options": {
+        "A": "Atria are larger and more muscular than ventricles",
+        "B": "Atria are thin, have less muscular walls, and are smaller than ventricles",
+        "C": "Atria pump blood out to the aorta, while ventricles receive blood from veins",
+        "D": "Atria and ventricles have identical wall thickness"
+      },
+      "answer": "B",
+      "answer_text": "Atria are thin, have less muscular walls, and are smaller than ventricles"
+    },
+    {
+      "id": "mcq-8",
+      "number": 8,
+      "question": "Which chamber receives deoxygenated blood from the inferior and superior vena cava?",
+      "options": {
+        "A": "Left atrium",
+        "B": "Right atrium",
+        "C": "Left ventricle",
+        "D": "Right ventricle"
+      },
+      "answer": "B",
+      "answer_text": "Right atrium"
+    },
+    {
+      "id": "mcq-9",
+      "number": 9,
+      "question": "Which valve is located between the right ventricle and the right atrium?",
+      "options": {
+        "A": "Mitral valve",
+        "B": "Tricuspid valve",
+        "C": "Aortic semilunar valve",
+        "D": "Pulmonary semilunar valve"
+      },
+      "answer": "B",
+      "answer_text": "Tricuspid valve"
+    },
+    {
+      "id": "mcq-10",
+      "number": 10,
+      "question": "Which valve is found between the left ventricle and the left atrium?",
+      "options": {
+        "A": "Tricuspid valve",
+        "B": "Mitral valve",
+        "C": "Semilunar valve",
+        "D": "Sinusoid valve"
+      },
+      "answer": "B",
+      "answer_text": "Mitral valve"
+    },
+    {
+      "id": "mcq-11",
+      "number": 11,
+      "question": "Where are the semilunar valves located?",
+      "options": {
+        "A": "Between right atrium and right ventricle",
+        "B": "Between left atrium and left ventricle",
+        "C": "Between left ventricle and aorta, and between pulmonary artery and right ventricle",
+        "D": "Between superior vena cava and right atrium"
+      },
+      "answer": "C",
+      "answer_text": "Between left ventricle and aorta, and between pulmonary artery and right ventricle"
+    },
+    {
+      "id": "mcq-12",
+      "number": 12,
+      "question": "Which type of circulation supplies oxygenated blood to the heart itself?",
+      "options": {
+        "A": "Pulmonary circulation",
+        "B": "Systemic circulation",
+        "C": "Coronary circulation",
+        "D": "Portal circulation"
+      },
+      "answer": "C",
+      "answer_text": "Coronary circulation"
+    },
+    {
+      "id": "mcq-13",
+      "number": 13,
+      "question": "Which type of circulation pumps oxygenated blood from the heart to every organ and tissue in the body and returns deoxygenated blood back to the heart?",
+      "options": {
+        "A": "Pulmonary circulation",
+        "B": "Systemic circulation",
+        "C": "Coronary circulation",
+        "D": "Hepatic circulation"
+      },
+      "answer": "B",
+      "answer_text": "Systemic circulation"
+    },
+    {
+      "id": "mcq-14",
+      "number": 14,
+      "question": "According to the list of heart conditions, what is another medical name for a heart attack?",
+      "options": {
+        "A": "Arrhythmia",
+        "B": "Cardiomyopathy",
+        "C": "Myocardial infarction",
+        "D": "Pericarditis"
+      },
+      "answer": "C",
+      "answer_text": "Myocardial infarction"
+    },
+    {
+      "id": "mcq-15",
+      "number": 15,
+      "question": "Which of the following is listed as a common sign/symptom of heart conditions?",
+      "options": {
+        "A": "Swelling in lower body and heart palpitations",
+        "B": "Jaundice and itching",
+        "C": "Blurred vision",
+        "D": "Increased urination"
+      },
+      "answer": "A",
+      "answer_text": "Swelling in lower body and heart palpitations"
+    },
+    {
+      "id": "mcq-16",
+      "number": 16,
+      "question": "Where is the liver located in the body?",
+      "options": {
+        "A": "Lower left quadrant of the abdominal cavity",
+        "B": "Upper right and centre of the abdominal cavity, just below the diaphragm",
+        "C": "Inside the thoracic cavity behind the heart",
+        "D": "Retroperitoneal space in the lower back"
+      },
+      "answer": "B",
+      "answer_text": "Upper right and centre of the abdominal cavity, just below the diaphragm"
+    },
+    {
+      "id": "mcq-17",
+      "number": 17,
+      "question": "What is the structural unit of the liver?",
+      "options": {
+        "A": "Nephron",
+        "B": "Liver lobule",
+        "C": "Alveolus",
+        "D": "Sinusoid"
+      },
+      "answer": "B",
+      "answer_text": "Liver lobule"
+    },
+    {
+      "id": "mcq-18",
+      "number": 18,
+      "question": "What are the liver cells that form a roughly hexagonal column within a liver lobule called?",
+      "options": {
+        "A": "Kupffer cells",
+        "B": "Hepatocytes",
+        "C": "Goblet cells",
+        "D": "Fibroblasts"
+      },
+      "answer": "B",
+      "answer_text": "Hepatocytes"
+    },
+    {
+      "id": "mcq-19",
+      "number": 19,
+      "question": "Which blood vessel brings blood from the digestive organs and spleen to the liver sinusoids?",
+      "options": {
+        "A": "Hepatic artery",
+        "B": "Portal vein",
+        "C": "Hepatic vein",
+        "D": "Inferior vena cava"
+      },
+      "answer": "B",
+      "answer_text": "Portal vein"
+    },
+    {
+      "id": "mcq-20",
+      "number": 20,
+      "question": "The central veins of all liver lobules unite to form the hepatic veins, which take blood out of the liver to the:",
+      "options": {
+        "A": "Superior vena cava",
+        "B": "Inferior vena cava",
+        "C": "Portal vein",
+        "D": "Abdominal aorta"
+      },
+      "answer": "B",
+      "answer_text": "Inferior vena cava"
+    },
+    {
+      "id": "mcq-21",
+      "number": 21,
+      "question": "What is the main function of the liver?",
+      "options": {
+        "A": "Mechanical pumping",
+        "B": "Metabolic",
+        "C": "Gas exchange",
+        "D": "Electrical conduction"
+      },
+      "answer": "B",
+      "answer_text": "Metabolic"
+    },
+    {
+      "id": "mcq-22",
+      "number": 22,
+      "question": "Which cells perform phagocytosis in the liver?",
+      "options": {
+        "A": "Hepatocytes",
+        "B": "Kupffer cells",
+        "C": "Beta cells",
+        "D": "Endothelial cells"
+      },
+      "answer": "B",
+      "answer_text": "Kupffer cells"
+    },
+    {
+      "id": "mcq-23",
+      "number": 23,
+      "question": "Which fat-soluble vitamins are stored by the liver?",
+      "options": {
+        "A": "Vitamins B and C",
+        "B": "Vitamins A, D, E, and K",
+        "C": "Vitamins B1, B6, and B12",
+        "D": "Vitamins C, D, and K"
+      },
+      "answer": "B",
+      "answer_text": "Vitamins A, D, E, and K"
+    },
+    {
+      "id": "mcq-24",
+      "number": 24,
+      "question": "Which water-soluble vitamin is specifically mentioned as being stored in the liver?",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Vitamin B1",
+        "C": "Vitamin B12",
+        "D": "Vitamin K"
+      },
+      "answer": "C",
+      "answer_text": "Vitamin B12"
+    },
+    {
+      "id": "mcq-25",
+      "number": 25,
+      "question": "In liver function tests, what does \"LDH\" stand for?",
+      "options": {
+        "A": "Liver Density Hormone",
+        "B": "Lactate dehydrogenase",
+        "C": "Lipid Degradation Helper",
+        "D": "Low Density Heparin"
+      },
+      "answer": "B",
+      "answer_text": "Lactate dehydrogenase"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "id": "fib-1",
+      "number": 1,
+      "question": "In the parts of the heart analogy, chambers are like rooms, valves are like doors, blood vessels are like plumbing pipes, and the __________ system is like electrical power.",
+      "answer": "electrical conduction",
+      "accepted_answers": [
+        "electrical conduction"
+      ]
+    },
+    {
+      "id": "fib-2",
+      "number": 2,
+      "question": "The __________ are the chambers that pump blood, whereas the __________ (atria) are the chambers that receive blood.",
+      "answer": "ventricles; atrium",
+      "accepted_answers": [
+        "ventricles; atrium"
+      ]
+    },
+    {
+      "id": "fib-3",
+      "number": 3,
+      "question": "The biggest artery in the body, housed in the structure of the heart, is the __________.",
+      "answer": "aorta",
+      "accepted_answers": [
+        "aorta"
+      ]
+    },
+    {
+      "id": "fib-4",
+      "number": 4,
+      "question": "Oxygenated blood is received by the left atrium from the lungs via the __________.",
+      "answer": "pulmonary veins",
+      "accepted_answers": [
+        "pulmonary veins"
+      ]
+    },
+    {
+      "id": "fib-5",
+      "number": 5,
+      "question": "The __________ is the outermost layer of the heart that serves to lubricate and protect the outer section.",
+      "answer": "epicardium",
+      "accepted_answers": [
+        "epicardium"
+      ]
+    },
+    {
+      "id": "fib-6",
+      "number": 6,
+      "question": "__________ are tiny, tube-like vessels that form a network between arteries and veins.",
+      "answer": "Capillaries",
+      "accepted_answers": [
+        "Capillaries"
+      ]
+    },
+    {
+      "id": "fib-7",
+      "number": 7,
+      "question": "Heart valves are flaps of fibrous tissues that ensure blood flows in a single direction, known as __________ flow.",
+      "answer": "unidirectional",
+      "accepted_answers": [
+        "unidirectional"
+      ]
+    },
+    {
+      "id": "fib-8",
+      "number": 8,
+      "question": "Blood delivers __________, hormones, glucose, and other components to various parts of the body, including the heart.",
+      "answer": "oxygen",
+      "accepted_answers": [
+        "oxygen"
+      ]
+    },
+    {
+      "id": "fib-9",
+      "number": 9,
+      "question": "The heart also ensures that adequate __________ is maintained in the body.",
+      "answer": "blood pressure",
+      "accepted_answers": [
+        "blood pressure"
+      ]
+    },
+    {
+      "id": "fib-10",
+      "number": 10,
+      "question": "__________ circulation is responsible for carrying deoxygenated blood away from the heart to the lungs and bringing oxygenated blood back to the heart.",
+      "answer": "Pulmonary",
+      "accepted_answers": [
+        "Pulmonary"
+      ]
+    },
+    {
+      "id": "fib-11",
+      "number": 11,
+      "question": "Conditions and disorders affecting the heart include __________, cardiomyopathy, congestive heart failure, coronary artery disease, and pericarditis.",
+      "answer": "arrhythmia",
+      "accepted_answers": [
+        "arrhythmia"
+      ]
+    },
+    {
+      "id": "fib-12",
+      "number": 12,
+      "question": "Common signs/symptoms of heart conditions include chest pain, heart palpitations, dizziness, __________, fatigue, and swelling in the lower body.",
+      "answer": "shortness of breath",
+      "accepted_answers": [
+        "shortness of breath"
+      ]
+    },
+    {
+      "id": "fib-13",
+      "number": 13,
+      "question": "The liver consists of two large lobes: __________ and __________.",
+      "answer": "right; left",
+      "accepted_answers": [
+        "right; left"
+      ]
+    },
+    {
+      "id": "fib-14",
+      "number": 14,
+      "question": "The capillaries of a liver lobule are called __________, which are large and very permeable vessels between the rows of liver cells.",
+      "answer": "sinusoids",
+      "accepted_answers": [
+        "sinusoids"
+      ]
+    },
+    {
+      "id": "fib-15",
+      "number": 15,
+      "question": "Sinusoids receive blood from both the __________ (which brings oxygenated blood) and the portal vein.",
+      "answer": "hepatic artery",
+      "accepted_answers": [
+        "hepatic artery"
+      ]
+    },
+    {
+      "id": "fib-16",
+      "number": 16,
+      "question": "Each liver lobule has a __________, and these unite to form the __________.",
+      "answer": "central vein; hepatic veins",
+      "accepted_answers": [
+        "central vein; hepatic veins"
+      ]
+    },
+    {
+      "id": "fib-17",
+      "number": 17,
+      "question": "Carbohydrate metabolism in the liver includes storage of __________, __________, and formation of glucose from noncarbohydrate sources.",
+      "answer": "glycogen; glycogenesis",
+      "accepted_answers": [
+        "glycogen; glycogenesis"
+      ]
+    },
+    {
+      "id": "fib-18",
+      "number": 18,
+      "question": "In addition to carbohydrate metabolism, the liver performs __________ metabolism and __________ metabolism.",
+      "answer": "amino acid; lipid",
+      "accepted_answers": [
+        "amino acid; lipid"
+      ]
+    },
+    {
+      "id": "fib-19",
+      "number": 19,
+      "question": "Two important synthetic/formative functions of the liver are the synthesis of __________ proteins and the formation of __________.",
+      "answer": "plasma; bilirubin",
+      "accepted_answers": [
+        "plasma; bilirubin"
+      ]
+    },
+    {
+      "id": "fib-20",
+      "number": 20,
+      "question": "__________ in the liver means synthesizing enzymes that will detoxify harmful substances.",
+      "answer": "Detoxification",
+      "accepted_answers": [
+        "Detoxification"
+      ]
+    },
+    {
+      "id": "fib-21",
+      "number": 21,
+      "question": "The liver is responsible for the removal of __________, hormones, and other substances.",
+      "answer": "drugs",
+      "accepted_answers": [
+        "drugs"
+      ]
+    },
+    {
+      "id": "fib-22",
+      "number": 22,
+      "question": "The __________ test is a liver function test used to evaluate protein levels.",
+      "answer": "Total protein",
+      "accepted_answers": [
+        "Total protein"
+      ]
+    },
+    {
+      "id": "fib-23",
+      "number": 23,
+      "question": "The __________ test and __________ test are listed under tests of liver function along with LDH and total protein tests.",
+      "answer": "Liver enzymes; Bilirubin",
+      "accepted_answers": [
+        "Liver enzymes; Bilirubin"
+      ]
+    },
+    {
+      "id": "fib-24",
+      "number": 24,
+      "question": "The clotting-related test listed under tests of liver function is the __________ (PT) test.",
+      "answer": "Prothrombin Time",
+      "accepted_answers": [
+        "Prothrombin Time"
+      ]
+    },
+    {
+      "id": "fib-25",
+      "number": 25,
+      "question": "Our __________ and nervous system direct our heart's function, while __________ make our heart beat.",
+      "answer": "brain; electrical impulses",
+      "accepted_answers": [
+        "brain; electrical impulses"
+      ]
+    }
+  ],
+  "study_questions": [
+    {
+      "id": "study-1",
+      "number": 1,
+      "type": "points",
+      "question": "What are the parts of the heart?",
+      "answer": [
+        "Walls",
+        "Chambers that are like rooms",
+        "Valves that open and close like doors to the rooms",
+        "Blood vessels like plumbing pipes that run through a building",
+        "An electrical conduction system like electrical power that runs through a building"
+      ]
+    },
+    {
+      "id": "study-2",
+      "number": 3,
+      "type": "points",
+      "question": "What are the chambers of the heart?",
+      "answer": [
+        "Left atrium",
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle"
+      ]
+    },
+    {
+      "id": "study-3",
+      "number": 4,
+      "type": "points",
+      "question": "What are the three layers of the heart wall?",
+      "answer": [
+        "Epicardium",
+        "Myocardium",
+        "Endocardium"
+      ]
+    },
+    {
+      "id": "study-4",
+      "number": 5,
+      "type": "points",
+      "question": "What are the types of blood vessels?",
+      "answer": [
+        "Veins",
+        "Capillaries",
+        "Arteries"
+      ]
+    },
+    {
+      "id": "study-5",
+      "number": 7,
+      "type": "points",
+      "question": "What are the functions of the heart?",
+      "answer": [
+        "To pump blood throughout the body",
+        "Blood delivers oxygen, hormones, glucose and other components to various parts of the body, including the heart",
+        "Ensures adequate blood pressure is maintained in the body"
+      ]
+    },
+    {
+      "id": "study-6",
+      "number": 9,
+      "type": "points",
+      "question": "What are the conditions and disorders that affect the heart?",
+      "answer": [
+        "Arrhythmia",
+        "Cardiomyopathy",
+        "Congestive heart failure",
+        "Coronary artery disease",
+        "Diabetes",
+        "Heart attack (myocardial infarction)",
+        "Heart valve disease",
+        "High blood pressure",
+        "High cholesterol",
+        "Pericarditis"
+      ]
+    },
+    {
+      "id": "study-7",
+      "number": 10,
+      "type": "points",
+      "question": "What are the common signs or symptoms of heart conditions?",
+      "answer": [
+        "Chest pain",
+        "Heart palpitations",
+        "Dizziness",
+        "Shortness of breath",
+        "Fatigue",
+        "Swelling in lower body"
+      ]
+    },
+    {
+      "id": "study-8",
+      "number": 11,
+      "type": "points",
+      "question": "What are the main functions of the liver?",
+      "answer": [
+        "Carbohydrate metabolism",
+        "Amino acid metabolism",
+        "Lipid metabolism",
+        "Synthesis of plasma proteins",
+        "Formation of bilirubin",
+        "Phagocytosis by Kupffer cells",
+        "Storage",
+        "Detoxification",
+        "Removal of drugs, hormones and other substances"
+      ]
+    },
+    {
+      "id": "study-9",
+      "number": 2,
+      "type": "points_with_explanation",
+      "question": "What are the three layers of the heart wall and what does each one do?",
+      "answer": [
+        "Epicardium: The outermost layer of the heart. It is a thin-layered membrane that serves to lubricate and protect the outer section.",
+        "Myocardium: A layer of muscle tissue that forms the middle layer. It contributes to the thickness of the heart and is responsible for the pumping action.",
+        "Endocardium: The innermost layer that lines the inner heart chambers and covers the heart valves. It prevents blood from sticking to the inner walls, thereby preventing potentially fatal blood clots."
+      ]
+    },
+    {
+      "id": "study-10",
+      "number": 4,
+      "type": "points_with_explanation",
+      "question": "What are the blood vessels and what is the role of each?",
+      "answer": [
+        "Veins: Supply deoxygenated blood to the heart via the inferior and superior vena cava, and eventually drain into the right atrium.",
+        "Capillaries: Tiny, tube-like vessels which form a network between arteries and veins.",
+        "Arteries: Muscular-walled tubes mainly involved in supplying oxygenated blood away from the heart to all other parts of the body. The aorta is the largest of the arteries and branches off into smaller arteries throughout the body."
+      ]
+    },
+    {
+      "id": "study-11",
+      "number": 6,
+      "type": "points_with_explanation",
+      "question": "What are the types of circulation and what does each one do?",
+      "answer": [
+        "Pulmonary circulation: Carries deoxygenated blood away from the heart to the lungs, then brings oxygenated blood back to the heart.",
+        "Systemic circulation: Pumps oxygenated blood from the heart to every organ and tissue in the body, and brings deoxygenated blood back to the heart.",
+        "Coronary circulation: Supplies oxygenated blood to the heart itself, which is important because the heart is responsible for supplying blood throughout the body."
+      ]
+    },
+    {
+      "id": "study-12",
+      "number": 7,
+      "type": "points_with_explanation",
+      "question": "What are the parts of the liver's anatomy?",
+      "answer": [
+        "Lobes: The liver consists of two large lobes, right and left, and fills the upper right and centre of the abdominal cavity, just below the diaphragm.",
+        "Liver lobule: The structural unit of the liver: a roughly hexagonal column of liver cells (hepatocytes).",
+        "Sinusoids: Large and very permeable capillaries between the rows of liver cells. They receive blood from both the hepatic artery and the portal vein.",
+        "Hepatic artery: Brings oxygenated blood to the liver.",
+        "Portal vein: Brings blood from the digestive organs and spleen.",
+        "Central vein: Each lobule has one. The central veins of all the lobules unite to form the hepatic veins, which take blood out of the liver to the inferior vena cava."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,950 @@
+{
+  "exam_id": 3,
+  "slug": "respiration",
+  "title": "Questions from: The Physiology of Respiration",
+  "source_file": "3_Respiration_Questions.docx",
+  "notes": [
+    "All questions and answers are taken from the file only."
+  ],
+  "counts": {
+    "multiple_choice": 25,
+    "fill_in_the_blank": 25,
+    "study_questions": 27
+  },
+  "multiple_choice": [
+    {
+      "id": "mcq-1",
+      "number": 1,
+      "question": "Which of the following are the three primary components of external respiration?",
+      "options": {
+        "A": "Inspiration, expiration, and transportation",
+        "B": "Ventilation, perfusion, and diffusion",
+        "C": "Oxygenation, ventilation, and acid-base balance",
+        "D": "Inhalation, cellular respiration, and exhalation"
+      },
+      "answer": "B",
+      "answer_text": "Ventilation, perfusion, and diffusion"
+    },
+    {
+      "id": "mcq-2",
+      "number": 2,
+      "question": "What is the weight of the right lung compared to the left lung?",
+      "options": {
+        "A": "Right lung 550 g, left lung 600 g",
+        "B": "Right lung 500 g, left lung 500 g",
+        "C": "Right lung 600 g, left lung 550 g",
+        "D": "Right lung 650 g, left lung 500 g"
+      },
+      "answer": "C",
+      "answer_text": "Right lung 600 g, left lung 550 g"
+    },
+    {
+      "id": "mcq-3",
+      "number": 3,
+      "question": "Approximately how many alveoli make up the lungs?",
+      "options": {
+        "A": "3 million",
+        "B": "30 million",
+        "C": "300 million",
+        "D": "600 million"
+      },
+      "answer": "C",
+      "answer_text": "300 million"
+    },
+    {
+      "id": "mcq-4",
+      "number": 4,
+      "question": "How is the right lung divided into three lobes (superior, middle, and inferior)?",
+      "options": {
+        "A": "By the oblique fissure only",
+        "B": "By the transverse fissure only",
+        "C": "By the oblique and transverse fissures",
+        "D": "By the pleural cavity and hilum"
+      },
+      "answer": "C",
+      "answer_text": "By the oblique and transverse fissures"
+    },
+    {
+      "id": "mcq-5",
+      "number": 5,
+      "question": "Which portion of the lung has an independent segmental bronchus, artery, and vein, and is surgically important because diseases confined to it may be cured by resection?",
+      "options": {
+        "A": "Pleural cavity",
+        "B": "Broncho-pulmonary segment",
+        "C": "Alveolar duct",
+        "D": "Hilum of the lung"
+      },
+      "answer": "B",
+      "answer_text": "Broncho-pulmonary segment"
+    },
+    {
+      "id": "mcq-6",
+      "number": 6,
+      "question": "Into how many lobar bronchi does the left main bronchus divide?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "answer": "A",
+      "answer_text": "Two"
+    },
+    {
+      "id": "mcq-7",
+      "number": 7,
+      "question": "Which blood vessels carry oxygenated blood from the lungs to the left atrium?",
+      "options": {
+        "A": "Pulmonary arteries",
+        "B": "Segmental arteries",
+        "C": "Pulmonary veins",
+        "D": "Bronchial veins"
+      },
+      "answer": "C",
+      "answer_text": "Pulmonary veins"
+    },
+    {
+      "id": "mcq-8",
+      "number": 8,
+      "question": "What is the normal pressure of the fluid in the pleural cavity during quiet respiration?",
+      "options": {
+        "A": "+5 to +10 cm H₂O",
+        "B": "0 to +5 cm H₂O",
+        "C": "-5 to -10 cm H₂O",
+        "D": "-15 to -20 cm H₂O"
+      },
+      "answer": "C",
+      "answer_text": "-5 to -10 cm H₂O"
+    },
+    {
+      "id": "mcq-9",
+      "number": 9,
+      "question": "Approximately what percentage of perioperative morbidity and mortality is associated with some form of respiratory dysfunction?",
+      "options": {
+        "A": "20–30%",
+        "B": "40–50%",
+        "C": "50–60%",
+        "D": "70–80%"
+      },
+      "answer": "D",
+      "answer_text": "70–80%"
+    },
+    {
+      "id": "mcq-10",
+      "number": 10,
+      "question": "What happens to the ribs and diaphragm during inspiration?",
+      "options": {
+        "A": "Ribs move downward and diaphragm moves upward",
+        "B": "Ribs are lifted up and diaphragm is flattened",
+        "C": "Ribs move inward and diaphragm forms a dome shape",
+        "D": "Ribs stay stationary and diaphragm relaxes"
+      },
+      "answer": "B",
+      "answer_text": "Ribs are lifted up and diaphragm is flattened"
+    },
+    {
+      "id": "mcq-11",
+      "number": 11,
+      "question": "What happens to the volume of the thoracic cavity during expiration?",
+      "options": {
+        "A": "It increases",
+        "B": "It decreases",
+        "C": "It remains unchanged",
+        "D": "It doubles"
+      },
+      "answer": "B",
+      "answer_text": "It decreases"
+    },
+    {
+      "id": "mcq-12",
+      "number": 12,
+      "question": "What is the normal value of Tidal Volume (TV)?",
+      "options": {
+        "A": "500 mL",
+        "B": "1100 mL",
+        "C": "1200 mL",
+        "D": "2300 mL"
+      },
+      "answer": "A",
+      "answer_text": "500 mL"
+    },
+    {
+      "id": "mcq-13",
+      "number": 13,
+      "question": "What is the normal value of Functional Residual Capacity (FRC)?",
+      "options": {
+        "A": "1200 mL",
+        "B": "2300 mL",
+        "C": "3500 mL",
+        "D": "4600 mL"
+      },
+      "answer": "B",
+      "answer_text": "2300 mL"
+    },
+    {
+      "id": "mcq-14",
+      "number": 14,
+      "question": "Which of the following lung volumes CANNOT be measured directly by basic spirometry?",
+      "options": {
+        "A": "Tidal Volume (TV)",
+        "B": "Inspiratory Reserve Volume (IRV)",
+        "C": "Expiratory Reserve Volume (ERV)",
+        "D": "Residual Volume (RV)"
+      },
+      "answer": "D",
+      "answer_text": "Residual Volume (RV)"
+    },
+    {
+      "id": "mcq-15",
+      "number": 15,
+      "question": "Under abnormal lab indications for spirometry, hypoxemia is defined as:",
+      "options": {
+        "A": "PaO₂ < 80 mm Hg",
+        "B": "PaO₂ < 60 mm Hg",
+        "C": "PaCO₂ > 42 mm Hg",
+        "D": "PaCO₂ < 35 mm Hg"
+      },
+      "answer": "B",
+      "answer_text": "PaO₂ < 60 mm Hg"
+    },
+    {
+      "id": "mcq-16",
+      "number": 16,
+      "question": "What is the normal range of RBCs mentioned under polycythaemia?",
+      "options": {
+        "A": "2.5 – 4.0 million cells/µL",
+        "B": "3.5 – 4.5 million cells/µL",
+        "C": "4.7 – 6.1 million cells/µL",
+        "D": "6.5 – 8.0 million cells/µL"
+      },
+      "answer": "C",
+      "answer_text": "4.7 – 6.1 million cells/µL"
+    },
+    {
+      "id": "mcq-17",
+      "number": 17,
+      "question": "In obstructive lung disorders, Total Lung Capacity (TLC) and Residual Volume (RV) are typically:",
+      "options": {
+        "A": "Decreased",
+        "B": "Normal or increased",
+        "C": "Always zero",
+        "D": "Unmeasurable"
+      },
+      "answer": "B",
+      "answer_text": "Normal or increased"
+    },
+    {
+      "id": "mcq-18",
+      "number": 18,
+      "question": "On a spirogram, if air flow is reduced, the defect is classified as:",
+      "options": {
+        "A": "Restrictive",
+        "B": "Obstructive",
+        "C": "Mixed",
+        "D": "Normal"
+      },
+      "answer": "B",
+      "answer_text": "Obstructive"
+    },
+    {
+      "id": "mcq-19",
+      "number": 19,
+      "question": "An FEV₁/FVC ratio of less than 70% indicates which type of lung condition?",
+      "options": {
+        "A": "Restrictive lung condition",
+        "B": "Obstructive lung condition",
+        "C": "Normal lung function",
+        "D": "Extrinsic chest deformity"
+      },
+      "answer": "B",
+      "answer_text": "Obstructive lung condition"
+    },
+    {
+      "id": "mcq-20",
+      "number": 20,
+      "question": "Which of the following is an example of an Extrinsic Restrictive Lung Disorder?",
+      "options": {
+        "A": "Pneumonia",
+        "B": "Sarcoidosis",
+        "C": "Scoliosis / Kyphosis",
+        "D": "Lung oedema"
+      },
+      "answer": "C",
+      "answer_text": "Scoliosis / Kyphosis"
+    },
+    {
+      "id": "mcq-21",
+      "number": 21,
+      "question": "Which of the following is an example of an Intrinsic Restrictive Lung Disorder?",
+      "options": {
+        "A": "Pregnancy",
+        "B": "Ascites",
+        "C": "Gross obesity",
+        "D": "Interstitial lung diseases"
+      },
+      "answer": "D",
+      "answer_text": "Interstitial lung diseases"
+    },
+    {
+      "id": "mcq-22",
+      "number": 22,
+      "question": "During the Nitrogen Washout test, what does the patient breathe in?",
+      "options": {
+        "A": "100% Nitrogen",
+        "B": "100% Oxygen (O₂)",
+        "C": "Air / Helium mixture",
+        "D": "Carbon dioxide"
+      },
+      "answer": "B",
+      "answer_text": "100% Oxygen (O₂)"
+    },
+    {
+      "id": "mcq-23",
+      "number": 23,
+      "question": "Peak Expiratory Flow Rate (PEFR) is especially useful for monitoring asthma and diagnosing:",
+      "options": {
+        "A": "Pulmonary embolism",
+        "B": "Occupational asthma",
+        "C": "Rib fractures",
+        "D": "Pleural effusion"
+      },
+      "answer": "B",
+      "answer_text": "Occupational asthma"
+    },
+    {
+      "id": "mcq-24",
+      "number": 24,
+      "question": "According to the analysis of ventilation, hypocapnia (PaCO₂ < 35 mm Hg) due to hyperventilation leads to:",
+      "options": {
+        "A": "Respiratory Acidosis",
+        "B": "Respiratory Alkalosis",
+        "C": "Metabolic Acidosis",
+        "D": "Hypoxemia"
+      },
+      "answer": "B",
+      "answer_text": "Respiratory Alkalosis"
+    },
+    {
+      "id": "mcq-25",
+      "number": 25,
+      "question": "Breathing is controlled subconsciously by the respiratory centre located at the:",
+      "options": {
+        "A": "Thoracic cavity",
+        "B": "Hilum of the lung",
+        "C": "Base of the brain",
+        "D": "Visceral pleura"
+      },
+      "answer": "C",
+      "answer_text": "Base of the brain"
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "id": "fib-1",
+      "number": 1,
+      "question": "The ultimate function of the respiratory system is __________, which consists of obtaining O₂ from the atmosphere and removing CO₂ from the blood.",
+      "answer": "gas exchange",
+      "accepted_answers": [
+        "gas exchange"
+      ]
+    },
+    {
+      "id": "fib-2",
+      "number": 2,
+      "question": "__________ respiration occurs at the cellular level.",
+      "answer": "Internal",
+      "accepted_answers": [
+        "Internal"
+      ]
+    },
+    {
+      "id": "fib-3",
+      "number": 3,
+      "question": "In the walls of the alveoli, air comes in contact with blood separated only by a thin layer known as the __________ membrane.",
+      "answer": "alveolo-capillary",
+      "accepted_answers": [
+        "alveolo-capillary"
+      ]
+    },
+    {
+      "id": "fib-4",
+      "number": 4,
+      "question": "The __________ lung is divided into two lobes (superior and inferior) by the oblique fissure.",
+      "answer": "left",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "fib-5",
+      "number": 5,
+      "question": "The middle lobe of the right lung is a wedge-shaped part located between the __________ and __________ fissures.",
+      "answer": "oblique; transverse",
+      "accepted_answers": [
+        "oblique; transverse"
+      ]
+    },
+    {
+      "id": "fib-6",
+      "number": 6,
+      "question": "All blood vessels and bronchi enter the lung through a depressed area known as the __________.",
+      "answer": "hilum of the lung",
+      "accepted_answers": [
+        "hilum of the lung"
+      ]
+    },
+    {
+      "id": "fib-7",
+      "number": 7,
+      "question": "The two layers of the pleura are the __________ layer and the __________ layer.",
+      "answer": "visceral; parietal",
+      "accepted_answers": [
+        "visceral; parietal"
+      ]
+    },
+    {
+      "id": "fib-8",
+      "number": 8,
+      "question": "If the pressure inside the pleural cavity becomes positive, the underlying lung would __________.",
+      "answer": "collapse",
+      "accepted_answers": [
+        "collapse"
+      ]
+    },
+    {
+      "id": "fib-9",
+      "number": 9,
+      "question": "The right main bronchus divides into __________ lobar bronchi.",
+      "answer": "three",
+      "accepted_answers": [
+        "three"
+      ]
+    },
+    {
+      "id": "fib-10",
+      "number": 10,
+      "question": "Branches of the __________ distribute blood from the right ventricle to various parts of the lungs for oxygenation.",
+      "answer": "pulmonary artery",
+      "accepted_answers": [
+        "pulmonary artery"
+      ]
+    },
+    {
+      "id": "fib-11",
+      "number": 11,
+      "question": "Respiration is the chemical process of breaking down food particles in cells in the presence of __________ to release energy.",
+      "answer": "O₂ (oxygen)",
+      "accepted_answers": [
+        "O₂ (oxygen)"
+      ]
+    },
+    {
+      "id": "fib-12",
+      "number": 12,
+      "question": "The average Total Lung Capacity (TLC) of an adult is about __________ litres (specifically __________ mL in the lung volumes chart).",
+      "answer": "6; 5800",
+      "accepted_answers": [
+        "6; 5800"
+      ]
+    },
+    {
+      "id": "fib-13",
+      "number": 13,
+      "question": "Inspiratory Reserve Volume (IRV) equals __________ mL, while Expiratory Reserve Volume (ERV) equals __________ mL.",
+      "answer": "3000; 1100",
+      "accepted_answers": [
+        "3000; 1100"
+      ]
+    },
+    {
+      "id": "fib-14",
+      "number": 14,
+      "question": "The normal value of Residual Volume (RV) is __________ mL, and Vital Capacity (VC) is __________ mL.",
+      "answer": "1200; 4600",
+      "accepted_answers": [
+        "1200; 4600"
+      ]
+    },
+    {
+      "id": "fib-15",
+      "number": 15,
+      "question": "Under abnormal lab tests for spirometry indications, hypercapnia is listed as PaCO₂ > __________ mm Hg.",
+      "answer": "42",
+      "accepted_answers": [
+        "42"
+      ]
+    },
+    {
+      "id": "fib-16",
+      "number": 16,
+      "question": "__________ refers to an increase in all blood cells, especially RBCs.",
+      "answer": "Polycythaemia",
+      "accepted_answers": [
+        "Polycythaemia"
+      ]
+    },
+    {
+      "id": "fib-17",
+      "number": 17,
+      "question": "The three categories of lung diseases are obstructive, __________, and mixed.",
+      "answer": "restrictive",
+      "accepted_answers": [
+        "restrictive"
+      ]
+    },
+    {
+      "id": "fib-18",
+      "number": 18,
+      "question": "In restrictive disorders, FVC is low, but the FEV₁/FVC ratio is greater than __________%.",
+      "answer": "80",
+      "accepted_answers": [
+        "80"
+      ]
+    },
+    {
+      "id": "fib-19",
+      "number": 19,
+      "question": "Asthma and __________ are given as examples of obstructive lung diseases.",
+      "answer": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "accepted_answers": [
+        "Chronic Obstructive Pulmonary Disease (COPD)"
+      ]
+    },
+    {
+      "id": "fib-20",
+      "number": 20,
+      "question": "__________ is the accumulation of fluid between the parietal and visceral pleura.",
+      "answer": "Pleural effusion",
+      "accepted_answers": [
+        "Pleural effusion"
+      ]
+    },
+    {
+      "id": "fib-21",
+      "number": 21,
+      "question": "__________ measures changes in volume in different parts of the body and may be done to check for blood clots in the arms and legs.",
+      "answer": "Plethysmography",
+      "accepted_answers": [
+        "Plethysmography"
+      ]
+    },
+    {
+      "id": "fib-22",
+      "number": 22,
+      "question": "The __________ technique is a method of measuring Functional Residual Capacity (FRC) of the lungs.",
+      "answer": "helium dilution",
+      "accepted_answers": [
+        "helium dilution"
+      ]
+    },
+    {
+      "id": "fib-23",
+      "number": 23,
+      "question": "Peak Expiratory Flow Rate (PEFR) measures the maximum flow rate during a __________ manoeuvre.",
+      "answer": "forced vital capacity (FVC)",
+      "accepted_answers": [
+        "forced vital capacity (FVC)"
+      ]
+    },
+    {
+      "id": "fib-24",
+      "number": 24,
+      "question": "The three reasons why one should obtain an arterial blood gas (ABG) are oxygenation, __________, and acid-base status.",
+      "answer": "ventilation",
+      "accepted_answers": [
+        "ventilation"
+      ]
+    },
+    {
+      "id": "fib-25",
+      "number": 25,
+      "question": "Hypercapnia (PaCO₂ > 45 mm Hg) due to hypoventilation results in __________.",
+      "answer": "Respiratory Acidosis",
+      "accepted_answers": [
+        "Respiratory Acidosis"
+      ]
+    }
+  ],
+  "study_questions": [
+    {
+      "id": "study-1",
+      "number": 1,
+      "type": "points",
+      "question": "What are the processes respiration?",
+      "answer": [
+        "Ventilation",
+        "External respiration",
+        "Transportation",
+        "Internal respiration",
+        "Cellular respiration",
+        "Exhalation"
+      ]
+    },
+    {
+      "id": "study-2",
+      "number": 2,
+      "type": "points",
+      "question": "What are the symptoms and signs that indicate spirometry?",
+      "answer": [
+        "Dyspnoea",
+        "Wheezing",
+        "Cough",
+        "Abnormal breath sounds",
+        "Overinflation",
+        "Expiratory slowing",
+        "Cyanosis"
+      ]
+    },
+    {
+      "id": "study-3",
+      "number": 3,
+      "type": "points",
+      "question": "What are the abnormal lab tests that indicate spirometry?",
+      "answer": [
+        "Hypoxemia: PaO2 < 60 mm Hg",
+        "Hypercapnia: PaCO2 > 42 mm Hg",
+        "Polycythaemia: ↑↑ all blood cells (esp. RBCs), Normal R: (4.7–6.1) million cells/ul",
+        "Abnormal chest radiographs (chest X-ray)"
+      ]
+    },
+    {
+      "id": "study-4",
+      "number": 4,
+      "type": "points",
+      "question": "When can spirometry help us?",
+      "answer": [
+        "Diagnosing disease",
+        "Monitoring disease",
+        "Prognosis (diagnosis predication)",
+        "Directing therapy",
+        "Lung Age for prognostication"
+      ]
+    },
+    {
+      "id": "study-5",
+      "number": 5,
+      "type": "points",
+      "question": "Why are the indications of spirometry important?",
+      "answer": [
+        "To assess preoperative risk",
+        "To assess health status before physical activity programs",
+        "To evaluate therapy"
+      ]
+    },
+    {
+      "id": "study-6",
+      "number": 6,
+      "type": "points",
+      "question": "What are the categories of lung diseases?",
+      "answer": [
+        "Obstructive",
+        "Restrictive",
+        "Mixed"
+      ]
+    },
+    {
+      "id": "study-7",
+      "number": 7,
+      "type": "points",
+      "question": "What are the key spirometric parameters?",
+      "answer": [
+        "Forced Expiratory Volume in 1 second (FEV1)",
+        "Forced Vital Capacity (FVC)",
+        "Residual Volume (RV)",
+        "Total Lung Capacity (TLC)"
+      ]
+    },
+    {
+      "id": "study-8",
+      "number": 8,
+      "type": "points",
+      "question": "What are examples of obstructive lung diseases?",
+      "answer": [
+        "Asthma",
+        "Chronic Obstructive Pulmonary Disease (COPD)"
+      ]
+    },
+    {
+      "id": "study-9",
+      "number": 9,
+      "type": "points",
+      "question": "What are the extrinsic restrictive lung disorders?",
+      "answer": [
+        "Neuromuscular Disorders",
+        "Scoliosis, Kyphosis (curves in spine)",
+        "Rib fractures",
+        "Pleural Effusion (accumulation of fluid between parietal and visceral pleura)",
+        "Pregnancy",
+        "Gross Obesity",
+        "Tumours",
+        "Ascites (fluid collects in spaces in abdomen)"
+      ]
+    },
+    {
+      "id": "study-10",
+      "number": 10,
+      "type": "points",
+      "question": "What are the intrinsic restrictive lung disorders?",
+      "answer": [
+        "Pneumonectomy",
+        "Pneumonia",
+        "Lung tumours",
+        "Interstitial lung diseases (→ lung fibrosis)",
+        "Sarcoidosis (small patches of swollen tissue)",
+        "Lung oedema"
+      ]
+    },
+    {
+      "id": "study-11",
+      "number": 11,
+      "type": "points",
+      "question": "How are lung volumes measured?",
+      "answer": [
+        "Spirometry: Tidal volume, Inspiratory reserve volume, Expiratory reserve volume",
+        "Body plethysmography, nitrogen washout, helium dilution technique: Residual volume, Functional residual capacity, Total lung capacity"
+      ]
+    },
+    {
+      "id": "study-12",
+      "number": 12,
+      "type": "points",
+      "question": "What are the three reasons to obtain a blood gas?",
+      "answer": [
+        "Oxygenation",
+        "Ventilation",
+        "Acid-Base Status"
+      ]
+    },
+    {
+      "id": "study-13",
+      "number": 13,
+      "type": "points",
+      "question": "What does a blood gas report include?",
+      "answer": [
+        "Oxygen content (O2CT)",
+        "Balance of acids & bases (pH)",
+        "Partial pressure of carbon dioxide (PaCO2)",
+        "Partial pressure of oxygen (PaO2)",
+        "Bicarbonate (HCO3)",
+        "Oxygen saturation (O2Sat)"
+      ]
+    },
+    {
+      "id": "study-14",
+      "number": 14,
+      "type": "points",
+      "question": "What are the normal ranges in arterial blood gas (ABG)?",
+      "answer": [
+        "O2CT: 15–23% per 100 mL of blood",
+        "pH: 7.35–7.45",
+        "PaCO2: 35–45 mmHg",
+        "PaO2: 80–100 mmHg",
+        "HCO3: 22–26 mEq/L",
+        "O2Sat: 95–100%"
+      ]
+    },
+    {
+      "id": "study-15",
+      "number": 15,
+      "type": "points",
+      "question": "What are the three most important measures in how to measure lung capacity?",
+      "answer": [
+        "FVC",
+        "FEV1 (written as \"FCV1\" in the source)",
+        "FEV1/FVC ratio"
+      ]
+    },
+    {
+      "id": "study-16",
+      "number": 16,
+      "type": "points",
+      "question": "What does a spirogram measure?",
+      "answer": [
+        "Air flow",
+        "Volume"
+      ]
+    },
+    {
+      "id": "study-17",
+      "number": 17,
+      "type": "points",
+      "question": "What are the uses of Peak Expiratory Flow Rate (PEFR)?",
+      "answer": [
+        "Maximum flow rate during forced vital capacity manoeuvre",
+        "Useful to monitor asthma",
+        "Very useful in diagnosing occupational asthma"
+      ]
+    },
+    {
+      "id": "study-18",
+      "number": 18,
+      "type": "points",
+      "question": "What are the lung volumes and capacities?",
+      "answer": [
+        "Tidal Volume (TV) = 500 mL",
+        "Inspiratory Reserve Volume (IRV) = 3000 mL",
+        "Expiratory Reserve Volume (ERV) = 1100 mL",
+        "Residual Volume (RV) = 1200 mL",
+        "Inspiratory Capacity (IC) = 3500 mL",
+        "Functional Residual Capacity (FRC) = 2300 mL",
+        "Vital Capacity (VC) = 4600 mL",
+        "Total Lung Capacity (TLC) = 5800 mL"
+      ]
+    },
+    {
+      "id": "study-19",
+      "number": 19,
+      "type": "points",
+      "question": "What controls breathing?",
+      "answer": [
+        "Breathing is controlled by the autonomic nervous system",
+        "Breathing is controlled subconsciously by the respiratory centre at base of brain",
+        "Important function: supplying O2 to body & balancing CO2 levels"
+      ]
+    },
+    {
+      "id": "study-20",
+      "number": 20,
+      "type": "points",
+      "question": "What is the analysis of ventilation?",
+      "answer": [
+        "Hypercapnia (hypercarbia) > 45 mm Hg (Hypoventilation) → Respiratory Acidosis",
+        "Hypocapnia (Hypocarbia) < 35 mm Hg (Hyperventilation) → Respiratory Alkalosis"
+      ]
+    },
+    {
+      "id": "study-21",
+      "number": 1,
+      "type": "points_with_explanation",
+      "question": "What are the stages of respiration and what happens in each?",
+      "answer": [
+        "Respiration completes in two stages: inspiration & expiration.",
+        "Inspiration",
+        "Process of taking air rich in O2 from atmosphere.",
+        "During inspiration ribs are lifted up & diaphragm flattened, which increases the volume of the thoracic cavity.",
+        "This helps in inhaling O2.",
+        "Expiration",
+        "Process of giving out CO2.",
+        "During expiration, ribs move downward & inward to their original position and the diaphragm moves upward back to its dome shape, which decreases the volume of the thoracic cavity.",
+        "This pumps out CO2 to the atmosphere from the lungs."
+      ]
+    },
+    {
+      "id": "study-22",
+      "number": 2,
+      "type": "points_with_explanation",
+      "question": "What are the lung volumes and capacities, and how are they calculated?",
+      "answer": [
+        "Lung volume (respiration volume): volume of gas in lungs during the respiration cycle.",
+        "TV = 500 mL",
+        "IRV = 3000 mL",
+        "ERV = 1100 mL",
+        "RV = 1200 mL",
+        "IC = 3500 mL",
+        "FRC = 2300 mL",
+        "VC = 4600 mL",
+        "TLC = 5800 mL",
+        "Lung capacities are derived from the sum of different lung volumes. The average total lung capacity of an adult is about 6 litres of air."
+      ]
+    },
+    {
+      "id": "study-23",
+      "number": 3,
+      "type": "points_with_explanation",
+      "question": "What is the difference between obstructive, restrictive, and mixed disorders?",
+      "answer": [
+        "Normal FVC but FEV1/FVC > 80% → RESTRICTIVE",
+        "FEV1/FVC < 70% → OBSTRUCTIVE",
+        "The spirogram measures two components: air flow and volume. If flow is reduced, the defect is obstructive; if volume is reduced, the defect is restrictive (↓↓ in lung volumes)."
+      ],
+      "table": {
+        "headers": [
+          "Measure",
+          "Obstructive Disorders",
+          "Restrictive Disorders",
+          "Mixed Disorders"
+        ],
+        "rows": [
+          [
+            "FEV1/FVC",
+            "↓",
+            "Normal or ↑",
+            "↓"
+          ],
+          [
+            "FEV1",
+            "↓",
+            "Normal ↑ ↓",
+            "↓"
+          ],
+          [
+            "FVC",
+            "Normal or ↓",
+            "↓",
+            "↓"
+          ],
+          [
+            "TLC",
+            "Normal or ↑",
+            "↓",
+            "↓"
+          ],
+          [
+            "RV",
+            "Normal or ↑",
+            "↓",
+            "Normal ↑ ↓"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "study-24",
+      "number": 4,
+      "type": "points_with_explanation",
+      "question": "How are lung volumes measured?",
+      "answer": [
+        "Lung volume measurement is an integral part of the pulmonary function test. It depends on: depth of respiration, ethnicity, gender, age, body composition, and respiratory diseases.",
+        "Spirometry",
+        "Body plethysmography",
+        "Nitrogen washout",
+        "Helium dilution technique",
+        "Plethysmography measures change in volume in different parts of the body; the test may be done to check for blood clots in arms and legs. In nitrogen washout, the patient breathes 100% O2 and breathes out into a spirometer while nitrogen in the expired gas is monitored until all is washed out. The helium dilution technique measures the functional residual capacity (FRC) of the lungs."
+      ]
+    },
+    {
+      "id": "study-25",
+      "number": 5,
+      "type": "points_with_explanation",
+      "question": "What is PEFR and what is it used for?",
+      "answer": [
+        "Peak Expiratory Flow Rate: maximum flow rate during forced vital capacity manoeuvre",
+        "Useful to monitor asthma",
+        "Very useful in diagnosing occupational asthma",
+        "It is measured with a lung capacity trainer (test)."
+      ]
+    },
+    {
+      "id": "study-26",
+      "number": 6,
+      "type": "points_with_explanation",
+      "question": "What is the analysis of ventilation?",
+      "answer": [
+        "Hypercapnia (hypercarbia) > 45 mm Hg (Hypoventilation) → Respiratory Acidosis",
+        "Hypocapnia (Hypocarbia) < 35 mm Hg (Hyperventilation) → Respiratory Alkalosis",
+        "Note: the source gives the Hypercapnia cutoff as PaCO2 > 42 mm Hg in the Spirometry section, and as > 45 mm Hg in the Analysis of ventilation section."
+      ]
+    },
+    {
+      "id": "study-27",
+      "number": 7,
+      "type": "points_with_explanation",
+      "question": "How is breathing controlled?",
+      "answer": [
+        "Breathing usually does not require any thought; it is controlled by the autonomic nervous system.",
+        "Breathing is usually automatic, controlled subconsciously by the respiratory centre at the base of the brain.",
+        "Important function of breathing: supplying O2 to the body & balancing CO2 levels."
+      ]
+    }
+  ]
+}
